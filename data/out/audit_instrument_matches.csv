@@ -1,0 +1,928 @@
+report_date,instrument_id,borrower,prev_report_date,maturity_prev,maturity_now,par_prev,par_now,spread_prev,spread_now,match_cost,match_type
+2021-06-30,ccc information services|First lien|2021-03-31|0,"CCC Information Services, Inc.",2021-03-31,2024-04-29,2024-11-18,4483000.0,6474000.0,3.0,3.0,0.633,similarity
+2021-06-30,drive chassis holdco|Second lien|2021-03-31|0,"Drive Chassis Holdco, LLC",2021-03-31,2026-04-10,2026-04-10,7575000.0,96086000.0,8.25,7.000000000000001,0.855,similarity
+2021-06-30,surgery centers holdings|First lien|2021-03-31|0,"Surgery Centers Holdings, Inc.",2021-03-31,2024-09-03,2026-08-31,17051000.0,24881000.0,3.25,3.75,2.32,unique_successor
+2021-06-30,masergy holdings|First lien|2021-03-31|0,"Masergy Holdings, Inc.",2021-03-31,2023-12-15,2026-12-07,13061000.0,20008000.0,3.25,3.25,3.068,unique_successor
+2021-06-30,dca investment holding|First lien|2021-03-31|0,"DCA Investment Holdings, LLC",2021-03-31,2028-03-12,2027-03-12,33136000.0,33136000.0,6.25,6.25,1.003,similarity
+2021-06-30,ahead db holdings|First lien|2021-03-31|0,"Ahead DB Holdings, LLC",2021-03-31,2027-10-13,2027-10-18,20981000.0,6087000.0,5.0,3.75,0.816,similarity
+2021-06-30,onex tsg intermediate|First lien|2021-03-31|0,Onex TSG Intermediate Corp.,2021-03-31,2028-02-23,2028-02-28,15333000.0,15333000.0,4.75,4.75,0.014,similarity
+2021-06-30,project ruby ultimate parent|First lien|2021-03-31|0,Project Ruby Ultimate Parent Corp.,2021-03-31,2028-02-22,2028-03-03,8612000.0,8590000.0,3.25,3.25,0.028,similarity
+2021-06-30,empire today|First lien|2021-03-31|0,"Empire Today, LLC",2021-03-31,2028-04-20,2028-03-08,100000000.0,100000000.0,5.0,5.0,0.118,similarity
+2021-06-30,realpage|First lien|2021-03-31|0,"RealPage, Inc.",2021-03-31,2028-02-17,2028-04-24,6933000.0,8933000.0,3.75,3.25,0.49,similarity
+2021-06-30,allied universal holdco|First lien|2021-03-31|0,"Allied Universal Holdco, LLC",2021-03-31,2026-07-10,2028-05-12,11468000.0,23564000.0,4.25,3.75,2.219,unique_successor
+2021-06-30,srs distribution|First lien|2021-03-31|0,"SRS Distribution, Inc.",2021-03-31,2025-05-23,2028-06-04,11277000.0,38229000.0,3.0,3.75,3.587,unique_successor
+2021-09-30,livingston international|First lien|2021-03-31|0,"Livingston International, Inc.",2021-06-30,2026-04-30,2027-04-30,22542000.0,105944000.0,5.75,5.5,1.322,similarity
+2021-09-30,berlin packaging|First lien|2021-03-31|0,"Berlin Packaging, LLC",2021-06-30,2025-11-07,2028-03-11,12530000.0,4565000.0,3.0,3.75,2.876,unique_successor
+2021-09-30,cambium learning group|First lien|2021-03-31|0,"Cambium Learning Group, Inc.",2021-06-30,2025-12-18,2028-07-20,19630000.0,1019550000.0,4.5,5.5,3.334,unique_successor
+2021-09-30,mic glen|First lien|2021-06-30|0,"Mic Glen, LLC",2021-06-30,2028-06-23,2028-07-21,4011000.0,4011000.0,6.75,3.5000000000000004,1.077,similarity
+2021-09-30,alterra mountain|First lien|2021-06-30|0,Alterra Mountain Company,2021-06-30,2026-08-01,2028-08-17,4987000.0,4987000.0,3.5000000000000004,3.5000000000000004,2.047,unique_successor
+2021-09-30,pro mach group|First lien|2021-03-31|0,"Pro Mach Group, Inc.",2021-06-30,2025-03-07,2028-08-31,6268000.0,11705000.0,2.75,4.0,4.229,unique_successor
+2021-09-30,mph acquisition holdings|First lien|2021-03-31|0,MPH Acquisition Holdings,2021-06-30,2023-06-07,2028-09-01,17600000.0,13000000.0,2.75,4.25,5.815,unique_successor
+2021-09-30,new arclin us holding|First lien|2021-03-31|0,New Arclin US Holding Corp.,2021-06-30,2026-02-28,2028-09-21,1794000.0,11482000.0,4.0,4.0,2.775,unique_successor
+2021-09-30,ig investments holdings|First lien|2021-03-31|0,"IG Investments Holdings, LLC",2021-06-30,2025-05-23,2028-09-22,22404000.0,575590000.0,3.75,6.0,4.577,unique_successor
+2021-09-30,altice financing s a|First lien|2021-03-31|0,Altice Financing S.A.,2021-06-30,2026-01-31,2029-08-15,1990000.0,1282000.0,2.75,,3.629,unique_successor
+2021-12-31,mobileum|First lien|2021-06-30|0,"Mobileum, Inc.",2021-09-30,2028-06-01,2024-08-12,48623000.0,48574000.0,4.75,4.75,3.806,unique_successor
+2021-12-31,university support services|First lien|2021-06-30|0,"University Support Services, LLC",2021-09-30,2028-06-29,2025-07-17,10000000.0,10000000.0,3.25,3.25,2.953,unique_successor
+2021-12-31,hig orca acquisition holdings|First lien|2021-09-30|0,"HIG Orca Acquisition Holdings, Inc.",2021-09-30,2026-06-30,2027-08-17,97477000.0,100569000.0,6.0,6.0,1.139,similarity
+2021-12-31,corfin holdings|First lien|2021-03-31|0,"Corfin Holdings, Inc.",2021-09-30,2026-02-05,2027-12-27,6636000.0,6619000.0,6.0,6.0,1.891,similarity
+2021-12-31,emerald us|First lien|2021-03-31|0,"Emerald US, Inc.",2021-09-30,2026-07-10,2028-07-12,3970000.0,3929000.0,3.25,3.25,2.011,unique_successor
+2021-12-31,chg healthcare services|First lien|2021-03-31|0,"CHG Healthcare Services, Inc.",2021-09-30,2023-06-07,2028-09-29,7432000.0,8978000.0,3.5000000000000004,3.5000000000000004,5.043,unique_successor
+2021-12-31,guidehouse|First lien|2021-03-31|0,Guidehouse LLP,2021-09-30,2025-05-01,2028-10-16,21413000.0,1210823000.0,4.0,5.5,4.459,unique_successor
+2021-12-31,cpi holdco|First lien|2021-03-31|0,"CPI Holdco, LLC",2021-09-30,2026-11-04,2028-11-01,15132000.0,265496000.0,3.75,5.5,3.105,unique_successor
+2021-12-31,jss holdings|First lien|2021-03-31|0,"JSS Holdings, Inc.",2021-09-30,2027-12-17,2028-12-17,46622000.0,46505000.0,6.25,6.25,1.003,similarity
+2022-03-31,alliant holdings intermediate|First lien|2021-06-30|0,"Alliant Holdings Intermediate, LLC",2021-12-31,2027-10-08,2027-11-06,13351000.0,37084000.0,3.5000000000000004,3.5000000000000004,0.239,similarity
+2022-03-31,cast crew payroll|First lien|2021-12-31|0,"Cast & Crew Payroll, LLC",2021-12-31,2028-12-09,2028-12-29,5000000.0,14017000.0,3.75,3.75,0.216,similarity
+2022-03-31,atlas cc acquisition|First lien|2021-06-30|0,Atlas CC Acquisition Corp.,2021-12-31,2028-04-28,2028-05-25,47568000.0,52436000.0,4.25,4.25,0.097,similarity
+2022-03-31,padagis|First lien|2021-06-30|0,"Padagis, LLC",2021-12-31,2028-06-30,2028-07-06,10371000.0,24371000.0,4.75,4.75,0.16,similarity
+2022-03-31,symphony technology group|First lien|2021-06-30|0,Symphony Technology Group,2021-12-31,2028-05-03,2028-07-27,63186000.0,92047000.0,5.0,5.0,0.311,similarity
+2022-03-31,trident tpi holdings|First lien|2021-06-30|0,"Trident TPI Holdings, Inc.",2021-12-31,2024-10-17,2028-07-29,13886000.0,13873000.0,3.25,3.25,3.784,unique_successor
+2022-03-31,trident tpi holdings|First lien|2021-09-30|0,"Trident TPI Holdings, Inc.",2021-12-31,2028-07-29,2028-09-15,7433000.0,25958000.0,4.0,4.0,0.31,similarity
+2022-03-31,connectwise|First lien|2021-09-30|0,"ConnectWise, LLC",2021-09-30,2028-09-13,2028-09-29,9570000.0,32438000.0,3.5000000000000004,3.5000000000000004,0.22,similarity
+2022-03-31,new arclin us holding|First lien|2021-03-31|0,New Arclin US Holding Corp.,2021-12-31,2028-09-21,2028-10-02,20208000.0,28862000.0,3.75,3.75,0.105,similarity
+2022-03-31,the npd group l p|First lien|2021-12-31|0,The NPD Group L.P.,2021-12-31,2028-12-01,2028-11-09,694734000.0,694734000.0,6.0,6.0,0.06,similarity
+2022-03-31,smile doctors|First lien|2021-12-31|0,"Smile Doctors, LLC",2021-12-31,2028-12-23,2028-12-01,398136000.0,434031000.0,5.75,5.75,0.081,similarity
+2022-03-31,ai altius bidco|First lien|2021-12-31|1,"AI Altius Bidco, Inc.",2021-12-31,2028-12-01,2028-12-13,144577000.0,144577000.0,5.5,5.5,0.033,similarity
+2022-03-31,ai altius bidco|First lien|2021-12-31|0,"AI Altius Bidco, Inc.",2021-12-31,2028-12-01,2029-12-21,21205000.0,21721000.0,,,1.061,similarity
+2022-03-31,university support services|First lien|2021-06-30|0,"University Support Services, LLC",2021-12-31,2025-07-17,2029-02-10,10000000.0,22090000.0,3.25,3.25,3.709,unique_successor
+2022-03-31,gigamon|First lien|2021-03-31|0,Gigamon Inc.,2021-12-31,2024-12-27,2029-03-11,22565000.0,453846000.0,3.75,5.75,5.443,unique_successor
+2022-03-31,celestial saturn parent|Second lien|2021-06-30|0,"Celestial Saturn Parent, Inc.",2021-12-31,2029-04-13,2029-06-04,113488000.0,125488000.0,6.5,6.5,0.166,similarity
+2022-03-31,mic glen|Second lien|2021-06-30|0,"Mic Glen, LLC",2021-12-31,2029-06-22,2029-07-30,19000000.0,19000000.0,6.75,6.75,0.104,similarity
+2022-03-31,ares xxvii clo|structured finance obligations|2021-12-31|0,"Ares XXVII CLO, Ltd.",2021-12-31,2034-10-20,2034-10-28,7000000.0,7000000.0,6.75,6.75,0.022,similarity
+2022-03-31,galaxy xxv clo|structured finance obligations|2021-12-31|0,"Galaxy XXV CLO, Ltd.",2021-12-31,2031-10-25,2035-04-15,4000000.0,3000000.0,5.95,7.000000000000001,4.061,unique_successor
+2022-06-30,corfin holdings|First lien|2021-03-31|0,"Corfin Holdings, Inc.",2022-03-31,2027-12-27,2026-02-05,32494000.0,30735000.0,5.75,5.75,1.904,similarity
+2022-06-30,jss holdings|First lien|2021-03-31|0,"JSS Holdings, Inc.",2022-03-31,2028-12-17,2027-12-17,46468000.0,46272000.0,6.25,6.0,1.129,similarity
+2022-06-30,triton water holdings|First lien|2021-03-31|0,"Triton Water Holdings, Inc.",2022-03-31,2028-03-18,2028-03-31,48014000.0,61202000.0,3.5000000000000004,3.5000000000000004,0.089,similarity
+2022-06-30,dca investment holding|First lien|2021-03-31|0,"DCA Investment Holdings, LLC",2022-03-31,2027-03-12,2028-04-03,45369000.0,41324000.0,6.25,6.25,1.085,similarity
+2022-06-30,mar bidco sarl|First lien|2021-06-30|0,MAR Bidco Sarl,2022-03-31,2028-04-20,2028-07-06,3797000.0,3918000.0,4.25,4.05,0.319,similarity
+2022-06-30,trc companies|First lien|2021-03-31|0,"TRC Companies, Inc.",2022-03-31,2024-06-21,2028-12-08,35778000.0,45664000.0,3.75,3.75,4.523,unique_successor
+2022-06-30,pre paid legal services|First lien|2021-03-31|0,"Pre-Paid Legal Services, Inc.",2022-03-31,2025-05-01,2028-12-15,41516000.0,60383000.0,3.75,3.75,3.706,unique_successor
+2022-06-30,pediatric associates holding|First lien|2022-03-31|0,"Pediatric Associates Holding Co., LLC",2022-03-31,2029-02-07,2028-12-29,5375000.0,9722000.0,3.25,3.25,0.221,similarity
+2022-06-30,athenahealth|First lien|2021-03-31|0,"athenahealth, Inc.",2022-03-31,2026-02-11,2029-02-15,27077000.0,39048000.0,3.5000000000000004,3.5000000000000004,3.09,unique_successor
+2022-09-30,trident tpi holdings|First lien|2021-06-30|0,"Trident TPI Holdings, Inc.",2022-06-30,2028-07-29,2024-10-17,18802000.0,8773000.0,3.25,3.25,3.917,unique_successor
+2022-09-30,selectquote|First lien|2021-03-31|0,"SelectQuote, Inc.",2022-06-30,2024-11-05,2024-11-05,276511000.0,273529000.0,5.0,8.0,1.003,similarity
+2022-09-30,2u|First lien|2021-06-30|0,"2U, Inc.",2022-03-31,2024-11-30,2024-12-30,75976000.0,24010000.0,5.75,5.75,0.253,similarity
+2022-09-30,the cook boardman group|First lien|2021-03-31|0,"The Cook & Boardman Group, LLC",2022-03-31,2025-10-17,2025-10-18,79153000.0,35502000.0,5.75,5.75,0.141,similarity
+2022-09-30,the kenan advantage group|First lien|2021-03-31|0,"The Kenan Advantage Group, Inc.",2022-06-30,2026-03-12,2026-03-24,42639000.0,42524000.0,3.75,3.75,0.034,similarity
+2022-09-30,eg america|First lien|2021-03-31|0,"EG America, LLC",2022-03-31,2026-03-10,2026-03-31,22968000.0,22902000.0,4.25,4.25,0.058,similarity
+2022-09-30,tierpoint|First lien|2021-03-31|0,"TierPoint, LLC",2022-03-31,2026-05-06,2026-05-05,19715000.0,15363000.0,3.75,3.75,0.058,similarity
+2022-09-30,digital media solutions|First lien|2021-06-30|0,"Digital Media Solutions, LLC",2022-03-31,2026-05-24,2026-05-25,29780000.0,29593000.0,5.0,5.0,0.004,similarity
+2022-09-30,cengage learning|First lien|2021-06-30|0,"Cengage Learning, Inc.",2022-03-31,2026-06-29,2026-07-14,18920000.0,18820000.0,4.75,4.75,0.042,similarity
+2022-09-30,sedgwick claims management services|First lien|2021-03-31|0,"Sedgwick Claims Management Services, Inc.",2022-06-30,2025-12-31,2026-09-03,56951000.0,37851000.0,3.75,3.75,0.758,similarity
+2022-09-30,sunshine luxembourg vii s r l|First lien|2021-03-31|0,"Sunshine Luxembourg VII S.à r.l, LLC",2022-06-30,2026-10-02,2026-10-01,57281000.0,57136000.0,3.75,3.75,0.003,similarity
+2022-09-30,gordian medical|First lien|2021-03-31|0,"Gordian Medical, Inc.",2022-06-30,2027-03-29,2027-01-31,52053000.0,51922000.0,6.25,6.25,0.157,similarity
+2022-09-30,gvc holdings gibraltar|First lien|2022-06-30|0,"GVC Holdings Gibraltar, Ltd.",2022-06-30,2027-03-16,2027-03-29,4987000.0,4975000.0,2.25,2.5,0.161,similarity
+2022-09-30,porcelain acquisition|First lien|2021-06-30|0,Porcelain Acquisition Corp.,2022-03-31,2027-04-30,2027-04-01,83553000.0,83149000.0,5.75,5.75,0.081,similarity
+2022-09-30,relativity oda|First lien|2021-06-30|0,"Relativity ODA, LLC",2022-03-31,2027-05-12,2027-05-12,44868000.0,16717000.0,6.5,9.59,1.157,similarity
+2022-09-30,mad engine global|First lien|2021-06-30|0,"Mad Engine Global, LLC",2022-03-31,2027-06-30,2027-07-15,26663000.0,26325000.0,7.000000000000001,7.000000000000001,0.044,similarity
+2022-09-30,lucky bucks|First lien|2021-09-30|0,"Lucky Bucks, LLC",2022-03-31,2027-07-21,2027-07-30,57275000.0,55825000.0,5.5,5.5,0.031,similarity
+2022-09-30,benefytt technologies|First lien|2021-09-30|0,"Benefytt Technologies, Inc.",2022-03-31,2027-08-12,2027-08-12,94348000.0,23064000.0,6.0,7.5,0.939,similarity
+2022-09-30,tutor perini|First lien|2021-03-31|0,Tutor Perini Corp.,2022-06-30,2027-08-13,2027-08-18,2948000.0,2940000.0,4.75,4.75,0.014,similarity
+2022-09-30,refficiency holdings|First lien|2022-03-31|0,"Refficiency Holdings, LLC",2022-06-30,2027-12-31,2027-12-16,29252000.0,29750000.0,3.75,6.0,1.045,similarity
+2022-09-30,unified door hardware group|First lien|2021-03-31|0,"Unified Door & Hardware Group, LLC",2022-06-30,2025-06-30,2027-12-18,53345000.0,53087000.0,5.75,5.75,2.47,unique_successor
+2022-09-30,quantum bidco|First lien|2021-03-31|0,"Quantum Bidco, Ltd.",2022-06-30,2028-02-05,2028-01-29,18500000.0,18500000.0,6.0,6.0,0.019,similarity
+2022-09-30,foundation building materials|First lien|2021-03-31|0,"Foundation Building Materials, Inc.",2022-03-31,2028-02-03,2028-01-31,30515000.0,34316000.0,3.25,3.25,0.036,similarity
+2022-09-30,lew s intermediate holdings|First lien|2021-03-31|0,"Lew's Intermediate Holdings, LLC",2022-03-31,2028-01-26,2028-02-11,31123000.0,25979000.0,5.0,5.0,0.085,similarity
+2022-09-30,rackspace technology global|First lien|2021-03-31|0,Rackspace Technology Global,2021-03-31,2028-02-03,2028-02-15,6474000.0,1189000.0,2.75,2.75,0.237,similarity
+2022-09-30,experity|First lien|2021-09-30|0,"Experity, Inc.",2022-03-31,2027-07-22,2028-02-24,136083000.0,135258000.0,5.75,5.75,0.596,similarity
+2022-09-30,national mentor holdings|First lien|2021-03-31|0,"National Mentor Holdings, Inc.",2022-06-30,2028-02-18,2028-03-02,11814000.0,11626000.0,3.75,3.75,0.04,similarity
+2022-09-30,graham packaging|First lien|2021-06-30|0,"Graham Packaging Co, Inc.",2022-06-30,2027-08-04,2028-03-02,18855000.0,18819000.0,3.0,3.0,0.579,similarity
+2022-09-30,peak utility services group|First lien|2021-03-31|0,"Peak Utility Services Group, Inc.",2022-06-30,2028-02-26,2028-03-02,23562000.0,23477000.0,5.0,5.0,0.015,similarity
+2022-09-30,infinite bidco|First lien|2021-03-31|0,"Infinite Bidco, LLC",2022-06-30,2028-02-24,2028-03-02,42137000.0,42030000.0,3.25,3.25,0.02,similarity
+2022-09-30,idera|First lien|2021-03-31|0,"Idera, Inc.",2022-03-31,2028-02-04,2028-03-02,53335000.0,58022000.0,3.75,3.75,0.094,similarity
+2022-09-30,flexera software|First lien|2021-03-31|0,"Flexera Software, LLC",2022-03-31,2028-01-26,2028-03-03,23363000.0,18116000.0,3.75,3.75,0.158,similarity
+2022-09-30,spin holdco|First lien|2021-03-31|0,Spin Holdco Inc.,2022-06-30,2028-03-01,2028-03-04,22040000.0,23000.0,4.0,4.0,0.258,similarity
+2022-09-30,project ruby ultimate parent|First lien|2021-03-31|0,Project Ruby Ultimate Parent Corp.,2022-06-30,2028-03-03,2028-03-10,8504000.0,8482000.0,3.25,3.25,0.02,similarity
+2022-09-30,s s holdings|First lien|2021-03-31|0,"S&S Holdings, LLC",2022-03-31,2028-03-04,2028-03-11,6478000.0,6445000.0,5.0,5.0,0.02,similarity
+2022-09-30,midwest physician administrative services|First lien|2021-03-31|0,"Midwest Physician Administrative Services, LLC",2022-06-30,2028-03-05,2028-03-12,19280000.0,19231000.0,3.25,3.25,0.02,similarity
+2022-09-30,kodiak bp|First lien|2021-03-31|0,"Kodiak BP, LLC",2022-06-30,2028-02-25,2028-03-12,49052000.0,48933000.0,3.25,3.25,0.044,similarity
+2022-09-30,the fertility partners|First lien|2022-03-31|1,"The Fertility Partners, Inc.",2022-06-30,2029-03-16,2028-03-16,122590000.0,146722000.0,5.75,5.75,1.041,similarity
+2022-09-30,liquid tech solutions holdings|First lien|2021-03-31|0,"Liquid Tech Solutions Holdings, LLC",2022-03-31,2028-03-19,2028-03-20,19239000.0,19181000.0,4.75,4.75,0.003,similarity
+2022-09-30,jones deslauriers insurance management|First lien|2021-03-31|0,"Jones Deslauriers Insurance Management, Inc.",2022-03-31,2028-03-28,2028-03-27,81727000.0,96709000.0,4.25,4.25,0.041,similarity
+2022-09-30,ttf holdings|First lien|2021-03-31|0,"TTF Holdings, LLC",2022-06-30,2028-03-24,2028-03-31,5944000.0,5944000.0,4.25,4.0,0.144,similarity
+2022-09-30,dg investment intermediate holdings 2|First lien|2022-03-31|0,"DG Investment Intermediate Holdings 2, Inc.",2022-06-30,2028-03-17,2028-03-31,23585000.0,27417000.0,3.75,4.25,0.323,similarity
+2022-09-30,dg investment intermediate holdings 2|First lien|2021-03-31|0,"DG Investment Intermediate Holdings 2, Inc.",2022-06-30,2028-03-17,2028-03-31,46413000.0,46296000.0,3.75,3.75,0.039,similarity
+2022-09-30,fcg acquisitions|First lien|2021-03-31|0,"FCG Acquisitions, Inc.",2022-03-31,2028-03-16,2028-03-31,28563000.0,45768000.0,3.75,3.75,0.135,similarity
+2022-09-30,ion trading finance|First lien|2021-03-31|0,ION Trading Finance Ltd.,2022-03-31,2028-03-26,2028-04-03,28251000.0,28080000.0,4.75,4.75,0.023,similarity
+2022-09-30,ait worldwide logistics holdings|First lien|2021-06-30|0,"AIT Worldwide Logistics Holdings, Inc.",2022-03-31,2028-03-31,2028-04-06,51825000.0,46050000.0,4.75,4.75,0.044,similarity
+2022-09-30,edelman financial engines center|First lien|2021-03-31|0,"The Edelman Financial Engines Center, LLC",2022-06-30,2028-03-15,2028-04-07,53159000.0,55525000.0,3.5000000000000004,3.5000000000000004,0.074,similarity
+2022-09-30,radnet|First lien|2021-06-30|0,"Radnet, Inc.",2022-06-30,2028-04-22,2028-04-21,4887000.0,4863000.0,,3.0,0.004,similarity
+2022-09-30,vision solutions|First lien|2021-03-31|0,"Vision Solutions, Inc.",2022-03-31,2028-03-04,2028-04-24,43728000.0,48386000.0,4.0,4.0,0.164,similarity
+2022-09-30,jazz pharmaceuticals|First lien|2021-06-30|0,"Jazz Pharmaceuticals, Inc.",2022-03-31,2028-04-21,2028-05-05,6972000.0,6257000.0,3.5000000000000004,3.5000000000000004,0.064,similarity
+2022-09-30,apttus|First lien|2021-06-30|0,Apttus Corp.,2022-03-31,2028-04-27,2028-05-08,15433000.0,15355000.0,4.25,4.25,0.031,similarity
+2022-09-30,triple lift|First lien|2021-06-30|0,"Triple Lift, Inc.",2022-03-31,2028-05-06,2028-05-08,116657000.0,76165000.0,5.75,5.75,0.092,similarity
+2022-09-30,wheel pros|First lien|2021-06-30|0,"Wheel Pros, Inc.",2022-06-30,2028-04-23,2028-05-11,25776000.0,25711000.0,4.5,4.5,0.05,similarity
+2022-09-30,gi consilio parent|First lien|2021-06-30|0,"GI Consilio Parent, LLC",2022-03-31,2028-04-30,2028-05-12,37876000.0,47592000.0,4.0,4.0,0.084,similarity
+2022-09-30,divisions holding|First lien|2021-06-30|0,Divisions Holding Corp.,2022-06-30,2028-05-29,2028-05-27,23916000.0,23855000.0,4.75,4.75,0.006,similarity
+2022-09-30,srs distribution|First lien|2021-03-31|0,"SRS Distribution, Inc.",2022-03-31,2028-06-04,2028-06-02,57175000.0,66851000.0,3.5000000000000004,3.5000000000000004,0.042,similarity
+2022-09-30,american rock salt|First lien|2021-06-30|0,"American Rock Salt Company, LLC",2022-03-31,2028-06-04,2028-06-09,30779000.0,30612000.0,4.0,4.0,0.015,similarity
+2022-09-30,madison iaq|First lien|2021-06-30|0,"Madison IAQ, LLC",2022-06-30,2028-06-16,2028-06-21,54908000.0,54748000.0,3.25,3.25,0.014,similarity
+2022-09-30,marcone yellowstone buyer|First lien|2021-12-31|0,"Marcone Yellowstone Buyer, Inc.",2022-06-30,2028-12-23,2028-06-23,90217000.0,19649000.0,5.5,5.5,0.697,similarity
+2022-09-30,paya holdings iii|First lien|2021-06-30|0,"Paya Holdings III, LLC",2022-03-31,2028-06-16,2028-06-25,9453000.0,9405000.0,3.25,3.25,0.026,similarity
+2022-09-30,ingram micro|First lien|2021-06-30|0,"Ingram Micro, Inc.",2022-06-30,2028-03-31,2028-06-30,21870000.0,3950000.0,3.5000000000000004,3.5000000000000004,0.454,similarity
+2022-09-30,sabre glbl|First lien|2021-09-30|0,"Sabre GLBL, Inc.",2022-03-31,2027-12-17,2028-06-30,36136000.0,46401000.0,3.5000000000000004,4.25,0.967,similarity
+2022-09-30,tennessee bidco|First lien|2021-09-30|0,Tennessee Bidco Limited,2022-03-31,2028-08-03,2028-07-09,87381000.0,150192000.0,7.28,7.28,0.173,similarity
+2022-09-30,recycle resource us|First lien|2021-09-30|0,"Recycle & Resource US, LLC",2022-06-30,2028-07-08,2028-07-14,5193000.0,5180000.0,3.5000000000000004,3.5000000000000004,0.017,similarity
+2022-09-30,illuminate merger sub|First lien|2021-06-30|0,Illuminate Merger Sub Corp.,2022-06-30,2028-06-30,2028-07-21,30853000.0,30768000.0,3.5000000000000004,3.5000000000000004,0.058,similarity
+2022-09-30,lereta|First lien|2021-09-30|0,"Lereta, LLC",2022-06-30,2028-07-27,2028-07-30,31292000.0,29530000.0,5.25,5.25,0.022,similarity
+2022-09-30,ai aqua merger sub|First lien|2021-06-30|0,"AI Aqua Merger Sub, Inc.",2022-03-31,2028-06-16,2028-07-31,49111000.0,70639000.0,4.0,3.75,0.324,similarity
+2022-09-30,mandolin technology intermediate holdings|First lien|2021-09-30|0,"Mandolin Technology Intermediate Holdings, Inc.",2022-03-31,2028-07-06,2028-07-31,78217000.0,80900000.0,3.75,3.75,0.077,similarity
+2022-09-30,aqgen island holdings|First lien|2021-06-30|0,"Aqgen Island Holdings, Inc.",2022-03-31,2028-05-20,2028-08-02,54874000.0,68561000.0,3.5000000000000004,3.5000000000000004,0.253,similarity
+2022-09-30,sovos compliance|First lien|2021-09-30|0,"Sovos Compliance, LLC",2022-03-31,2028-07-29,2028-08-11,32536000.0,16089000.0,4.5,4.5,0.162,similarity
+2022-09-30,eab global|First lien|2021-06-30|0,"EAB Global, Inc.",2022-06-30,2028-06-28,2028-08-16,26014000.0,25949000.0,3.5000000000000004,3.5000000000000004,0.135,similarity
+2022-09-30,geon performance solutions|First lien|2021-09-30|0,"Geon Performance Solutions, LLC",2022-06-30,2028-08-09,2028-08-18,7352000.0,3662000.0,4.5,4.5,0.15,similarity
+2022-09-30,admi|First lien|2021-06-30|0,ADMI Corp.,2022-06-30,2027-12-23,2028-08-24,49370000.0,49236000.0,3.5000000000000004,3.75,0.797,similarity
+2022-09-30,hyperion materials technologies|First lien|2021-09-30|0,"Hyperion Materials & Technologies, Inc.",2022-06-30,2028-08-28,2028-08-30,25165000.0,25063000.0,4.5,4.5,0.006,similarity
+2022-09-30,thermostat purchaser iii|First lien|2021-09-30|0,"Thermostat Purchaser III, Inc.",2022-06-30,2028-08-24,2028-08-31,42556000.0,43016000.0,4.5,4.5,0.022,similarity
+2022-09-30,international sos the americas|First lien|2021-09-30|0,International SOS The Americas LP,2022-06-30,2028-08-05,2028-09-07,2320000.0,2314000.0,3.75,3.75,0.091,similarity
+2022-09-30,gcx buyer|First lien|2021-09-30|0,"GCX Corporation Buyer, LLC",2022-06-30,2027-09-13,2028-09-13,196515000.0,141346000.0,5.5,5.5,1.073,similarity
+2022-09-30,the gi alliance management|First lien|2022-06-30|0,"The GI Alliance Management, LLC",2022-06-30,2028-08-05,2028-09-15,217785000.0,261760000.0,6.25,6.25,0.154,similarity
+2022-09-30,galway borrower|First lien|2021-09-30|0,"Galway Borrower, LLC",2022-03-31,2028-09-24,2028-09-29,238931000.0,190797000.0,5.25,5.25,0.064,similarity
+2022-09-30,u s anesthesia partners|First lien|2021-09-30|0,"U.S. Anesthesia Partners, Inc.",2022-06-30,2028-09-22,2028-10-01,38823000.0,38763000.0,4.25,4.25,0.025,similarity
+2022-09-30,ascend buyer|First lien|2021-09-30|0,"Ascend Buyer, LLC",2022-06-30,2028-09-30,2028-10-02,76961000.0,18956000.0,5.75,5.75,0.194,similarity
+2022-09-30,pretium pkg holdings|First lien|2021-09-30|0,"Pretium PKG Holdings, Inc.",2022-06-30,2028-08-27,2028-10-02,23769000.0,23710000.0,4.0,4.0,0.099,similarity
+2022-09-30,alera group|First lien|2021-09-30|0,"Alera Group, Inc.",2022-03-31,2028-09-30,2028-10-02,70360000.0,64789000.0,5.5,5.5,0.025,similarity
+2022-09-30,cloudera|First lien|2021-09-30|0,"Cloudera, Inc.",2022-03-31,2028-08-09,2028-10-08,37556000.0,60845000.0,3.75,3.75,0.26,similarity
+2022-09-30,cpi intermediate holdings|First lien|2021-12-31|0,"PGIS Intermediate Holdings, LLC",2022-03-31,2028-10-14,2028-10-16,66321000.0,31919000.0,5.5,5.5,0.135,similarity
+2022-09-30,auris luxembourg iii s r l|First lien|2021-03-31|0,Auris Luxembourg III Sarl,2022-06-30,2026-02-27,2028-10-20,36892000.0,36797000.0,3.75,3.75,2.647,unique_successor
+2022-09-30,mozart borrower|First lien|2021-09-30|0,Mozart Borrower LP,2022-06-30,2028-09-20,2028-10-23,45890000.0,35858000.0,3.25,3.25,0.145,similarity
+2022-09-30,foundation risk partners|First lien|2021-12-31|0,Foundation Risk Partners Corp.,2022-03-31,2028-10-29,2028-10-30,102038000.0,65922000.0,5.75,5.5,0.216,similarity
+2022-09-30,gi ranger intermediate|First lien|2021-12-31|0,"GI Ranger Intermediate, LLC",2022-06-30,2028-10-29,2028-10-30,136121000.0,101518000.0,6.0,6.0,0.066,similarity
+2022-09-30,olympus water us holding|First lien|2021-09-30|0,Olympus Water US Holding Corp.,2022-06-30,2028-09-21,2028-11-09,13789000.0,13769000.0,3.75,3.75,0.135,similarity
+2022-09-30,ensono holdings|First lien|2021-06-30|0,"Ensono Holdings, LLC",2022-03-31,2028-05-19,2028-11-23,45935000.0,34711000.0,4.0,3.75,0.701,similarity
+2022-09-30,superannuation and investments us|First lien|2021-09-30|0,"Superannuation And Investments US, LLC",2022-06-30,2028-09-23,2028-12-01,21310000.0,17539000.0,3.75,3.75,0.233,similarity
+2022-09-30,ai altius bidco|First lien|2021-12-31|0,"AI Altius Bidco, Inc.",2022-03-31,2029-12-21,2028-12-01,21721000.0,22256000.0,,,1.061,similarity
+2022-09-30,vertex aerospace services|First lien|2021-12-31|0,Vertex Aerospace Services Corp.,2022-06-30,2028-10-27,2028-12-06,40284000.0,30208000.0,4.0,3.75,0.297,similarity
+2022-09-30,chg ppc parent|First lien|2021-12-31|0,"CHG PPC Parent, LLC",2022-06-30,2028-11-16,2028-12-08,10314000.0,10288000.0,3.0,3.0,0.061,similarity
+2022-09-30,bp purchaser|First lien|2021-12-31|0,"BP Purchaser, LLC",2022-06-30,2028-12-10,2028-12-11,34713000.0,14304000.0,5.5,5.5,0.15,similarity
+2022-09-30,bettcher industries|First lien|2021-12-31|0,"Bettcher Industries, Inc.",2022-03-31,2028-12-13,2028-12-14,11316000.0,11259000.0,4.0,4.0,0.004,similarity
+2022-09-30,wp citymd bidco|First lien|2021-12-31|0,"WP CityMD Bidco, LLC",2022-06-30,2028-11-18,2028-12-22,27935000.0,27860000.0,3.25,3.25,0.094,similarity
+2022-09-30,smile doctors|First lien|2021-12-31|0,"Smile Doctors, LLC",2022-06-30,2028-12-01,2028-12-23,484920000.0,449679000.0,5.75,5.75,0.078,similarity
+2022-09-30,cop home services topco iv|Second lien|2021-03-31|0,"COP Home Services TopCo IV, Inc.",2022-03-31,2028-12-31,2028-12-29,43277000.0,43277000.0,8.75,8.75,0.005,similarity
+2022-09-30,sharp midco|First lien|2021-12-31|0,"Sharp Midco, LLC",2022-03-31,2028-12-14,2028-12-31,5323000.0,5296000.0,4.0,4.0,0.048,similarity
+2022-09-30,vaco holdings|First lien|2022-03-31|0,"Vaco Holdings, LLC",2022-06-30,2029-01-20,2029-01-21,21375000.0,21268000.0,5.0,5.0,0.004,similarity
+2022-09-30,roadsafe holdings|First lien|2021-06-30|0,"Roadsafe Holdings, Inc.",2022-03-31,2027-10-19,2029-01-31,119069000.0,118712000.0,5.75,5.75,1.288,similarity
+2022-09-30,peraton|Second lien|2021-03-31|0,Peraton Corp.,2022-03-31,2029-02-26,2029-02-01,53508000.0,53508000.0,7.75,7.75,0.068,similarity
+2022-09-30,high street buyer|First lien|2021-06-30|0,"High Street Buyer, Inc.",2022-03-31,2028-04-14,2029-02-02,104315000.0,110078000.0,6.0,6.0,0.819,similarity
+2022-09-30,virtusa|First lien|2021-03-31|0,Virtusa Corp.,2022-03-31,2028-02-11,2029-02-15,39232000.0,42009000.0,3.75,3.75,1.03,similarity
+2022-09-30,dcert buyer|Second lien|2021-03-31|0,"Dcert Buyer, Inc.",2022-03-31,2029-02-16,2029-02-19,60975000.0,60975000.0,7.000000000000001,7.000000000000001,0.008,similarity
+2022-09-30,rinchem|First lien|2022-03-31|0,"Rinchem Company, LLC",2022-06-30,2029-02-02,2029-03-02,4045000.0,4035000.0,4.5,4.5,0.077,similarity
+2022-09-30,idera|Second lien|2021-03-31|0,"Idera, Inc.",2022-03-31,2029-02-04,2029-03-02,30331000.0,30331000.0,6.75,6.75,0.071,similarity
+2022-09-30,kpsky acquisition|First lien|2021-12-31|0,"KPSKY Acquisition, Inc.",2022-06-30,2028-10-19,2029-03-15,204808000.0,101263000.0,5.5,6.25,0.904,similarity
+2022-09-30,dg investment intermediate holdings 2|Second lien|2021-03-31|0,"DG Investment Intermediate Holdings 2, Inc.",2022-03-31,2029-03-18,2029-03-30,29464000.0,29464000.0,6.75,6.75,0.033,similarity
+2022-09-30,scientific games holdings|First lien|2022-03-31|0,Scientific Games Holdings LP,2022-03-31,2029-02-04,2029-04-04,7250000.0,10450000.0,3.5000000000000004,3.5000000000000004,0.238,similarity
+2022-09-30,spx flow|First lien|2022-03-31|0,"SPX Flow, Inc.",2022-03-31,2029-03-16,2029-04-05,50000000.0,54658000.0,4.5,4.5,0.076,similarity
+2022-09-30,virgin pulse|Second lien|2021-03-31|0,"Virgin Pulse, Inc.",2022-03-31,2029-03-30,2029-04-06,29000000.0,27000000.0,7.249999999999999,7.249999999999999,0.036,similarity
+2022-09-30,vision solutions|Second lien|2021-03-31|0,"Vision Solutions, Inc.",2022-03-31,2029-03-04,2029-04-23,126381000.0,88534000.0,7.249999999999999,7.249999999999999,0.212,similarity
+2022-09-30,usic holdings|Second lien|2021-06-30|0,"USIC Holdings, Inc.",2022-03-31,2029-05-07,2029-05-14,8594000.0,8594000.0,6.5,6.5,0.019,similarity
+2022-09-30,mitratech holdings|Second lien|2022-03-31|0,"Mitratech Holdings, Inc.",2022-03-31,2029-04-28,2029-05-18,18000000.0,18000000.0,6.75,6.75,0.055,similarity
+2022-09-30,thevelia us|First lien|2022-03-31|0,"Thevelia US, LLC",2022-03-31,2029-02-09,2029-06-18,34639000.0,34553000.0,4.0,4.0,0.354,similarity
+2022-09-30,em bidco|First lien|2022-06-30|0,EM Bidco Limited,2022-06-30,2029-04-12,2029-07-06,3657000.0,5345000.0,4.25,4.25,0.312,similarity
+2022-09-30,progress residential pm holdings|First lien|2021-03-31|0,"Progress Residential PM Holdings, LLC",2022-03-31,2028-02-16,2029-07-25,70324000.0,85529000.0,6.25,6.25,1.483,similarity
+2022-09-30,symphony technology group|Second lien|2021-06-30|0,Symphony Technology Group,2022-03-31,2029-05-03,2029-07-27,91647000.0,91647000.0,8.25,8.25,0.233,similarity
+2022-09-30,mandolin technology intermediate holdings|Second lien|2021-09-30|0,"Mandolin Technology Intermediate Holdings, Inc.",2022-03-31,2029-07-06,2029-07-30,31900000.0,31950000.0,6.5,6.5,0.066,similarity
+2022-09-30,aqgen island holdings|Second lien|2021-06-30|0,"Aqgen Island Holdings, Inc.",2022-03-31,2029-05-04,2029-08-02,34508000.0,34508000.0,6.5,6.5,0.247,similarity
+2022-09-30,thermostat purchaser iii|Second lien|2021-09-30|0,"Thermostat Purchaser III, Inc.",2022-03-31,2029-08-24,2029-08-31,32725000.0,32725000.0,7.249999999999999,7.249999999999999,0.019,similarity
+2022-09-30,proofpoint|Second lien|2021-06-30|0,"Proofpoint, Inc.",2022-03-31,2029-06-08,2029-08-31,101121000.0,72231000.0,6.25,6.25,0.302,similarity
+2022-09-30,nortonlifelock|First lien|2022-03-31|0,"NortonLifeLock, Inc.",2022-03-31,2029-01-27,2029-09-12,31714000.0,31714000.0,2.0,2.0,0.625,similarity
+2022-09-30,cloudera|Second lien|2021-09-30|0,"Cloudera, Inc.",2022-03-31,2029-08-09,2029-10-08,61697000.0,66697000.0,6.0,6.0,0.183,similarity
+2022-09-30,lscs holdings|Second lien|2021-12-31|0,"LSCS Holdings, Inc.",2022-03-31,2029-11-30,2029-11-23,40000000.0,40000000.0,8.0,8.0,0.019,similarity
+2022-09-30,pre paid legal services|Second lien|2021-12-31|0,"Pre-Paid Legal Services, Inc.",2022-03-31,2029-12-07,2029-12-14,25000000.0,25000000.0,7.000000000000001,7.000000000000001,0.019,similarity
+2022-09-30,icebox holdco iii|Second lien|2021-12-31|0,"Icebox Holdco III, Inc.",2021-12-31,2029-12-16,2029-12-21,22500000.0,14000000.0,6.75,6.75,0.108,similarity
+2022-09-30,hexion holdings|Second lien|2022-03-31|0,Hexion Holdings Corp.,2022-03-31,2030-03-02,2030-03-15,65000000.0,55000000.0,7.000000000000001,7.44,0.294,similarity
+2022-09-30,inovalon holdings|Second lien|2021-12-31|0,"Inovalon Holdings, Inc.",2022-03-31,2033-11-24,2033-11-25,85014000.0,90115000.0,10.5,10.5,0.017,similarity
+2022-09-30,voya clo 2019 4|structured finance obligations|2021-12-31|0,"Voya CLO 2019-4, Ltd.",2022-03-31,2035-01-15,2034-07-19,8250000.0,5000000.0,6.7,6.7,0.592,similarity
+2022-09-30,voya clo 2020 2|structured finance obligations|2021-12-31|0,"Voya CLO 2020-2, Ltd.",2022-03-31,2034-07-19,2035-01-15,5000000.0,8250000.0,6.4,6.7,0.742,similarity
+2022-12-31,loar group|First lien|2021-03-31|0,"Loar Group, Inc.",2022-09-30,2023-10-02,2023-09-29,29249000.0,29120000.0,7.249999999999999,7.249999999999999,0.009,similarity
+2022-12-31,the cook boardman group|First lien|2021-03-31|0,"The Cook & Boardman Group, LLC",2022-09-30,2025-10-18,2025-10-17,35502000.0,35410000.0,5.75,5.75,0.003,similarity
+2022-12-31,the action environmental group|First lien|2022-03-31|0,"The Action Environmental Group, Inc.",2022-09-30,2026-01-16,2026-01-15,8518000.0,4459000.0,6.25,6.15,0.172,similarity
+2022-12-31,auris luxembourg iii s r l|First lien|2021-03-31|0,Auris Luxembourg III Sarl,2022-09-30,2028-10-20,2026-02-27,36797000.0,34532000.0,3.75,3.75,2.662,unique_successor
+2022-12-31,project boost purchaser|First lien|2021-06-30|0,"Project Boost Purchaser, LLC",2022-09-30,2026-06-01,2026-05-30,8425000.0,9924000.0,3.5000000000000004,3.5000000000000004,0.043,similarity
+2022-12-31,project boost purchaser|First lien|2022-09-30|0,"Project Boost Purchaser, LLC",2022-09-30,2029-05-02,2029-05-02,25299000.0,44993000.0,3.5000000000000004,5.25,0.984,similarity
+2022-12-31,polyphase elevator holding|First lien|2022-03-31|0,Polyphase Elevator Holding Co.,2022-09-30,2027-12-21,2027-06-03,19227000.0,15053000.0,5.5,5.5,0.605,similarity
+2022-12-31,graham packaging|First lien|2021-06-30|0,"Graham Packaging Co, Inc.",2022-09-30,2028-03-02,2027-08-04,18819000.0,9081000.0,3.0,3.0,0.707,similarity
+2022-12-31,roadsafe holdings|First lien|2021-06-30|0,"Roadsafe Holdings, Inc.",2022-09-30,2029-01-31,2027-10-19,118712000.0,142790000.0,5.75,5.75,1.33,similarity
+2022-12-31,cfgi holdings|First lien|2021-12-31|0,"CFGI Holdings, LLC",2022-09-30,2027-11-01,2027-11-02,51791000.0,22918000.0,5.0,5.0,0.142,similarity
+2022-12-31,alliant holdings intermediate|First lien|2021-06-30|0,"Alliant Holdings Intermediate, LLC",2022-09-30,2027-11-06,2027-11-05,36931000.0,7935000.0,3.5000000000000004,3.5000000000000004,0.199,similarity
+2022-12-31,refficiency holdings|First lien|2022-03-31|0,"Refficiency Holdings, LLC",2022-09-30,2027-12-16,2027-12-16,29750000.0,13801000.0,6.0,3.75,1.134,similarity
+2022-12-31,admi|First lien|2021-06-30|0,ADMI Corp.,2022-09-30,2028-08-24,2027-12-23,49236000.0,46518000.0,3.75,3.75,0.685,similarity
+2022-12-31,jones deslauriers insurance management|First lien|2021-03-31|0,"Jones Deslauriers Insurance Management, Inc.",2022-09-30,2028-03-27,2028-03-17,96709000.0,69903000.0,4.25,4.25,0.097,similarity
+2022-12-31,high street buyer|First lien|2021-06-30|0,"High Street Buyer, Inc.",2022-09-30,2029-02-02,2028-04-14,110078000.0,127353000.0,6.0,6.0,0.839,similarity
+2022-12-31,barbri holdings|First lien|2021-06-30|0,"Barbri Holdings, Inc.",2022-09-30,2028-04-30,2028-04-28,139969000.0,129071000.0,5.75,5.75,0.025,similarity
+2022-12-31,triple lift|First lien|2021-06-30|0,"Triple Lift, Inc.",2022-09-30,2028-05-08,2028-05-05,76165000.0,75913000.0,5.75,5.5,0.134,similarity
+2022-12-31,tennessee bidco|First lien|2021-09-30|1,Tennessee Bidco Limited,2022-09-30,2028-08-03,2028-07-09,214466000.0,166473000.0,7.000000000000001,7.000000000000001,0.124,similarity
+2022-12-31,galway borrower|First lien|2021-09-30|0,"Galway Borrower, LLC",2022-09-30,2028-09-29,2028-09-30,190797000.0,222069000.0,5.25,5.25,0.038,similarity
+2022-12-31,kpsky acquisition|First lien|2021-12-31|0,"KPSKY Acquisition, Inc.",2022-09-30,2029-03-15,2028-10-19,101263000.0,47442000.0,6.25,5.5,0.911,similarity
+2022-12-31,foundation risk partners|First lien|2021-12-31|0,Foundation Risk Partners Corp.,2022-09-30,2028-10-30,2028-10-29,65922000.0,55681000.0,5.5,6.0,0.292,similarity
+2022-12-31,gi ranger intermediate|First lien|2021-12-31|0,"GI Ranger Intermediate, LLC",2022-09-30,2028-10-30,2028-10-29,101518000.0,99248000.0,6.0,6.0,0.008,similarity
+2022-12-31,the npd group l p|First lien|2021-12-31|0,The NPD Group L.P.,2022-09-30,2028-11-09,2028-12-01,690517000.0,701481000.0,5.75,5.75,0.064,similarity
+2022-12-31,bp purchaser|First lien|2021-12-31|0,"BP Purchaser, LLC",2022-09-30,2028-12-11,2028-12-10,14304000.0,7960000.0,5.5,5.5,0.114,similarity
+2022-12-31,ai altius bidco|First lien|2021-12-31|0,"AI Altius Bidco, Inc.",2022-09-30,2028-12-01,2029-12-29,22256000.0,22256000.0,,,1.077,similarity
+2022-12-31,smile doctors|First lien|2021-12-31|0,"Smile Doctors, LLC",2022-09-30,2028-12-23,2028-12-21,449679000.0,460037000.0,5.75,5.75,0.011,similarity
+2022-12-31,jss holdings|First lien|2021-03-31|0,"JSS Holdings, Inc.",2022-09-30,2027-12-17,2028-12-27,41049000.0,46038000.0,6.0,6.0,1.057,similarity
+2022-12-31,jss holdings|First lien|2021-12-31|0,"JSS Holdings, Inc.",2022-09-30,2028-12-17,2028-12-27,246479000.0,240481000.0,6.0,6.0,0.033,similarity
+2022-12-31,gigamon|First lien|2021-03-31|0,Gigamon Inc.,2022-09-30,2029-03-11,2029-03-09,442371000.0,440154000.0,5.75,5.75,0.007,similarity
+2022-12-31,cfc underwriting|First lien|2022-09-30|0,"CFC Underwriting, Ltd.",2022-09-30,2028-11-30,2029-05-16,138161000.0,138161000.0,5.5,5.0,0.708,similarity
+2022-12-31,magnesium borrowerco|First lien|2022-09-30|0,"Magnesium BorrowerCo, Inc.",2022-09-30,2029-05-18,2029-05-18,103411000.0,103153000.0,2.19,5.75,1.001,similarity
+2022-12-31,forterro uk|First lien|2022-09-30|0,Forterro UK Ltd.,2022-09-30,2029-07-07,2029-07-09,112563000.0,112563000.0,5.5,5.5,0.005,similarity
+2022-12-31,forterro uk|First lien|2022-09-30|1,Forterro UK Ltd.,2022-09-30,2029-07-07,2029-07-09,10674000.0,10674000.0,5.5,5.5,0.005,similarity
+2022-12-31,forterro uk|First lien|2022-09-30|2,Forterro UK Ltd.,2022-09-30,2029-07-07,2029-07-09,42187000.0,42187000.0,5.5,5.5,0.005,similarity
+2022-12-31,barracuda networks|First lien|2022-09-30|0,"Barracuda Networks, Inc.",2022-09-30,2029-07-06,2029-08-15,77133000.0,32103000.0,4.5,4.5,0.256,similarity
+2022-12-31,sailpoint technologies|First lien|2022-09-30|0,"Sailpoint Technologies, Inc.",2022-09-30,2029-08-15,2029-08-16,384906000.0,384906000.0,6.25,6.25,0.003,similarity
+2022-12-31,jupiter bidco|First lien|2022-09-30|0,Jupiter Bidco Limited,2022-09-30,2029-08-05,2029-08-27,5922000.0,5922000.0,6.25,6.25,0.06,similarity
+2022-12-31,jupiter bidco|First lien|2022-09-30|1,Jupiter Bidco Limited,2022-09-30,2029-08-05,2029-08-27,88177000.0,88177000.0,6.25,6.25,0.06,similarity
+2022-12-31,monterey financing s a r l|First lien|2022-09-30|1,"Monterey Financing, S.A.R.L",2022-09-30,2029-09-19,2029-09-28,243186000.0,243186000.0,6.0,6.0,0.025,similarity
+2022-12-31,monterey financing s a r l|First lien|2022-09-30|2,"Monterey Financing, S.A.R.L",2022-09-30,2029-09-19,2029-09-28,599094000.0,599094000.0,6.0,6.0,0.025,similarity
+2022-12-31,monterey financing s a r l|First lien|2022-09-30|0,"Monterey Financing, S.A.R.L",2022-09-30,2029-09-18,2029-09-28,560750000.0,560750000.0,6.0,6.0,0.027,similarity
+2022-12-31,monterey financing s a r l|First lien|2022-09-30|3,"Monterey Financing, S.A.R.L",2022-09-30,2029-09-19,2029-09-28,76519000.0,76519000.0,6.0,6.0,0.025,similarity
+2022-12-31,the chamberlain group|First lien|2022-03-31|0,"The Chamberlain Group, Inc.",2022-09-30,2028-11-03,2029-11-03,48196000.0,45466000.0,3.5000000000000004,3.25,1.139,similarity
+2022-12-31,lscs holdings|Second lien|2021-12-31|0,"LSCS Holdings, Inc.",2022-09-30,2029-11-23,2029-12-17,40000000.0,40000000.0,8.0,8.0,0.066,similarity
+2022-12-31,inovalon holdings|Second lien|2021-12-31|0,"Inovalon Holdings, Inc.",2022-09-30,2033-11-25,2033-11-24,90115000.0,93252000.0,10.5,10.5,0.011,similarity
+2022-12-31,voya clo 2020 2|structured finance obligations|2021-12-31|0,"Voya CLO 2020-2, Ltd.",2022-09-30,2035-01-15,2034-07-19,8250000.0,5000000.0,6.7,6.4,0.742,similarity
+2022-12-31,voya clo 2019 4|structured finance obligations|2021-12-31|0,"Voya CLO 2019-4, Ltd.",2022-09-30,2034-07-19,2035-01-15,5000000.0,8250000.0,6.7,6.7,0.592,similarity
+2023-03-31,unified door hardware group|First lien|2021-03-31|0,"Unified Door & Hardware Group, LLC",2022-12-31,2027-12-18,2025-06-30,52948000.0,52814000.0,5.75,5.75,2.469,unique_successor
+2023-03-31,shoals holdings|First lien|2021-03-31|0,"Shoals Holdings, LLC",2022-12-31,2026-11-25,2026-11-25,11262000.0,11233000.0,3.25,5.75,1.001,similarity
+2023-03-31,2u|First lien|2021-06-30|0,"2U, Inc.",2022-12-31,2024-12-30,2026-12-28,7960000.0,5325000.0,5.75,6.5,2.452,unique_successor
+2023-03-31,relativity oda|First lien|2021-06-30|0,"Relativity ODA, LLC",2022-12-31,2027-05-12,2027-05-12,1165000.0,990000.0,10.55,6.5,1.038,similarity
+2023-03-31,polyphase elevator holding|First lien|2022-03-31|0,Polyphase Elevator Holding Co.,2022-12-31,2027-06-03,2027-06-23,15053000.0,10411000.0,5.5,5.5,0.132,similarity
+2023-03-31,mhe intermediate holdings|First lien|2022-12-31|0,"MHE Intermediate Holdings, LLC",2022-12-31,2024-04-07,2027-07-21,1201000.0,1190000.0,6.0,6.0,3.29,unique_successor
+2023-03-31,mhe intermediate holdings|First lien|2022-12-31|1,"MHE Intermediate Holdings, LLC",2022-12-31,2025-12-09,2027-07-21,1284000.0,2476000.0,6.25,6.25,1.734,similarity
+2023-03-31,material holding|First lien|2022-09-30|0,"Material Holdings, LLC",2022-09-30,2027-08-19,2027-08-17,15267000.0,13989000.0,5.75,5.81,0.056,similarity
+2023-03-31,galway borrower|First lien|2022-09-30|0,"Galway Borrower, LLC",2022-09-30,2028-09-29,2027-09-30,31907000.0,4089000.0,5.25,5.25,1.218,similarity
+2023-03-31,galway borrower|First lien|2021-09-30|0,"Galway Borrower, LLC",2022-12-31,2028-09-30,2028-09-29,222069000.0,221263000.0,5.25,5.25,0.004,similarity
+2023-03-31,alliant holdings intermediate|First lien|2021-06-30|0,"Alliant Holdings Intermediate, LLC",2022-12-31,2027-11-05,2027-11-06,7935000.0,4515000.0,3.5000000000000004,3.5000000000000004,0.11,similarity
+2023-03-31,us oral surgery management holdco|First lien|2022-12-31|0,"US Oral Surgery Management Holdco, LLC",2022-12-31,2023-11-18,2027-11-18,39604000.0,54163000.0,4.5,6.0,4.82,unique_successor
+2023-03-31,kwol acquisition|First lien|2021-12-31|0,"Kwor Acquisition, Inc.",2022-09-30,2028-12-22,2027-12-22,25415000.0,5518000.0,5.25,6.05,1.598,similarity
+2023-03-31,smile doctors|First lien|2021-12-31|0,"Smile Doctors, LLC",2022-12-31,2028-12-21,2028-12-23,460037000.0,363277000.0,5.75,5.75,0.058,similarity
+2023-03-31,sedgwick claims management services|First lien|2021-03-31|0,"Sedgwick Claims Management Services, Inc.",2022-12-31,2026-09-03,2028-02-24,2851000.0,5251000.0,3.75,3.75,1.591,similarity
+2023-03-31,barbri holdings|First lien|2022-06-30|0,"Barbri Holdings, Inc.",2022-06-30,2028-04-28,2028-04-30,45694000.0,30256000.0,5.75,5.75,0.09,similarity
+2023-03-31,turing holdco|First lien|2022-12-31|0,"Turing Holdco, Inc.",2022-12-31,2028-08-03,2028-09-28,8284000.0,12655000.0,6.0,6.0,0.24,similarity
+2023-03-31,turing holdco|First lien|2021-12-31|0,"Turing Holdco, Inc.",2022-12-31,2028-08-03,2028-09-28,16320000.0,16320000.0,6.0,6.0,0.153,similarity
+2023-03-31,numericable us|First lien|2022-06-30|0,"Numericable US, LLC",2022-09-30,2029-07-15,2028-08-15,1000000.0,22751000.0,5.13,5.5,1.339,similarity
+2023-03-31,ascend buyer|First lien|2021-09-30|0,"Ascend Buyer, LLC",2022-12-31,2028-10-02,2028-09-29,11530000.0,11501000.0,6.25,6.4,0.084,similarity
+2023-03-31,the chamberlain group|First lien|2022-03-31|0,"The Chamberlain Group, Inc.",2022-12-31,2029-11-03,2028-11-03,45466000.0,25408000.0,3.25,3.25,1.11,similarity
+2023-03-31,zendesk|First lien|2022-12-31|0,Zendesk Inc,2022-12-31,2028-11-22,2028-11-30,912838000.0,912838000.0,6.5,6.5,0.022,similarity
+2023-03-31,jss holdings|First lien|2021-12-31|0,"JSS Holdings, Inc.",2022-12-31,2028-12-27,2028-12-17,240481000.0,239860000.0,6.0,6.0,0.028,similarity
+2023-03-31,jss holdings|First lien|2021-03-31|0,"JSS Holdings, Inc.",2022-12-31,2028-12-27,2028-12-18,46038000.0,45921000.0,6.0,6.0,0.025,similarity
+2023-03-31,ccblue bidco|First lien|2021-12-31|0,"CCBlue Bidco, Inc.",2022-12-31,2028-12-21,2028-12-21,499035000.0,477163000.0,6.25,3.5000000000000004,1.011,similarity
+2023-03-31,ai altius bidco|First lien|2021-12-31|0,"AI Altius Bidco, Inc.",2022-12-31,2029-12-29,2028-12-21,22256000.0,23359000.0,,9.75,1.034,similarity
+2023-03-31,ai altius bidco|First lien|2021-12-31|1,"AI Altius Bidco, Inc.",2022-12-31,2028-12-13,2028-12-21,106023000.0,106023000.0,5.5,5.5,0.022,similarity
+2023-06-30,jacuzzi brands|First lien|2022-09-30|0,"Jacuzzi Brands, LLC",2023-03-31,2030-04-21,2027-02-25,204288000.0,203425000.0,6.0,6.0,3.154,unique_successor
+2023-06-30,inmar|First lien|2021-06-30|0,"Inmar, Inc.",2023-03-31,2024-05-01,2026-05-01,29902000.0,29902000.0,4.0,5.5,2.75,unique_successor
+2023-06-30,edifecs|First lien|2023-03-31|0,"Edifecs, Inc.",2023-03-31,2027-12-16,2026-09-21,51737000.0,51606000.0,5.5,5.5,1.236,similarity
+2023-06-30,epoch acquisition|First lien|2021-03-31|0,"Epoch Acquisition, Inc.",2023-03-31,2024-10-04,2026-10-04,29042000.0,28941000.0,6.0,6.0,2.001,unique_successor
+2023-06-30,sunshine cadence holdco|First lien|2022-12-31|0,"Sunshine Cadence Holdco, LLC",2023-03-31,2027-03-23,2027-03-23,700000.0,700000.0,6.5,3.75,1.0,similarity
+2023-06-30,sam holding|First lien|2023-03-31|0,"Sam Holding Co, Inc.",2023-03-31,2027-03-24,2027-03-24,10320000.0,1440000.0,7.5,4.0,1.215,similarity
+2023-06-30,benefytt technologies|First lien|2022-09-30|0,"Benefytt Technologies, Inc.",2023-03-31,2027-08-12,2027-08-12,23929000.0,23929000.0,8.75,10.75,1.0,similarity
+2023-06-30,benefytt technologies|First lien|2021-09-30|0,"Benefytt Technologies, Inc.",2023-03-31,2027-08-12,2027-08-12,96709000.0,98483000.0,7.75,10.75,1.005,similarity
+2023-06-30,l s mechanical acquisition|First lien|2021-09-30|0,"L&S Mechanical Acquisition, LLC",2023-03-31,2027-09-01,2027-09-01,113356000.0,112573000.0,5.75,7.75,1.002,similarity
+2023-06-30,monk holding|First lien|2023-03-31|0,Monk Holding Co.,2023-03-31,2028-11-24,2027-12-01,3588000.0,3579000.0,5.5,5.5,0.984,similarity
+2023-06-30,circana group l p|First lien|2023-03-31|0,"Circana Group, L.P.",2023-03-31,2027-12-01,2027-12-01,14687000.0,8393000.0,6.18,4.75,0.822,similarity
+2023-06-30,kwol acquisition|First lien|2021-12-31|0,"Kwor Acquisition, Inc.",2023-03-31,2027-12-22,2027-12-22,5518000.0,6707000.0,6.05,4.25,0.944,similarity
+2023-06-30,lytx|First lien|2021-03-31|0,"Lytx, Inc.",2023-03-31,2026-02-28,2028-02-28,45893000.0,45893000.0,6.75,6.75,2.0,similarity
+2023-06-30,eg america|First lien|2021-03-31|0,"EG America, LLC",2023-03-31,2026-03-31,2028-02-28,14895000.0,46999000.0,4.25,5.5,2.711,unique_successor
+2023-06-30,beeline|First lien|2023-03-31|0,"Beeline, LLC",2023-03-31,2029-05-02,2028-05-02,692000.0,924000.0,5.25,5.25,1.063,similarity
+2023-06-30,mandolin technology intermediate holdings|First lien|2023-03-31|0,"Mandolin Technology Intermediate Holdings, Inc.",2023-03-31,2026-07-30,2030-06-09,10800000.0,63000000.0,3.75,6.25,5.07,unique_successor
+2023-06-30,proofpoint|First lien|2022-03-31|0,"Proofpoint, Inc.",2023-03-31,2028-08-31,2028-08-31,902000.0,900000.0,3.25,6.25,1.001,similarity
+2023-06-30,ascend buyer|First lien|2021-09-30|0,"Ascend Buyer, LLC",2023-03-31,2028-09-29,2028-10-02,11501000.0,11473000.0,6.4,6.4,0.009,similarity
+2023-06-30,ai altius bidco|First lien|2021-12-31|0,"AI Altius Bidco, Inc.",2023-03-31,2028-12-21,2029-12-21,23359000.0,24510000.0,9.75,9.75,1.012,similarity
+2023-06-30,ccblue bidco|First lien|2021-12-31|0,"CCBlue Bidco, Inc.",2023-03-31,2028-12-21,2028-12-21,477163000.0,503675000.0,3.5000000000000004,6.25,1.013,similarity
+2023-06-30,chart industries|First lien|2023-03-31|0,"Chart Industries, Inc.",2023-03-31,2029-12-07,2030-03-15,6000000.0,5985000.0,3.75,3.75,0.269,similarity
+2023-09-30,loar group|First lien|2021-03-31|0,"Loar Group, Inc.",2023-06-30,2023-09-29,2025-10-16,28956000.0,28843000.0,7.249999999999999,7.249999999999999,2.05,unique_successor
+2023-09-30,mccarthy stone|First lien|2021-06-30|0,McCarthy & Stone PLC,2023-06-30,2025-12-16,2026-02-02,20000000.0,20000000.0,7.000000000000001,7.000000000000001,0.132,similarity
+2023-09-30,sunshine cadence holdco|First lien|2022-12-31|0,"Sunshine Cadence Holdco, LLC",2023-06-30,2027-03-23,2027-03-23,700000.0,800000.0,3.75,6.5,1.031,similarity
+2023-09-30,hig orca acquisition holdings|First lien|2023-03-31|0,"HIG Orca Acquisition Holdings, Inc.",2023-06-30,2027-08-12,2027-08-17,8861000.0,8840000.0,6.0,6.0,0.014,similarity
+2023-09-30,material holding|First lien|2022-09-30|0,"Material Holdings, LLC",2023-03-31,2027-08-17,2027-08-19,13989000.0,5087000.0,5.81,6.0,0.26,similarity
+2023-09-30,the fertility partners|First lien|2022-06-30|0,"The Fertility Partners, Inc.",2023-03-31,2029-03-16,2028-03-16,7722000.0,7645000.0,5.75,4.75,1.502,similarity
+2023-09-30,sam holding|First lien|2023-03-31|0,"Sam Holding Co, Inc.",2023-06-30,2027-03-24,2027-09-24,1440000.0,65200000.0,4.0,5.0,1.249,similarity
+2023-09-30,advisor group holdings|First lien|2021-03-31|0,"Advisor Group Holdings, Inc.",2023-06-30,2026-07-31,2028-08-17,5638000.0,7138000.0,4.5,4.5,2.102,unique_successor
+2023-09-30,access cig|First lien|2021-03-31|0,"Access CIG, LLC",2023-06-30,2025-02-27,2028-08-18,20167000.0,29401000.0,3.75,5.0,4.177,unique_successor
+2023-09-30,proofpoint|First lien|2022-03-31|0,"Proofpoint, Inc.",2023-06-30,2028-08-31,2028-08-31,900000.0,897000.0,6.25,3.25,1.001,similarity
+2023-09-30,amerilife holdings|First lien|2023-06-30|0,Amerilife Holdings LLC,2023-06-30,2029-08-31,2028-08-31,8119000.0,8119000.0,4.75,5.75,1.5,similarity
+2023-09-30,governmentjobs com|First lien|2023-06-30|0,"GovernmentJobs.com, Inc.",2023-06-30,2027-12-02,2028-12-01,7411000.0,7512000.0,5.5,5.5,1.003,similarity
+2023-09-30,chart industries|First lien|2023-03-31|0,"Chart Industries, Inc.",2023-06-30,2030-03-15,2030-03-16,5985000.0,5970000.0,3.75,3.75,0.003,similarity
+2023-09-30,windsor holdings iii|First lien|2023-06-30|0,"Windsor Holdings III, LLC",2023-06-30,2030-06-21,2030-08-01,5000000.0,8970000.0,4.5,4.5,0.223,similarity
+2023-12-31,selectquote|First lien|2021-03-31|0,"SelectQuote, Inc.",2023-09-30,2024-11-05,2024-11-05,272458000.0,271178000.0,8.0,9.5,0.751,similarity
+2023-12-31,integrity marketing acquisition|First lien|2021-09-30|0,"Integrity Marketing Acquisition, LLC",2023-09-30,2025-08-27,2026-08-27,72169000.0,71988000.0,6.02,6.02,1.001,similarity
+2023-12-31,digital media solutions|First lien|2021-06-30|0,"Digital Media Solutions, LLC",2023-09-30,2026-05-25,2026-05-25,29293000.0,32355000.0,5.0,11.0,1.024,similarity
+2023-12-31,edifecs|First lien|2021-03-31|0,"Edifecs, Inc.",2023-09-30,2026-09-21,2028-11-20,29135000.0,204436000.0,7.000000000000001,5.75,3.006,unique_successor
+2023-12-31,mri software|First lien|2021-03-31|0,"MRI Software, LLC",2023-09-30,2026-02-10,2027-02-10,26140000.0,48299000.0,5.5,5.5,1.115,similarity
+2023-12-31,resolute investment managers|First lien|2022-03-31|0,"Resolute Investment Managers, Inc.",2023-09-30,2024-04-30,2027-04-30,5988000.0,3923000.0,4.25,6.5,4.086,unique_successor
+2023-12-31,frontline road safety|First lien|2023-03-31|0,"Frontline Road Safety, LLC",2023-03-31,2027-04-30,2027-05-03,12436000.0,22446000.0,5.75,5.75,0.12,similarity
+2023-12-31,adcs clinics intermediate holdings|First lien|2023-09-30|0,"ADCS Clinics Intermediate Holdings, LLC",2023-09-30,2026-05-07,2027-05-07,669000.0,252000.0,6.5,6.25,1.281,similarity
+2023-12-31,aci group holdings|First lien|2023-03-31|0,"ACI Group Holdings, Inc.",2023-03-31,2028-08-02,2027-08-02,30555000.0,3222000.0,4.5,5.5,1.726,similarity
+2023-12-31,l s mechanical acquisition|First lien|2021-09-30|0,"L&S Mechanical Acquisition, LLC",2023-09-30,2027-09-01,2027-09-01,113313000.0,113142000.0,7.75,6.25,0.75,similarity
+2023-12-31,java buyer|First lien|2023-03-31|0,"Java Buyer, Inc.",2023-09-30,2027-12-15,2029-11-09,48952000.0,12109000.0,5.75,5.75,2.092,unique_successor
+2023-12-31,eg america|First lien|2021-03-31|0,"EG America, LLC",2023-06-30,2028-02-28,2028-02-07,46999000.0,22893000.0,5.5,5.5,0.186,similarity
+2023-12-31,specialtycare|First lien|2023-09-30|0,"SpecialtyCare, Inc.",2023-09-30,2028-06-18,2028-06-18,589000.0,831000.0,5.75,4.0,0.948,similarity
+2023-12-31,turing holdco|First lien|2022-12-31|1,"Turing Holdco, Inc.",2023-09-30,2028-08-03,2028-10-16,7829000.0,6461000.0,6.0,6.0,0.246,similarity
+2023-12-31,proampac pg borrower|First lien|2021-03-31|0,"ProAmpac PG Borrower, LLC",2023-09-30,2025-11-03,2028-09-15,16363000.0,16355000.0,3.75,4.5,3.244,unique_successor
+2023-12-31,boxer parent|First lien|2021-03-31|0,"Boxer Parent Company, Inc.",2023-09-30,2025-10-02,2028-12-29,14755000.0,14755000.0,3.75,4.25,3.494,unique_successor
+2023-12-31,alku|First lien|2021-03-31|0,"ALKU, LLC",2023-09-30,2028-03-01,2029-05-23,55548000.0,55406000.0,6.25,6.25,1.228,similarity
+2023-12-31,kaseya|First lien|2023-09-30|0,"Kaseya, Inc.",2023-09-30,2029-06-25,2029-06-25,12265000.0,12317000.0,3.75,5.5,0.876,similarity
+2023-12-31,riser merger sub|First lien|2022-09-30|0,"Riser Merger Sub, Inc.",2023-09-30,2028-08-01,2029-10-31,13580000.0,9291000.0,5.88,6.0,1.388,similarity
+2023-12-31,riser merger sub|First lien|2022-09-30|1,"Riser Merger Sub, Inc.",2023-09-30,2028-08-01,2029-10-31,207017000.0,91805000.0,5.88,6.0,1.448,similarity
+2023-12-31,project alpha intermediate holding|First lien|2021-03-31|0,"Project Alpha Intermediate Holding, Inc.",2023-09-30,2024-04-26,2030-10-28,14166000.0,71388000.0,4.0,4.75,5.575,unique_successor
+2023-12-31,alliant holdings intermediate|First lien|2021-06-30|0,"Alliant Holdings Intermediate, LLC",2023-09-30,2027-11-06,2030-11-06,4492000.0,3681000.0,3.5000000000000004,3.5000000000000004,3.048,unique_successor
+2023-12-31,surgery centers holdings|First lien|2021-03-31|0,"Surgery Centers Holdings, Inc.",2023-09-30,2026-08-31,2030-12-19,9435000.0,5687000.0,3.75,3.5000000000000004,4.528,unique_successor
+2023-12-31,symphony clo 34 ps|structured finance obligations|2022-09-30|0,Symphony CLO 34-PS Ltd.,2023-09-30,2034-07-24,2036-07-24,4000000.0,4000000.0,7.5600000000000005,8.15,2.298,unique_successor
+2024-03-31,selectquote|First lien|2021-03-31|0,"SelectQuote, Inc.",2023-12-31,2024-11-05,2025-02-15,271178000.0,267986000.0,9.5,9.5,0.282,similarity
+2024-03-31,lindstrom|First lien|2021-03-31|0,"Lindstrom, LLC",2023-12-31,2025-04-07,2026-04-01,148455000.0,147986000.0,6.25,6.25,0.984,similarity
+2024-03-31,loar group|First lien|2021-03-31|0,"Loar Group, Inc.",2023-12-31,2025-10-16,2026-04-02,28773000.0,58944000.0,7.249999999999999,7.249999999999999,0.588,similarity
+2024-03-31,loar group|First lien|2023-06-30|0,"Loar Group, Inc.",2023-12-31,2024-04-01,2026-04-02,52535000.0,61476000.0,7.249999999999999,7.249999999999999,2.039,unique_successor
+2024-03-31,loar group|First lien|2022-09-30|0,"Loar Group, Inc.",2023-12-31,2024-10-02,2026-04-02,142825000.0,142463000.0,7.249999999999999,7.249999999999999,1.499,similarity
+2024-03-31,integrity marketing acquisition|First lien|2023-03-31|0,"Integrity Marketing Acquisition, LLC",2023-12-31,2025-08-27,2026-08-27,2316000.0,2310000.0,6.03,6.03,1.001,similarity
+2024-03-31,integrity marketing acquisition|First lien|2023-06-30|0,"Integrity Marketing Acquisition, LLC",2023-12-31,2025-08-27,2026-08-27,4101000.0,4091000.0,6.0,6.0,1.001,similarity
+2024-03-31,integrity marketing acquisition|First lien|2021-03-31|0,"Integrity Marketing Acquisition, LLC",2023-12-31,2025-08-27,2026-08-27,79956000.0,79754000.0,6.05,6.05,1.001,similarity
+2024-03-31,integrity marketing acquisition|First lien|2022-12-31|0,"Integrity Marketing Acquisition, LLC",2023-12-31,2025-08-27,2026-08-27,96836000.0,96594000.0,6.02,6.02,1.001,similarity
+2024-03-31,odyssey holding|First lien|2023-03-31|1,"Odyssey Holding Company, LLC",2023-06-30,2025-11-16,2026-11-16,9357000.0,13567000.0,5.75,5.75,1.078,similarity
+2024-03-31,odyssey holding|First lien|2021-03-31|0,"Odyssey Holding Company, LLC",2023-12-31,2025-11-16,2026-11-16,59439000.0,50082000.0,5.75,5.75,1.039,similarity
+2024-03-31,jacuzzi brands|First lien|2023-03-31|0,"Jacuzzi Brands, LLC",2023-12-31,2025-02-25,2027-02-25,6319000.0,6319000.0,6.0,6.0,2.0,similarity
+2024-03-31,jacuzzi brands|First lien|2021-03-31|0,"Jacuzzi Brands, LLC",2023-12-31,2025-02-25,2027-02-25,43474000.0,43474000.0,6.0,6.0,2.0,similarity
+2024-03-31,ascend buyer|First lien|2023-12-31|0,"Ascend Buyer, LLC",2023-12-31,2028-10-02,2027-09-30,2587000.0,2587000.0,6.25,6.25,1.008,similarity
+2024-03-31,ascend buyer|First lien|2021-09-30|0,"Ascend Buyer, LLC",2023-12-31,2028-10-02,2028-09-30,11415000.0,11386000.0,6.25,6.4,0.081,similarity
+2024-03-31,roadsafe holdings|First lien|2023-06-30|0,"Roadsafe Holdings, Inc.",2023-12-31,2029-01-31,2027-10-19,76822000.0,76713000.0,5.75,5.75,1.288,similarity
+2024-03-31,corfin holdings|First lien|2023-06-30|0,"Corfin Holdings, Inc.",2023-12-31,2027-12-27,2027-12-31,25374000.0,32721000.0,6.0,6.0,0.067,similarity
+2024-03-31,redwood services group|First lien|2023-09-30|0,"Redwood Services Group, LLC",2023-09-30,2029-06-15,2028-06-15,949000.0,405000.0,6.25,5.75,1.393,similarity
+2024-03-31,galway borrower|First lien|2022-09-30|0,"Galway Borrower, LLC",2023-03-31,2027-09-30,2028-09-29,4089000.0,3084000.0,5.25,5.25,1.061,similarity
+2024-03-31,the kenan advantage group|First lien|2021-03-31|0,"The Kenan Advantage Group, Inc.",2023-12-31,2026-03-24,2029-01-25,13048000.0,13048000.0,3.8600000000000003,3.75,2.899,unique_successor
+2024-03-31,auris luxembourg iii s r l|First lien|2021-03-31|0,Auris Luxembourg III S.à r.l.,2023-12-31,2026-02-27,2029-02-28,9975000.0,8878000.0,3.75,4.25,3.283,unique_successor
+2024-03-31,alku|First lien|2022-09-30|0,"ALKU, LLC",2023-03-31,2028-03-01,2029-05-23,78409000.0,5000000.0,5.0,5.5,1.711,similarity
+2024-03-31,waystar technologies|First lien|2021-03-31|0,"Waystar Technologies, Inc.",2023-12-31,2026-10-22,2029-10-22,12289000.0,12280000.0,4.0,4.0,3.003,unique_successor
+2024-03-31,bradyifs holdings|First lien|2023-12-31|0,"BradyIFS Holdings, LLC",2023-12-31,2025-10-31,2029-10-31,5517000.0,5503000.0,6.0,6.0,4.003,unique_successor
+2024-03-31,motion finco|First lien|2021-06-30|0,"Motion Finco, LLC",2023-12-31,2026-11-12,2029-11-12,3686000.0,9936000.0,3.25,3.5000000000000004,3.285,unique_successor
+2024-03-31,eci macola max holding|First lien|2021-03-31|0,"ECI Macola Max Holding, LLC",2023-12-31,2027-11-09,2030-05-09,11888000.0,11857000.0,3.75,3.75,2.499,unique_successor
+2024-03-31,guidehouse|First lien|2021-03-31|0,"Guidehouse, Inc.",2023-12-31,2028-10-16,2030-12-16,1225688000.0,1231944000.0,5.75,5.75,2.168,unique_successor
+2024-03-31,phoenix guarantor|First lien|2021-03-31|2,"Phoenix Guarantor, Inc.",2023-12-31,2026-03-05,2031-02-21,7784000.0,5000000.0,3.5000000000000004,3.25,5.184,unique_successor
+2024-03-31,air canada|First lien|2021-09-30|0,Air Canada,2023-12-31,2028-08-11,2031-03-14,12626000.0,6339000.0,3.5000000000000004,2.5,3.214,unique_successor
+2024-03-31,park place technologies|First lien|2021-03-31|0,"Park Place Technologies, LLC",2023-12-31,2027-11-10,2031-03-25,788000.0,561453000.0,5.0,5.25,3.747,unique_successor
+2024-06-30,selectquote|First lien|2021-03-31|0,"SelectQuote, Inc.",2024-03-31,2025-02-15,2025-05-15,267986000.0,266757000.0,9.5,9.5,0.245,similarity
+2024-06-30,lindstrom|First lien|2021-03-31|0,"Lindstrom, LLC",2024-03-31,2026-04-01,2026-05-01,147986000.0,147517000.0,6.25,6.25,0.083,similarity
+2024-06-30,adcs clinics intermediate holdings|First lien|2024-03-31|0,"ADCS Clinics Intermediate Holdings, LLC",2024-03-31,2027-05-07,2026-05-07,1059000.0,892000.0,6.25,6.25,1.039,similarity
+2024-06-30,atlas cc acquisition|First lien|2023-03-31|0,Atlas CC Acquisition Corp.,2024-03-31,2028-05-25,2026-05-26,6337000.0,6419000.0,4.0,4.0,2.003,unique_successor
+2024-06-30,mri software|First lien|2022-09-30|0,"MRI Software, LLC",2023-03-31,2026-02-10,2027-02-10,2383000.0,6851000.0,5.5,5.75,1.288,similarity
+2024-06-30,gcx buyer|First lien|2022-09-30|0,"GCX Corporation Buyer, LLC",2024-03-31,2028-09-13,2027-09-13,48880000.0,48758000.0,5.5,5.5,1.003,similarity
+2024-06-30,gcx buyer|First lien|2021-09-30|0,"GCX Corporation Buyer, LLC",2024-03-31,2028-09-13,2027-09-13,193050000.0,192555000.0,5.5,5.5,1.003,similarity
+2024-06-30,java buyer|First lien|2023-03-31|0,"Java Buyer, Inc.",2024-03-31,2029-11-09,2027-12-15,12079000.0,12049000.0,5.75,5.75,1.905,similarity
+2024-06-30,lytx|First lien|2021-03-31|0,"Lytx, Inc.",2024-03-31,2028-02-28,2028-02-28,45893000.0,75139000.0,6.75,5.0,0.972,similarity
+2024-06-30,ion trading finance|First lien|2021-03-31|0,ION Trading Finance Ltd.,2024-03-31,2028-04-03,2028-04-01,27669000.0,24018000.0,4.75,4.0,0.413,similarity
+2024-06-30,trinity air consultants holdings|First lien|2023-03-31|0,Trinity Air Consultants Holdings Corp,2024-03-31,2027-06-29,2028-06-29,24735000.0,24735000.0,5.75,5.25,1.253,similarity
+2024-06-30,trinity air consultants holdings|First lien|2021-06-30|0,Trinity Air Consultants Holdings Corp,2024-03-31,2027-06-29,2028-06-29,50463000.0,50463000.0,5.75,5.25,1.253,similarity
+2024-06-30,the gi alliance management|First lien|2024-03-31|0,"The GI Alliance Management, LLC",2024-03-31,2030-01-22,2028-09-15,28650000.0,28516000.0,5.5,5.5,1.355,similarity
+2024-06-30,us oral surgery management holdco|First lien|2022-12-31|0,"US Oral Surgery Management Holdco, LLC",2024-03-31,2027-11-18,2028-11-20,1643000.0,2278000.0,6.0,6.0,1.078,similarity
+2024-06-30,us oral surgery management holdco|First lien|2021-12-31|0,"US Oral Surgery Management Holdco, LLC",2024-03-31,2027-11-18,2028-11-20,181283000.0,216239000.0,6.0,5.25,1.424,similarity
+2024-06-30,zendesk|First lien|2022-12-31|0,Zendesk Inc,2024-03-31,2028-11-30,2028-11-22,936617000.0,936617000.0,6.25,6.25,0.022,similarity
+2024-06-30,discovery education|First lien|2023-12-31|0,"Discovery Education, Inc.",2024-03-31,2030-10-03,2029-04-09,65933000.0,65651000.0,5.75,5.75,1.486,similarity
+2024-06-30,pigments services|First lien|2023-06-30|0,"Pigments Services, Inc.",2024-03-31,2030-04-14,2029-04-14,18526000.0,18433000.0,8.35,8.35,1.001,similarity
+2024-06-30,pigments services|First lien|2023-06-30|1,"Pigments Services, Inc.",2024-03-31,2030-04-14,2029-04-14,10271000.0,10596000.0,8.35,8.35,1.008,similarity
+2024-06-30,enstructure|First lien|2022-09-30|0,Enstructure LLC,2024-03-31,2029-05-25,2029-06-10,98715000.0,142519000.0,6.35,5.0,0.796,similarity
+2024-06-30,white cap buyer|First lien|2021-03-31|0,"White Cap Buyer, LLC",2024-03-31,2027-10-19,2029-10-19,16958000.0,16915000.0,3.75,3.25,2.253,unique_successor
+2024-06-30,riser merger sub|First lien|2023-03-31|0,"Riser Merger Sub, Inc.",2023-06-30,2028-08-01,2029-10-31,6494000.0,14707000.0,4.88,5.0,1.449,similarity
+2024-06-30,victory buyer|Second lien|2021-12-31|0,"Victory Buyer, LLC",2024-03-31,2029-11-01,2029-11-19,24677000.0,24677000.0,7.000000000000001,7.000000000000001,0.049,similarity
+2024-06-30,delta topco|First lien|2021-03-31|0,"Delta Topco, Inc.",2024-03-31,2027-12-01,2029-12-01,34619000.0,74973000.0,3.75,3.5000000000000004,2.262,unique_successor
+2024-06-30,frontgrade technologies holdings|First lien|2023-09-30|1,"Frontgrade Technologies Holdings, Inc.",2024-03-31,2030-01-09,2030-01-09,2364000.0,2358000.0,6.75,5.0,0.876,similarity
+2024-06-30,solarwinds holdings|First lien|2023-03-31|0,"Solarwinds Holdings, Inc.",2024-03-31,2027-02-05,2030-02-05,2978000.0,2978000.0,3.25,3.25,3.003,unique_successor
+2024-06-30,coupa software|First lien|2023-03-31|0,Coupa Software Inc.,2024-03-31,2030-02-27,2030-02-27,1836000.0,1836000.0,7.5,5.5,1.0,similarity
+2024-06-30,sg acquisition|First lien|2021-03-31|0,"SG Acquisition, Inc.",2024-03-31,2027-01-27,2030-04-03,171193000.0,222354000.0,5.5,5.0,3.491,unique_successor
+2024-06-30,minotaur acquisition|First lien|2021-03-31|0,"Minotaur Acquisition, Inc.",2024-03-31,2026-03-27,2030-05-10,177660000.0,99098000.0,4.75,5.0,4.359,unique_successor
+2024-06-30,great day improvements|First lien|2021-12-31|0,Great Day Improvements LLC,2024-03-31,2027-12-29,2030-06-13,191778000.0,36328000.0,6.25,5.5,3.035,unique_successor
+2024-06-30,progress residential pm holdings|First lien|2021-03-31|0,"Progress Residential PM Holdings, LLC",2024-03-31,2029-07-25,2030-08-08,15205000.0,15205000.0,5.5,5.5,1.038,similarity
+2024-06-30,progress residential pm holdings|First lien|2022-12-31|0,"Progress Residential PM Holdings, LLC",2024-03-31,2028-02-16,2030-08-08,79357000.0,79357000.0,5.5,5.5,2.477,unique_successor
+2024-06-30,ahead db holdings|First lien|2021-03-31|0,"Ahead DB Holdings, LLC",2024-03-31,2027-10-18,2031-02-01,2537000.0,2531000.0,3.75,3.75,3.294,unique_successor
+2024-06-30,assuredpartners|First lien|2021-03-31|1,"AssuredPartners, Inc.",2024-03-31,2027-02-12,2031-02-14,17369000.0,25609000.0,3.5000000000000004,3.5000000000000004,4.089,unique_successor
+2024-06-30,vs buyer|First lien|2023-06-30|0,VS Buyer LLC,2024-03-31,2027-02-28,2031-04-12,5964000.0,9834000.0,3.25,3.25,4.219,unique_successor
+2024-06-30,cotiviti|First lien|2024-03-31|0,"Cotiviti, Inc.",2024-03-31,2031-02-24,2031-05-01,43591000.0,43482000.0,3.25,3.25,0.181,similarity
+2024-06-30,baldwin risk partners|First lien|2021-03-31|0,"Baldwin Risk Partners, LLC",2024-03-31,2027-10-14,2031-05-26,9769000.0,8237000.0,3.5000000000000004,3.25,3.781,unique_successor
+2024-06-30,bmc acquisition|First lien|2021-03-31|1,"LBM Acquisition, LLC",2024-03-31,2027-12-17,2031-05-30,44742000.0,44742000.0,3.75,3.75,3.452,unique_successor
+2024-06-30,berlin packaging|First lien|2021-03-31|0,"Berlin Packaging, LLC",2024-03-31,2028-03-11,2031-06-07,15400000.0,15400000.0,3.75,3.75,3.241,unique_successor
+2024-06-30,mitchell international|First lien|2021-12-31|0,"Mitchell International, Inc.",2024-03-31,2028-10-15,2031-06-17,66202000.0,65229000.0,3.75,3.25,2.925,unique_successor
+2024-06-30,vibrant clo xii|structured finance obligations|2021-12-31|0,Vibrant CLO XII Ltd.,2024-03-31,2034-01-20,2034-04-20,2875000.0,1000000.0,7.37,6.94,0.625,similarity
+2024-06-30,ares lx clo|structured finance obligations|2021-12-31|0,Ares LX CLO LTD,2024-03-31,2034-10-20,2034-07-18,7750000.0,5000000.0,6.510000000000001,6.510000000000001,0.346,similarity
+2024-06-30,allegro clo xi|structured finance obligations|2022-12-31|0,Allegro CLO XIII Ltd,2024-03-31,2033-01-19,2034-07-20,3895000.0,2500000.0,7.26,6.87,1.783,similarity
+2024-06-30,galaxy xxv clo|structured finance obligations|2021-12-31|0,"Galaxy XXV CLO, Ltd.",2022-03-31,2035-04-15,2036-04-25,3000000.0,4000000.0,7.000000000000001,6.5,1.343,similarity
+2024-06-30,eaton vance clo 2019 1|structured finance obligations|2022-03-31|0,Eaton Vance CLO 2019-1 Ltd,2024-03-31,2031-04-15,2037-07-15,3750000.0,5000000.0,6.76,6.4,5.242,unique_successor
+2024-09-30,mode holdings l p|Equity|2021-03-31|0,"Mode Holdings, L.P.",2024-06-30,,2021-01-07,,,,,1.0,similarity
+2024-09-30,gso dl coinvest ci customink|Equity|2021-03-31|0,"GSO DL CoInvest CI LP (CustomInk, LLC",2024-06-30,,2021-01-07,,,,,1.0,similarity
+2024-09-30,frontline road safety investments|Equity|2021-06-30|0,"Frontline Road Safety Investments, LLC",2024-06-30,,2021-04-30,,,,,1.0,similarity
+2024-09-30,atlas intermediate holding|Equity|2021-06-30|0,"Atlas Intermediate Holding, LLC",2024-06-30,,2021-05-24,,,,,1.0,similarity
+2024-09-30,jayhawk holdings|Equity|2021-06-30|1,"Jayhawk Holdings, LP",2024-06-30,,2021-05-26,,,,,1.0,similarity
+2024-09-30,jayhawk holdings|Equity|2021-06-30|0,"Jayhawk Holdings, LP",2024-06-30,,2021-05-26,,,,,1.0,similarity
+2024-09-30,ag group holdings|Equity|2021-06-30|0,AGI Group Holdings LP,2024-06-30,,2021-06-11,,,,,1.0,similarity
+2024-09-30,ohcp v tc coi|Equity|2021-06-30|0,"OHCP V TC COI, LP.",2024-06-30,,2021-06-29,,,,,1.0,similarity
+2024-09-30,connatix parent|Equity|2021-09-30|0,"Connatix Parent, LLC",2024-06-30,,2021-07-14,,,,,1.0,similarity
+2024-09-30,mandolin technology holdings|Equity|2021-12-31|0,"Mandolin Technology Holdings, Inc.",2024-06-30,,2021-07-30,,,,,1.0,similarity
+2024-09-30,ncp helix holdings|Equity|2021-09-30|0,"Ncp Helix Holdings, LLC.",2024-06-30,,2021-08-03,,,,,1.0,similarity
+2024-09-30,cambium holdings|Equity|2021-09-30|0,"Cambium Holdings, LLC",2024-06-30,,2021-08-03,,,,,1.0,similarity
+2024-09-30,cd r ulysses equity holdings|Equity|2021-09-30|0,"CD&R Ulysses Equity Holdings, L.P.",2024-06-30,,2021-08-19,,,,,1.0,similarity
+2024-09-30,cd r artemis holdco 2|Equity|2021-09-30|0,CD&R Artemis Holdco 2 Limited,2024-06-30,,2021-08-19,,,,,1.0,similarity
+2024-09-30,gcx group holdings l p|Equity|2021-09-30|0,"GCX Corporation Group Holdings, L.P.",2024-06-30,,2021-09-10,,,,,1.0,similarity
+2024-09-30,point broadband holdings|Equity|2021-12-31|1,"Point Broadband Holdings, LLC",2024-06-30,,2021-10-01,,,,,1.0,similarity
+2024-09-30,point broadband holdings|Equity|2021-12-31|0,"Point Broadband Holdings, LLC",2024-06-30,,2021-10-01,,,,,1.0,similarity
+2024-09-30,point broadband holdings|Equity|2022-12-31|1,"Point Broadband Holdings, LLC",2024-06-30,,2022-03-24,,,,,1.0,similarity
+2024-09-30,point broadband holdings|Equity|2022-12-31|0,"Point Broadband Holdings, LLC",2024-06-30,,2022-03-24,,,,,1.0,similarity
+2024-09-30,specialty lending|Equity|2021-12-31|0,"Specialty Lending Company, LLC",2024-06-30,,2021-10-19,,,,,1.0,similarity
+2024-09-30,gso dl invest eis eis acquisition holdings|Equity|2021-03-31|0,"GSO DL Co-Invest EIS LP (EIS Acquisition Holdings, LP",2024-06-30,,2021-11-01,,,,,1.0,similarity
+2024-09-30,nc ocala invest beta l p|Equity|2021-12-31|0,"NC Ocala Co-Invest Beta, L.P.",2024-06-30,,2021-11-12,,,,,1.0,similarity
+2024-09-30,lobos parent|Equity|2021-12-31|0,"Lobos Parent, Inc.",2024-06-30,,2021-11-30,,,,,1.0,similarity
+2024-09-30,box invest blocker bp alpha holdings|Equity|2024-03-31|0,"Box Co-Invest Blocker, LLC - (BP Alpha Holdings, L.P.)",2024-06-30,,2021-12-10,,,,,1.0,similarity
+2024-09-30,box invest blocker bp alpha holdings|Equity|2024-03-31|1,"Box Co-Invest Blocker, LLC - (BP Alpha Holdings, L.P.)",2024-06-30,,2023-07-12,,,,,1.0,similarity
+2024-09-30,bcred emerald jv|investments in joint ventures|2022-12-31|0,BCRED Emerald JV LP,2024-03-31,,2022-01-19,,,,,1.0,similarity
+2024-09-30,maia aggregator l p|Equity|2022-03-31|0,"Maia Aggregator, L.P.",2024-06-30,,2022-02-01,,,,,1.0,similarity
+2024-09-30,nc eve l p|Equity|2022-03-31|0,"NC Eve, L.P.",2024-06-30,,2022-02-22,,,,,1.0,similarity
+2024-09-30,expedition holdco|Equity|2022-03-31|0,"Expedition Holdco, LLC",2024-06-30,,2022-02-24,,,,,1.0,similarity
+2024-09-30,ave holdings i|Equity|2022-03-31|0,AVE Holdings I Corp.,2024-06-30,,2022-02-25,,,,,1.0,similarity
+2024-09-30,micross topco|Equity|2022-03-31|0,"Micross Topco, Inc.",2024-06-30,,2022-03-28,,,,,1.0,similarity
+2024-09-30,mimecast|Equity|2022-09-30|0,Mimecast Limited,2024-06-30,,2022-05-03,,,,,1.0,similarity
+2024-09-30,caerus midco 2 s r l|Equity|2022-12-31|0,Caerus Midco 2 S.à r.l.,2024-06-30,,2022-05-25,,,,,1.0,similarity
+2024-09-30,caerus midco 2 s r l|Equity|2022-09-30|0,Caerus Midco 2 S.à r.l.,2024-06-30,,2022-10-28,,,,,1.0,similarity
+2024-09-30,victors ccc topco|Equity|2022-09-30|0,"Victors CCC Topco, LP",2024-06-30,,2022-06-01,,,,,1.0,similarity
+2024-09-30,tricor horizon|Equity|2022-09-30|0,Tricor Horizon,2024-06-30,,2022-06-13,,,,,1.0,similarity
+2024-09-30,knockout intermediate holdings i|Equity|2022-09-30|0,"Knockout Intermediate Holdings I, Inc.",2024-06-30,,2022-06-23,,,,,1.0,similarity
+2024-09-30,enstructure|Equity|2022-09-30|0,"Enstructure, LLC",2024-06-30,,2022-09-27,,,,,1.0,similarity
+2024-09-30,enstructure|Equity|2024-03-31|0,"Enstructure, LLC",2024-06-30,,2023-03-01,,,,,1.0,similarity
+2024-09-30,bcred verdelite jv|investments in joint ventures|2022-12-31|0,BCRED Verdelite JV LP,2024-03-31,,2022-10-21,,,,,1.0,similarity
+2024-09-30,zoro|Equity|2024-06-30|0,Zoro,2024-06-30,,2022-11-22,,,,,1.0,similarity
+2024-09-30,zoro|Equity|2024-06-30|1,Zoro,2024-06-30,,2022-11-22,,,,,1.0,similarity
+2024-09-30,shelf holdco|Equity|2024-06-30|0,Shelf Holdco Ltd,2024-06-30,,2022-12-30,,,,,1.0,similarity
+2024-09-30,pigments holdings|Equity|2024-06-30|0,Pigments Holdings LP,2024-06-30,,2023-04-14,,,,,1.0,similarity
+2024-09-30,rsc topco|Equity|2023-09-30|0,"RSC Topco, Inc.",2024-06-30,,2023-08-14,,,,,1.0,similarity
+2024-09-30,thl fund ix investors plymouth ii|Equity|2023-09-30|0,"THL Fund IX Investors (Plymouth II), LP",2024-06-30,,2023-08-31,,,,,1.0,similarity
+2024-09-30,cfco benefytt technologies|Equity|2023-09-30|0,"CFCo, LLC (Benefytt Technologies, Inc.)",2024-06-30,,2023-09-28,,,,,1.0,similarity
+2024-09-30,gtcr investors|Equity|2023-09-30|0,GTCR Investors LP,2024-06-30,,2023-09-29,,,,,1.0,similarity
+2024-09-30,descartes holdings|Equity|2023-12-31|0,"Descartes Holdings, Inc",2024-06-30,,2023-10-09,,,,,1.0,similarity
+2024-09-30,tpg ix newark ci l p|Equity|2023-12-31|0,"TPG IX Newark CI, L.P.",2024-06-30,,2023-10-26,,,,,1.0,similarity
+2024-09-30,healthcomp holding|Equity|2023-12-31|0,"Healthcomp Holding Company, LLC",2024-06-30,,2023-11-08,,,,,1.0,similarity
+2024-09-30,mitratech holdings|Equity|2023-12-31|0,"Mitratech Holdings, Inc.",2024-06-30,,2023-12-19,,,,,1.0,similarity
+2024-09-30,resolute investment managers|Equity|2023-12-31|0,"Resolute Investment Managers, Inc.",2024-06-30,,2023-12-29,,,,,1.0,similarity
+2024-09-30,dta|Equity|2024-03-31|0,DTA LP,2024-06-30,,2024-03-25,,,,,1.0,similarity
+2024-09-30,loar holdings|Equity|2024-06-30|0,Loar Holdings Inc.,2024-06-30,,2024-04-25,,,,,1.0,similarity
+2024-09-30,azalea parent|Equity|2024-06-30|0,Azalea Parent Corp,2024-06-30,,2024-04-30,,,,,1.0,similarity
+2024-09-30,trinity air consultants holdings|Equity|2024-06-30|0,Trinity Air Consultants Holdings Corp,2024-06-30,,2024-06-12,,,,,1.0,similarity
+2024-09-30,material holding|Equity|2024-06-30|0,"Material+ Holding Company, LLC",2024-06-30,,2024-06-14,,,,,1.0,similarity
+2024-09-30,selectquote|First lien|2021-03-31|0,SelectQuote Inc.,2024-06-30,2025-05-15,2025-09-15,266757000.0,265576000.0,9.5,9.5,0.338,similarity
+2024-09-30,specialtycare|First lien|2022-09-30|0,"SpecialtyCare, Inc.",2022-09-30,2026-06-18,2026-06-18,1068000.0,2255000.0,5.5,4.0,0.882,similarity
+2024-09-30,odyssey holding|First lien|2023-03-31|0,"Odyssey Holding Company, LLC",2023-12-31,2025-11-16,2026-11-16,4211000.0,9357000.0,5.75,5.75,1.137,similarity
+2024-09-30,seko global logistics network|First lien|2023-03-31|0,"SEKO Global Logistics Network, LLC",2024-03-31,2026-12-30,2026-12-30,6302000.0,1398000.0,4.0,8.0,1.195,similarity
+2024-09-30,seko global logistics network|First lien|2023-06-30|0,"SEKO Global Logistics Network, LLC",2024-06-30,2026-12-30,2026-12-30,6830000.0,6920000.0,5.0,8.0,1.003,similarity
+2024-09-30,seko global logistics network|First lien|2023-03-31|1,"SEKO Global Logistics Network, LLC",2023-06-30,2026-12-30,2026-12-30,9048000.0,9420000.0,4.75,8.0,1.01,similarity
+2024-09-30,seko global logistics network|First lien|2021-09-30|0,"SEKO Global Logistics Network, LLC",2024-06-30,2026-12-30,2026-12-30,34596000.0,34596000.0,5.0,8.0,1.0,similarity
+2024-09-30,seko global logistics network|First lien|2021-03-31|0,"SEKO Global Logistics Network, LLC",2024-06-30,2026-12-30,2026-12-30,83036000.0,74663000.0,5.0,8.0,1.025,similarity
+2024-09-30,ld lower holdings|First lien|2021-03-31|0,"LD Lower Holdings, Inc.",2024-06-30,2026-02-08,2027-08-09,116275000.0,107688000.0,6.5,7.5,2.017,unique_successor
+2024-09-30,oxford global resources|First lien|2024-06-30|2,Oxford Global Resources Inc,2024-06-30,2030-06-06,2027-08-17,9974000.0,9949000.0,6.0,6.0,2.806,unique_successor
+2024-09-30,cumming group|First lien|2021-06-30|0,"Cumming Group, Inc.",2024-06-30,2027-05-26,2027-11-16,197045000.0,196540000.0,5.25,5.25,0.477,similarity
+2024-09-30,bpph2|First lien|2021-03-31|0,BPPH2 Limited,2024-06-30,2028-03-02,2028-03-16,40700000.0,40700000.0,6.87,6.87,0.038,similarity
+2024-09-30,high street buyer|First lien|2023-03-31|0,"High Street Buyer, Inc.",2024-06-30,2028-04-16,2028-04-14,52143000.0,64209000.0,5.25,5.25,0.052,similarity
+2024-09-30,redwood services group|First lien|2023-09-30|0,"Redwood Services Group, LLC",2024-06-30,2028-06-15,2028-06-29,405000.0,405000.0,5.75,5.75,0.038,similarity
+2024-09-30,nintex topco|First lien|2021-12-31|0,Nintex Topco Limited,2024-06-30,2028-11-13,2028-11-13,676359000.0,677565000.0,6.0,4.5,0.75,similarity
+2024-09-30,governmentjobs com|First lien|2021-12-31|0,"GovernmentJobs.com, Inc.",2024-06-30,2028-12-01,2028-12-02,165756000.0,287035000.0,5.5,5.0,0.358,similarity
+2024-09-30,relativity oda|First lien|2021-06-30|0,"Relativity ODA, LLC",2024-06-30,2027-05-12,2029-05-12,789000.0,37640000.0,6.0,4.5,2.997,unique_successor
+2024-09-30,chronicle bidco|First lien|2024-06-30|0,"Chronicle Bidco, Inc.",2024-06-30,2031-03-17,2029-05-18,733000.0,731000.0,6.25,6.25,1.831,similarity
+2024-09-30,whcg purchaser iii|First lien|2021-06-30|0,WHCG Purchaser III Inc,2024-06-30,2028-06-22,2029-06-30,102373000.0,45297000.0,5.75,6.5,1.536,similarity
+2024-09-30,whcg purchaser iii|First lien|2023-03-31|0,WHCG Purchaser III Inc,2024-06-30,2026-06-22,2030-06-30,12455000.0,36317000.0,5.75,10.0,5.189,unique_successor
+2024-09-30,soliant lower intermediate|First lien|2024-06-30|0,"Soliant Lower Intermediate, LLC",2024-06-30,2031-06-20,2031-07-18,50286000.0,50286000.0,4.0,3.75,0.202,similarity
+2024-09-30,color intermediate|First lien|2022-12-31|0,"Color Intermediate, LLC",2024-06-30,2029-10-04,2029-10-01,366993000.0,366075000.0,5.5,4.75,0.384,similarity
+2024-09-30,allium buyer|First lien|2024-06-30|0,"Allium Buyer, LLC",2024-06-30,2030-05-02,2030-05-02,1588000.0,1584000.0,6.75,5.0,0.876,similarity
+2024-09-30,emergency power holdings|First lien|2021-09-30|0,"Emergency Power Holdings, LLC",2024-06-30,2028-08-17,2030-08-17,202355000.0,194843000.0,5.5,4.75,2.384,unique_successor
+2024-09-30,vertex aerospace services|First lien|2021-12-31|0,Vertex Aerospace Services Corp.,2024-06-30,2028-12-06,2030-12-06,11731000.0,11702000.0,2.75,2.75,2.001,unique_successor
+2024-09-30,park place technologies|First lien|2024-06-30|0,"Park Place Technologies, LLC",2024-06-30,2030-03-25,2031-03-25,7452000.0,10271000.0,5.25,5.25,1.069,similarity
+2024-09-30,epicor software|First lien|2024-06-30|0,Epicor Software Corp.,2024-06-30,2031-05-30,2031-04-25,535000.0,309000.0,3.25,3.25,0.201,similarity
+2024-09-30,elements finco|First lien|2024-06-30|2,Elements Finco Ltd,2024-06-30,2031-04-30,2031-04-29,17609000.0,17609000.0,4.75,4.75,0.003,similarity
+2024-09-30,bmc acquisition|First lien|2021-03-31|1,"LBM Acquisition, LLC",2024-06-30,2031-05-30,2031-05-31,44742000.0,44630000.0,3.75,3.75,0.003,similarity
+2024-09-30,project boost purchaser|First lien|2021-06-30|0,"Project Boost Purchaser, LLC",2024-06-30,2026-05-30,2031-07-16,4862000.0,6862000.0,3.5000000000000004,3.5000000000000004,5.073,unique_successor
+2024-09-30,boxer parent|First lien|2021-03-31|0,"Boxer Parent Company, Inc.",2024-06-30,2028-12-29,2031-07-30,14681000.0,14681000.0,4.0,3.75,2.709,unique_successor
+2024-09-30,sedgwick claims management services|First lien|2021-03-31|0,"Sedgwick Claims Management Services, Inc.",2024-06-30,2028-02-24,2031-07-31,5185000.0,5185000.0,3.75,3.0,3.808,unique_successor
+2024-09-30,mcgraw hill education|First lien|2021-09-30|0,"McGraw-Hill Education, Inc.",2024-06-30,2028-07-28,2031-08-06,18220000.0,12651000.0,4.75,4.0,3.476,unique_successor
+2024-09-30,netsmart technologies|First lien|2021-03-31|0,Netsmart Technologies Inc,2024-06-30,2027-10-01,2031-08-23,12904000.0,184817000.0,3.75,5.2,4.853,unique_successor
+2024-09-30,gtcr everest borrower|First lien|2024-06-30|0,"GTCR Everest Borrower, LLC",2024-06-30,2031-06-03,2031-09-05,20647000.0,12388000.0,3.0,3.0,0.358,similarity
+2024-09-30,alliant holdings intermediate|First lien|2021-06-30|0,Alliant Holdings Intermediate LLC,2024-06-30,2030-11-06,2031-09-19,3663000.0,3663000.0,3.5000000000000004,3.0,1.118,similarity
+2024-12-31,digital media solutions|First lien|2024-09-30|0,"Digital Media Solutions, LLC",2024-09-30,2024-12-10,2025-01-29,1723000.0,4027000.0,8.0,8.0,-0.72,similarity
+2024-12-31,seko global logistics network|First lien|2023-06-30|0,"SEKO Global Logistics Network, LLC",2024-09-30,2026-12-30,2026-12-30,6920000.0,1481000.0,8.0,8.0,1.696,similarity
+2024-12-31,lindstrom|First lien|2021-03-31|0,"Lindstrom, LLC",2024-09-30,2026-05-01,2027-05-01,146952000.0,146580000.0,6.25,6.25,0.001,similarity
+2024-12-31,cyrusone revolving warehouse|First lien|2024-09-30|0,CyrusOne Revolving Warehouse,2024-09-30,2029-07-02,2027-07-02,38333000.0,76425000.0,3.0,3.0,1.127,similarity
+2024-12-31,selectquote|First lien|2021-03-31|0,SelectQuote Inc.,2024-09-30,2025-09-15,2027-09-30,265576000.0,227514000.0,9.5,9.5,3.577,unique_successor
+2024-12-31,apex companies|First lien|2024-03-31|0,"Apex Companies, LLC",2024-09-30,2026-03-15,2028-01-31,738000.0,736000.0,5.5,5.25,1.008,similarity
+2024-12-31,eg america|First lien|2023-09-30|3,"EG America, LLC",2023-09-30,2026-03-31,2028-02-07,8901000.0,12120000.0,4.25,4.25,1.924,similarity
+2024-12-31,pskw intermediate|First lien|2021-03-31|0,"PSKW Intermediate, LLC",2024-09-30,2026-03-09,2028-03-09,16825000.0,12071000.0,6.25,5.5,3.948,unique_successor
+2024-12-31,project ruby ultimate parent|First lien|2022-09-30|0,Project Ruby Ultimate Parent Corp,2022-09-30,2028-03-10,2028-03-10,11833000.0,9111000.0,5.75,3.0,1.058,similarity
+2024-12-31,ion trading finance|First lien|2021-03-31|0,ION Trading Finance Ltd.,2024-09-30,2028-04-01,2028-04-01,24025000.0,23053000.0,4.0,3.5000000000000004,1.76,similarity
+2024-12-31,skopima consilio parent|First lien|2024-06-30|0,"Skopima Consilio Parent, LLC",2024-09-30,2028-05-12,2028-05-12,39612000.0,39612000.0,4.0,3.75,1.625,similarity
+2024-12-31,wwex uni topco holdings|First lien|2021-09-30|0,"Wwex Uni Topco Holdings, LLC",2024-09-30,2028-07-26,2028-07-26,13935000.0,17639000.0,4.0,4.0,1.552,similarity
+2024-12-31,ai aqua merger sub|First lien|2021-06-30|0,"AI Aqua Merger Sub, Inc.",2024-09-30,2028-07-31,2028-07-31,32473000.0,32391000.0,3.5000000000000004,3.5000000000000004,1.501,similarity
+2024-12-31,mercury borrower|First lien|2024-06-30|0,"Mercury Borrower, Inc.",2024-09-30,2028-08-02,2028-08-02,40937000.0,40817000.0,3.5000000000000004,3.0,1.751,similarity
+2024-12-31,whatabrands|First lien|2021-09-30|0,"Whatabrands, LLC",2024-09-30,2028-08-03,2028-08-03,11332000.0,11352000.0,2.75,2.5,1.625,similarity
+2024-12-31,alterra mountain|First lien|2021-06-30|0,Alterra Mountain Co,2024-09-30,2028-08-17,2028-08-17,9131000.0,9131000.0,3.25,2.75,1.75,similarity
+2024-12-31,osaic holdings|First lien|2024-06-30|0,Osaic Holdings Inc,2024-09-30,2028-08-17,2028-08-17,10594000.0,10567000.0,4.0,3.5000000000000004,1.751,similarity
+2024-12-31,trident tpi holdings|First lien|2023-12-31|0,"Trident TPI Holdings, Inc.",2024-03-31,2028-09-15,2028-09-15,6041000.0,21739000.0,5.25,3.75,0.931,similarity
+2024-12-31,bayshore intermediate 2|First lien|2024-06-30|0,Bayshore Intermediate #2 LP,2024-09-30,2028-10-01,2028-10-01,72103000.0,314887000.0,6.25,6.25,1.693,similarity
+2024-12-31,west monroe partners|First lien|2023-06-30|0,"West Monroe Partners, LLC",2024-06-30,2027-11-08,2028-11-08,14143000.0,24439000.0,5.5,4.75,1.483,similarity
+2024-12-31,edifecs|First lien|2021-09-30|0,"Edifecs, Inc.",2024-09-30,2026-09-21,2028-11-20,96061000.0,96160000.0,5.75,5.0,1.542,similarity
+2024-12-31,edifecs|First lien|2023-03-31|0,"Edifecs, Inc.",2024-09-30,2026-09-21,2028-11-20,155660000.0,155449000.0,5.75,5.0,1.542,similarity
+2024-12-31,armor holdco|First lien|2021-12-31|0,"Armor Holdco, Inc.",2024-09-30,2028-12-11,2028-12-11,6379000.0,6363000.0,4.5,3.75,1.876,similarity
+2024-12-31,sharp services|First lien|2024-03-31|0,"Sharp Services, LLC",2024-09-30,2028-12-31,2028-12-31,7684000.0,7665000.0,3.75,3.25,1.751,similarity
+2024-12-31,scih salt holdings|First lien|2021-06-30|0,"SCIH Salt Holdings, Inc.",2024-09-30,2027-03-16,2029-01-31,13247000.0,15747000.0,3.5000000000000004,3.0,1.172,similarity
+2024-12-31,zacapa|First lien|2022-03-31|0,"Zacapa, LLC",2024-09-30,2029-03-22,2029-03-22,7464000.0,7444000.0,4.0,3.75,1.626,similarity
+2024-12-31,cloud software group|First lien|2024-03-31|0,"Cloud Software Group, Inc.",2024-09-30,2029-03-30,2029-03-30,7481000.0,5558000.0,4.0,3.5000000000000004,1.814,similarity
+2024-12-31,cloud software group|First lien|2024-06-30|0,"Cloud Software Group, Inc.",2024-09-30,2031-03-21,2031-03-21,2600000.0,2600000.0,4.5,3.75,1.875,similarity
+2024-12-31,pearce intermediate holdings|First lien|2024-09-30|0,"Pearce Intermediate Holdings, Inc",2024-09-30,2027-06-02,2029-06-02,814000.0,1759000.0,4.5,4.75,1.262,similarity
+2024-12-31,pearce intermediate holdings|First lien|2024-06-30|0,"Pearce Intermediate Holdings, Inc",2024-09-30,2027-06-02,2029-06-02,82554000.0,82396000.0,4.5,4.75,1.128,similarity
+2024-12-31,redwood services group|First lien|2023-09-30|0,"Redwood Services Group, LLC",2024-09-30,2028-06-29,2029-06-15,405000.0,5447000.0,5.75,5.75,0.193,similarity
+2024-12-31,perforce software|First lien|2021-03-31|0,"Perforce Software, Inc.",2024-09-30,2026-07-01,2029-07-01,15176000.0,15176000.0,3.75,4.75,5.003,unique_successor
+2024-12-31,anchor packaging|First lien|2024-09-30|0,"Anchor Packaging, LLC",2024-09-30,2029-07-18,2029-07-18,1995000.0,1990000.0,3.75,3.25,1.751,similarity
+2024-12-31,env bidco ab|First lien|2022-12-31|1,ENV Bidco AB,2024-09-30,2029-07-19,2029-07-19,114140000.0,114097000.0,5.75,5.25,1.75,similarity
+2024-12-31,env bidco ab|First lien|2022-12-31|0,ENV Bidco AB,2024-09-30,2029-07-19,2029-07-19,102349000.0,114257000.0,5.75,5.25,1.776,similarity
+2024-12-31,waystar technologies|First lien|2021-03-31|0,"Waystar Technologies, Inc.",2024-09-30,2029-10-22,2029-10-22,6513000.0,6513000.0,2.75,2.25,1.75,similarity
+2024-12-31,usi|First lien|2023-03-31|0,"USI, Inc.",2024-09-30,2029-11-22,2029-11-22,8846000.0,8824000.0,2.75,2.25,1.751,similarity
+2024-12-31,usi|First lien|2023-09-30|0,"USI, Inc.",2024-09-30,2030-09-29,2030-09-29,1980000.0,1975000.0,2.75,2.25,1.751,similarity
+2024-12-31,park place technologies|First lien|2024-06-30|0,"Park Place Technologies, LLC",2024-09-30,2031-03-25,2030-03-25,10271000.0,18403000.0,5.25,5.25,0.11,similarity
+2024-12-31,analytic partners|First lien|2023-12-31|0,Analytic Partners LP,2024-09-30,2028-04-04,2030-04-04,21304000.0,21250000.0,5.0,4.75,1.126,similarity
+2024-12-31,renaissance holdings|First lien|2024-06-30|0,Renaissance Holdings Corp,2024-09-30,2030-04-05,2030-04-05,2517000.0,2506000.0,4.25,4.0,1.626,similarity
+2024-12-31,lsf11 trinity bidco|First lien|2023-12-31|0,"LSF11 Trinity Bidco, Inc.",2024-09-30,2030-06-14,2030-06-14,1063000.0,1061000.0,3.5000000000000004,3.0,1.75,similarity
+2024-12-31,neptune holdings|First lien|2023-09-30|0,"Neptune Holdings, Inc.",2024-09-30,2030-08-31,2030-08-31,14888000.0,14850000.0,5.75,4.75,2.001,unique_successor
+2024-12-31,tamko building product|First lien|2024-06-30|0,"Tamko Building Products, LLC",2024-09-30,2030-09-20,2030-09-20,2985000.0,2985000.0,3.25,2.75,1.75,similarity
+2024-12-31,cfs brands|First lien|2023-09-30|0,"CFS Brands, LLC",2024-09-30,2030-10-02,2030-10-02,210048000.0,209628000.0,5.75,5.0,1.875,similarity
+2024-12-31,prime security service borrower|First lien|2024-06-30|0,"Prime Security Services Borrower, LLC",2024-09-30,2030-10-13,2030-10-13,1496000.0,1496000.0,2.25,2.0,1.625,similarity
+2024-12-31,derby buyer|First lien|2024-06-30|0,"Derby Buyer, LLC",2024-09-30,2030-11-01,2030-11-01,6468000.0,6451000.0,3.5000000000000004,3.0,1.751,similarity
+2024-12-31,charter next generation|First lien|2024-06-30|0,Charter Next Generation Inc,2024-09-30,2027-12-01,2030-11-29,1990000.0,6972000.0,3.25,3.0,4.801,unique_successor
+2024-12-31,rhea parent|First lien|2022-03-31|0,"Rhea Parent, Inc.",2024-09-30,2029-02-18,2030-12-20,201854000.0,201854000.0,5.5,4.75,3.711,unique_successor
+2024-12-31,hyperion refinance s r l|First lien|2024-09-30|0,Hyperion Refinance S.à r.l.,2024-09-30,2031-02-15,2031-02-15,7486000.0,7467000.0,3.5000000000000004,3.0,1.751,similarity
+2024-12-31,cengage learning|First lien|2024-06-30|0,"Cengage Learning, Inc.",2024-09-30,2031-03-22,2031-03-22,8458000.0,8458000.0,4.25,3.5000000000000004,1.875,similarity
+2024-12-31,vs buyer|First lien|2023-06-30|0,"VS Buyer, LLC",2024-09-30,2031-04-12,2031-04-12,6318000.0,6318000.0,3.25,2.75,1.75,similarity
+2024-12-31,xplor t1|First lien|2024-06-30|0,"XPLOR T1, LLC",2024-09-30,2031-06-24,2031-06-24,35000000.0,34925000.0,4.25,3.5000000000000004,1.876,similarity
+2024-12-31,peer usa|First lien|2024-06-30|0,"Peer USA, LLC",2024-09-30,2031-06-20,2031-07-01,7000000.0,7000000.0,3.0,3.0,-0.97,similarity
+2024-12-31,shelf bidco|First lien|2022-12-31|0,Shelf Bidco Ltd,2024-09-30,2030-01-03,2031-10-17,131049000.0,943075000.0,6.19,5.18,4.007,unique_successor
+2024-12-31,inmar|First lien|2021-06-30|0,"Inmar, Inc.",2024-09-30,2026-05-01,2031-10-30,29346000.0,24938000.0,5.5,5.0,4.288,unique_successor
+2024-12-31,jss holdings|First lien|2024-09-30|0,"JSS Holdings, Inc.",2024-09-30,2030-12-17,2031-11-08,45220000.0,45390000.0,5.25,5.25,-0.106,similarity
+2024-12-31,jss holdings|First lien|2023-12-31|0,"JSS Holdings, Inc.",2024-09-30,2030-12-17,2031-11-08,236063000.0,237105000.0,5.25,5.25,-0.106,similarity
+2024-12-31,gusto sing bidco pte|First lien|2024-03-31|0,Gusto Sing Bidco Pte Ltd,2024-09-30,2028-10-30,2031-11-15,1000000.0,1000000.0,6.5,4.75,5.419,unique_successor
+2024-12-31,thevelia us|Second lien|2022-09-30|0,"Thevelia US, LLC",2024-09-30,2030-06-17,2032-06-17,182046000.0,182046000.0,6.0,6.0,1.003,similarity
+2024-12-31,goldentree loan management us clo 12|structured finance obligations|2021-12-31|0,GoldenTree Loan Management US CLO 23 Ltd,2024-09-30,2034-10-20,2039-01-20,7400000.0,3500000.0,6.41,7.75,6.557,unique_successor
+2024-12-31,vibrant clo xii|structured finance obligations|2021-12-31|1,"Vibrant CLO XIII, Ltd",2024-09-30,2034-07-15,2038-01-15,6250000.0,3250000.0,7.32,7.59,5.262,unique_successor
+2024-12-31,elmwood clo ii|structured finance obligations|2021-12-31|0,Elmwood CLO II Ltd,2024-03-31,2034-10-20,2034-04-20,3500000.0,,6.76,,0.501,similarity
+2024-12-31,morgan stanley eaton vance clo 2021 1|structured finance obligations|2023-09-30|0,Morgan Stanley Eaton Vance CLO 2023-19A Ltd,2024-09-30,2035-07-20,2037-10-20,1000000.0,2200000.0,7.9,6.1,4.791,unique_successor
+2024-12-31,midocean credit clo xi|structured finance obligations|2024-03-31|0,MidOcean Credit CLO XI Ltd,2024-09-30,2037-04-15,2036-01-18,1500000.0,2000000.0,6.559999999999999,6.0,3.084,unique_successor
+2024-12-31,ocp clo 2020 22|structured finance obligations|2021-12-31|0,"OCP CLO 2021-22, Ltd.",2024-09-30,2034-12-02,2037-10-20,9000000.0,2000000.0,6.860000000000001,5.75,5.134,unique_successor
+2024-12-31,galaxy 30 clo|structured finance obligations|2022-09-30|0,Galaxy 30 CLO Ltd,2024-09-30,2035-04-15,2038-01-15,3000000.0,5000000.0,6.950000000000001,5.9,4.881,unique_successor
+2024-12-31,atlas securitized products funding 2|First lien|2024-03-31|0,"Atlas Securitized Products Funding 2, L.P.",2024-09-30,2026-04-10,2063-05-25,134503000.0,148565000.0,1.5,1.5,4.024,unique_successor
+2025-03-31,corfin holdings|First lien|2023-06-30|0,"Corfin Holdings, Inc.",2024-12-31,2027-12-31,2027-12-27,32510000.0,32386000.0,5.25,5.25,-0.988,similarity
+2025-03-31,dcg acquisition|First lien|2021-03-31|0,NDC Acquisition Corp.,2024-12-31,2027-03-09,2028-03-09,21656000.0,21600000.0,5.5,5.0,0.253,similarity
+2025-03-31,fcg acquisitions|First lien|2021-03-31|0,"FCG Acquisitions, Inc.",2024-12-31,2028-03-31,2028-03-31,22701000.0,22643000.0,3.75,3.25,1.751,similarity
+2025-03-31,high street buyer|First lien|2023-03-31|0,"High Street Buyer, Inc.",2024-12-31,2028-04-14,2028-04-14,79872000.0,19140000.0,5.25,5.25,1.69,similarity
+2025-03-31,mavis tire express services topco|First lien|2024-06-30|0,"Mavis Tire Express Services Topco, Corp.",2024-12-31,2028-05-04,2028-05-04,27626000.0,27626000.0,3.5000000000000004,3.0,1.75,similarity
+2025-03-31,azuria water solutions|First lien|2024-06-30|0,"Azuria Water Solutions, Inc.",2024-12-31,2028-05-17,2028-05-17,34436000.0,34350000.0,3.75,3.0,1.876,similarity
+2025-03-31,emerald us|First lien|2021-03-31|0,"Emerald US, Inc.",2024-12-31,2028-07-12,2028-07-12,3809000.0,3799000.0,3.75,3.0,1.876,similarity
+2025-03-31,mic glen|First lien|2021-06-30|0,"Mic Glen, LLC",2024-12-31,2028-07-21,2028-07-21,12725000.0,12693000.0,3.5000000000000004,3.5000000000000004,1.501,similarity
+2025-03-31,mandolin technology intermediate holdings|First lien|2023-03-31|0,"Mandolin Technology Intermediate Holdings, Inc.",2024-12-31,2030-06-09,2028-07-31,62053000.0,61896000.0,6.25,6.25,0.858,similarity
+2025-03-31,pro mach group|First lien|2021-03-31|0,"Pro Mach Group, Inc.",2024-12-31,2028-08-31,2028-08-31,6895000.0,6895000.0,3.5000000000000004,2.75,1.875,similarity
+2025-03-31,ascend buyer|First lien|2023-12-31|0,"Ascend Buyer, LLC",2024-12-31,2027-09-30,2028-09-30,2587000.0,1371000.0,5.75,5.75,2.62,unique_successor
+2025-03-31,carnival finance|First lien|2024-12-31|0,"Carnival Finance, LLC",2024-12-31,2028-10-18,2028-10-18,1000000.0,1000000.0,2.75,2.0,1.875,similarity
+2025-03-31,bp purchaser|First lien|2021-12-31|0,"BP Purchaser, LLC",2024-12-31,2028-12-10,2028-12-11,7820000.0,8174000.0,5.5,5.5,-0.986,similarity
+2025-03-31,freeport lng investments lllp|First lien|2021-12-31|0,"Freeport LNG Investments, LLLP",2024-12-31,2028-12-21,2028-12-21,34814000.0,34723000.0,3.5000000000000004,3.25,1.626,similarity
+2025-03-31,dti holdco|First lien|2022-09-30|0,"DTI Holdco, Inc.",2024-12-31,2029-04-26,2029-01-25,24438000.0,24438000.0,4.75,4.0,2.124,unique_successor
+2025-03-31,hoya midco|First lien|2022-03-31|0,"Hoya Midco, LLC",2024-12-31,2029-02-03,2029-02-03,9472000.0,9472000.0,3.0,2.25,1.875,similarity
+2025-03-31,bazaarvoice|First lien|2021-06-30|0,"Bazaarvoice, Inc.",2024-12-31,2028-05-07,2029-05-07,417604000.0,403329000.0,5.25,4.75,0.259,similarity
+2025-03-31,redwood services group|First lien|2022-06-30|0,"Redwood Services Group, LLC",2024-12-31,2029-06-15,2029-06-15,62103000.0,149209000.0,6.25,5.25,2.146,unique_successor
+2025-03-31,sovos compliance|First lien|2021-09-30|0,"Sovos Compliance, LLC",2024-12-31,2028-08-11,2029-08-12,13756000.0,13721000.0,4.5,4.0,2.753,unique_successor
+2025-03-31,delta topco|First lien|2021-03-31|0,"Delta Topco, Inc.",2024-12-31,2029-12-01,2029-11-30,78598000.0,79152000.0,3.5000000000000004,2.75,-0.621,similarity
+2025-03-31,dropbox|First lien|2024-12-31|1,"Dropbox, Inc.",2024-12-31,2029-12-11,2029-12-11,333996000.0,333161000.0,6.38,6.38,1.501,similarity
+2025-03-31,frontgrade technologies holdings|First lien|2023-09-30|0,"Frontgrade Technologies Holdings, Inc.",2023-09-30,2030-01-09,2030-01-09,386000.0,355000.0,6.75,5.0,0.895,similarity
+2025-03-31,cushman wakefield us borrower|First lien|2023-09-30|0,"Cushman & Wakefield US Borrower, LLC",2024-12-31,2030-01-31,2030-01-31,7443000.0,7443000.0,3.0,2.75,1.625,similarity
+2025-03-31,curia global|Second lien|2021-09-30|0,"Curia Global, Inc.",2024-12-31,2029-08-31,2030-03-07,45977000.0,45977000.0,6.5,10.5,0.515,similarity
+2025-03-31,world insurance associates|First lien|2024-09-30|0,"World Insurance Associates, LLC",2024-12-31,2028-04-03,2030-04-03,36682000.0,81390000.0,5.75,5.0,1.512,similarity
+2025-03-31,navigator acquiror|First lien|2021-09-30|0,"Navigator Acquiror, Inc.",2024-12-31,2027-07-16,2030-07-16,508271000.0,526909000.0,5.5,5.5,2.012,unique_successor
+2025-03-31,windsor holdings iii|First lien|2023-06-30|0,"Windsor Holdings III, LLC",2024-12-31,2030-08-01,2030-08-01,8859000.0,8836000.0,3.5000000000000004,2.75,1.876,similarity
+2025-03-31,eab global|First lien|2021-06-30|0,"EAB Global, Inc.",2024-12-31,2028-08-16,2030-08-16,13340000.0,13307000.0,3.25,3.0,1.126,similarity
+2025-03-31,genuine financial holdings|First lien|2024-06-30|0,"Genuine Financial Holdings, LLC",2024-12-31,2030-09-27,2030-09-27,3970000.0,8947000.0,4.0,3.25,2.014,unique_successor
+2025-03-31,foundation risk partners|First lien|2024-12-31|0,Foundation Risk Partners Corp.,2024-12-31,2030-10-29,2030-10-29,9166000.0,33174000.0,5.25,5.0,1.806,similarity
+2025-03-31,aptean|First lien|2024-06-30|0,"Aptean, Inc.",2024-12-31,2031-01-29,2031-01-30,710000.0,863000.0,5.0,5.25,-0.828,similarity
+2025-03-31,aptean|First lien|2024-03-31|0,"Aptean, Inc.",2024-12-31,2031-01-29,2031-01-30,43464000.0,44065000.0,5.0,5.25,-0.869,similarity
+2025-03-31,g a partners holding ii|First lien|2024-06-30|0,"G&A Partners Holding Company II, LLC",2024-12-31,2030-03-01,2031-03-01,2355000.0,7347000.0,5.5,5.5,0.17,similarity
+2025-03-31,continental buyer|First lien|2024-06-30|0,"Continental Buyer, Inc.",2024-12-31,2031-04-02,2031-04-02,29048000.0,40366000.0,5.25,4.5,1.945,similarity
+2025-03-31,onedigital borrower|First lien|2024-06-30|0,"OneDigital Borrower, LLC",2024-12-31,2031-06-13,2031-07-02,9950000.0,9925000.0,3.25,3.0,1.678,similarity
+2025-03-31,gbt us iii|First lien|2024-09-30|0,"GBT US III, LLC",2024-12-31,2031-07-25,2031-07-25,4000000.0,3990000.0,3.0,2.5,1.751,similarity
+2025-03-31,boxer parent|First lien|2021-03-31|0,"Boxer Parent Company, Inc.",2024-12-31,2031-07-30,2031-07-30,15431000.0,15431000.0,3.75,3.0,1.875,similarity
+2025-03-31,mcgraw hill education|First lien|2021-09-30|0,"McGraw-Hill Education, Inc.",2024-12-31,2031-08-06,2031-08-06,11658000.0,11146000.0,4.0,3.25,1.886,similarity
+2025-03-31,focus financial partners|First lien|2024-09-30|0,"Focus Financial Partners, LLC",2024-12-31,2031-09-11,2031-09-15,14889000.0,16447000.0,3.25,2.75,1.785,similarity
+2025-03-31,sagard halseypoint clo 8|structured finance obligations|2024-12-31|0,"Sagard-Halseypoint Clo 9, Ltd.",2024-12-31,2038-01-30,2038-04-20,2000000.0,5250000.0,6.84,5.85,2.369,unique_successor
+2025-06-30,tailwind colony holding|First lien|2023-03-31|0,Tailwind Colony Holding Corporation,2025-03-31,2026-05-13,2026-11-13,81562000.0,81386000.0,6.5,6.5,-0.495,similarity
+2025-06-30,mri software|First lien|2021-03-31|0,"MRI Software, LLC",2024-12-31,2027-02-10,2027-02-10,50702000.0,34544000.0,4.75,4.75,1.58,similarity
+2025-06-30,imprivata|First lien|2021-03-31|0,"Imprivata, Inc.",2025-03-31,2027-12-01,2027-12-01,1997000.0,1997000.0,3.5000000000000004,3.0,1.75,similarity
+2025-06-30,mode purchaser|First lien|2021-03-31|0,"Mode Purchaser, Inc.",2025-03-31,2026-12-09,2027-12-09,27349000.0,27119000.0,6.25,6.25,0.002,similarity
+2025-06-30,mode purchaser|First lien|2022-06-30|0,"Mode Purchaser, Inc.",2025-03-31,2029-02-05,2027-12-09,135783000.0,134638000.0,6.25,6.25,0.164,similarity
+2025-06-30,experity|First lien|2021-09-30|0,"Experity, Inc.",2025-03-31,2028-02-24,2028-02-24,107557000.0,108402000.0,6.0,6.0,1.502,similarity
+2025-06-30,dcg acquisition|First lien|2023-03-31|0,NDC Acquisition Corp.,2024-03-31,2027-03-09,2028-03-09,514000.0,343000.0,5.5,5.0,1.336,similarity
+2025-06-30,triton water holdings|First lien|2021-03-31|0,"Triton Water Holdings, Inc.",2025-03-31,2028-03-31,2028-03-31,44199000.0,44088000.0,2.25,2.25,1.501,similarity
+2025-06-30,american airlines|First lien|2021-03-31|0,"American Airlines, Inc.",2022-06-30,2028-03-11,2028-04-20,7314000.0,8500000.0,4.75,2.25,1.144,similarity
+2025-06-30,customink|First lien|2021-03-31|0,"CustomInk, LLC",2025-03-31,2026-05-03,2028-05-03,36866000.0,39625000.0,5.98,5.98,1.02,similarity
+2025-06-30,ons mso|First lien|2024-06-30|0,"ONS MSO, LLC",2025-03-31,2026-07-08,2028-07-08,5083000.0,250000.0,5.25,5.25,1.24,similarity
+2025-06-30,ons mso|First lien|2023-12-31|1,"ONS MSO, LLC",2025-03-31,2026-07-08,2028-07-08,9925000.0,9900000.0,5.75,5.75,1.003,similarity
+2025-06-30,ons mso|First lien|2023-12-31|0,"ONS MSO, LLC",2025-03-31,2026-07-08,2028-07-08,34862000.0,68933000.0,5.75,5.75,1.126,similarity
+2025-06-30,inovalon holdings|First lien|2021-12-31|0,"Inovalon Holdings, Inc.",2025-03-31,2028-11-24,2028-11-24,1012690000.0,1095483000.0,5.75,5.5,1.644,similarity
+2025-06-30,governmentjobs com|First lien|2023-06-30|0,"GovernmentJobs.com, Inc.",2024-06-30,2028-12-01,2028-12-02,12318000.0,6586000.0,5.5,5.5,0.119,similarity
+2025-06-30,armor holdco|First lien|2021-12-31|0,"Armor Holdco, Inc.",2025-03-31,2028-12-11,2028-12-11,6347000.0,10321000.0,3.75,3.75,1.596,similarity
+2025-06-30,garda world security|First lien|2022-09-30|0,"Garda World Security, Corp.",2025-03-31,2029-02-01,2029-02-01,20863000.0,20810000.0,3.0,3.0,1.501,similarity
+2025-06-30,rocky mra acquisition|First lien|2024-06-30|0,Rocky MRA Acquisition Corp.,2025-03-31,2028-04-01,2029-04-02,163155000.0,166470000.0,5.75,5.25,0.258,similarity
+2025-06-30,dti holdco|First lien|2022-09-30|0,"DTI Holdco, Inc.",2025-03-31,2029-01-25,2029-04-26,24438000.0,24347000.0,4.0,4.0,-0.75,similarity
+2025-06-30,anaplan|First lien|2024-06-30|0,"Anaplan, Inc.",2025-03-31,2029-06-21,2029-06-21,200000.0,95157000.0,5.0,4.5,1.999,similarity
+2025-06-30,anaplan|First lien|2022-09-30|0,"Anaplan, Inc.",2025-03-31,2029-06-21,2029-06-21,536190000.0,535045000.0,5.0,4.5,1.751,similarity
+2025-06-30,trinity air consultants holdings|First lien|2023-03-31|0,Trinity Air Consultants Holdings Corp.,2025-03-31,2028-06-29,2029-06-29,24735000.0,43460000.0,5.25,4.25,0.608,similarity
+2025-06-30,trinity air consultants holdings|First lien|2021-06-30|0,Trinity Air Consultants Holdings Corp.,2025-03-31,2028-06-29,2029-06-29,66777000.0,78521000.0,5.25,4.25,0.537,similarity
+2025-06-30,clearview buyer|First lien|2021-09-30|0,"Clearview Buyer, Inc.",2025-03-31,2027-08-26,2029-08-31,118221000.0,117735000.0,5.35,4.5,1.442,similarity
+2025-06-30,fusionsite midco|First lien|2024-06-30|0,"FusionSite Midco, LLC",2025-03-31,2029-11-17,2029-11-17,19417000.0,101110000.0,5.5,5.0,1.952,similarity
+2025-06-30,lsf11 trinity bidco|First lien|2023-12-31|0,"LSF11 Trinity Bidco, Inc.",2025-03-31,2030-06-14,2030-06-14,1058000.0,1055000.0,3.0,3.0,1.501,similarity
+2025-06-30,trinity partners holdings|First lien|2021-12-31|0,"Trinity Partners Holdings, LLC",2025-03-31,2028-12-21,2030-12-31,379476000.0,378874000.0,6.24,6.24,1.028,similarity
+2025-06-30,g a partners holding ii|First lien|2024-03-31|0,"G&A Partners Holding Company II, LLC",2025-03-31,2031-03-01,2031-03-03,60039000.0,67211000.0,5.5,4.75,-0.593,similarity
+2025-06-30,veregy consolidated|First lien|2021-03-31|0,"Veregy Consolidated, Inc.",2025-03-31,2027-11-02,2031-04-16,19906000.0,141335000.0,6.0,5.0,5.67,unique_successor
+2025-06-30,situs amc holdings|First lien|2021-12-31|0,Situs-AMC Holdings Corporation,2025-03-31,2027-12-22,2031-05-14,12151000.0,44082000.0,5.5,5.5,5.076,unique_successor
+2025-06-30,zorro bidco|First lien|2025-03-31|1,"Zorro Bidco, Ltd.",2025-03-31,2031-08-13,2031-08-13,108262000.0,108262000.0,4.9,4.4,1.75,similarity
+2025-06-30,inmar|First lien|2021-06-30|0,"Inmar, Inc.",2025-03-31,2031-10-30,2031-10-30,24873000.0,24873000.0,5.0,4.5,1.75,similarity
+2025-06-30,javelin buyer|First lien|2024-12-31|0,"Javelin Buyer, Inc.",2025-03-31,2031-10-08,2031-12-05,3000000.0,2993000.0,3.25,3.25,-0.841,similarity
+2025-06-30,formulations parent|First lien|2023-12-31|0,Formulations Parent Corp.,2025-03-31,2030-11-15,2032-04-09,21214000.0,25000000.0,5.75,4.0,3.813,unique_successor
+2025-06-30,cci buyer|First lien|2021-03-31|0,"CCI Buyer, Inc.",2025-03-31,2027-12-17,2032-05-13,20866000.0,115892000.0,4.0,5.0,6.613,unique_successor
+2025-06-30,inovalon holdings|Second lien|2021-12-31|0,"Inovalon Holdings, Inc.",2025-03-31,2033-11-24,2033-11-24,131514000.0,136299000.0,10.5,8.5,2.509,unique_successor
+2025-06-30,vibrant clo xii|structured finance obligations|2024-09-30|0,"Vibrant CLO XVI, Ltd.",2025-03-31,2036-04-15,2036-07-15,,12000000.0,,,-0.751,similarity
+2025-06-30,sixth street clo xxi|structured finance obligations|2024-09-30|0,"Sixth Street CLO XXI, Ltd.",2025-03-31,2035-10-15,2037-10-21,,8000000.0,,,1.019,similarity
+2025-09-30,wellfleet clo 2025 1|structured finance obligations|2025-06-30|0,"Wellfleet CLO 2025-1, Ltd.",2025-06-30,2025-08-08,2027-04-04,3000000.0,7350000.0,,,0.803,similarity
+2025-09-30,paramount global surfaces|First lien|2025-03-31|0,"Paramount Global Surfaces, Inc.",2025-06-30,2027-04-01,2027-04-30,80646000.0,80646000.0,6.0,6.0,-0.921,similarity
+2025-09-30,eg america|First lien|2023-09-30|3,"EG America, LLC",2025-06-30,2028-02-07,2028-02-07,12042000.0,12003000.0,4.25,3.5000000000000004,1.876,similarity
+2025-09-30,project ruby ultimate parent|First lien|2022-09-30|0,Project Ruby Ultimate Parent Corp.,2025-06-30,2028-03-10,2028-03-10,9065000.0,9065000.0,3.0,2.75,1.625,similarity
+2025-09-30,mic glen|First lien|2021-06-30|0,"Mic Glen, LLC",2025-06-30,2028-07-21,2028-07-21,12661000.0,12630000.0,3.25,3.25,1.501,similarity
+2025-09-30,alterra mountain|First lien|2021-06-30|0,"Alterra Mountain, Co.",2025-06-30,2028-08-17,2028-08-17,9086000.0,7313000.0,2.75,2.5,1.674,similarity
+2025-09-30,resolute investment managers|First lien|2022-03-31|0,"Resolute Investment Managers, Inc.",2025-06-30,2027-04-30,2028-10-30,3864000.0,3893000.0,6.5,6.5,0.506,similarity
+2025-09-30,west monroe partners|First lien|2025-06-30|0,"West Monroe Partners, LLC",2025-06-30,2027-11-08,2028-11-08,4714000.0,998000.0,4.75,4.75,2.7,unique_successor
+2025-09-30,superannuation and investments us|First lien|2021-09-30|0,"Superannuation & Investments US, LLC",2025-06-30,2028-12-01,2028-12-01,12959000.0,12926000.0,3.75,3.0,1.876,similarity
+2025-09-30,spx flow|First lien|2022-03-31|0,"SPX Flow, Inc.",2025-06-30,2029-04-05,2029-04-05,8651000.0,8651000.0,3.0,2.75,1.625,similarity
+2025-09-30,rally buyer|First lien|2023-03-31|0,"Rally Buyer, Inc.",2025-06-30,2028-07-19,2029-07-19,17745000.0,6113000.0,5.75,5.75,0.164,similarity
+2025-09-30,rally buyer|First lien|2022-09-30|0,"Rally Buyer, Inc.",2025-06-30,2028-07-19,2029-07-19,142814000.0,144063000.0,5.75,6.25,0.252,similarity
+2025-09-30,sovos compliance|First lien|2021-09-30|0,"Sovos Compliance, LLC",2025-06-30,2029-08-12,2029-08-12,13687000.0,13687000.0,4.0,3.25,1.875,similarity
+2025-09-30,more cowbell ii|First lien|2023-09-30|0,"More Cowbell II, LLC",2025-06-30,2029-09-01,2029-09-01,566000.0,643000.0,5.0,4.25,1.905,similarity
+2025-09-30,more cowbell ii|First lien|2023-09-30|1,"More Cowbell II, LLC",2025-06-30,2030-09-01,2030-09-01,19691000.0,93097000.0,5.0,4.25,2.072,unique_successor
+2025-09-30,radiate holdco|First lien|2021-03-31|0,"Radiate Holdco, LLC",2025-06-30,2026-09-25,2029-09-25,25150000.0,23181000.0,3.25,5.0,5.397,unique_successor
+2025-09-30,waystar technologies|First lien|2021-03-31|0,"Waystar Technologies, Inc.",2025-06-30,2029-10-22,2029-10-22,6462000.0,6446000.0,2.25,2.0,1.626,similarity
+2025-09-30,castle management borrower|First lien|2023-12-31|0,"Castle Management Borrower, LLC",2025-06-30,2029-11-03,2029-11-05,34083000.0,33667000.0,5.5,5.5,-0.991,similarity
+2025-09-30,fusionsite midco|First lien|2024-09-30|0,"FusionSite Midco, LLC",2025-03-31,2029-11-17,2029-11-17,37134000.0,26919000.0,5.75,5.25,1.819,similarity
+2025-09-30,specialtycare|First lien|2023-09-30|0,"SpecialtyCare, Inc.",2024-06-30,2028-06-18,2029-12-18,2255000.0,475000.0,4.0,3.75,1.824,similarity
+2025-09-30,cushman wakefield us borrower|First lien|2024-06-30|0,"Cushman & Wakefield US Borrower, LLC",2025-06-30,2030-01-31,2030-01-31,1520000.0,1520000.0,3.25,2.75,1.75,similarity
+2025-09-30,cushman wakefield us borrower|First lien|2023-09-30|0,"Cushman & Wakefield US Borrower, LLC",2025-06-30,2030-01-31,2030-01-31,7443000.0,6315000.0,2.75,2.5,1.663,similarity
+2025-09-30,world insurance associates|First lien|2024-09-30|0,"World Insurance Associates, LLC",2025-06-30,2030-04-03,2030-04-03,81186000.0,90759000.0,5.0,5.0,1.526,similarity
+2025-09-30,eci macola max holding|First lien|2021-03-31|0,"ECI Macola Max Holding, LLC",2025-06-30,2030-05-09,2030-05-09,5396000.0,5382000.0,3.25,2.75,1.751,similarity
+2025-09-30,lsf11 trinity bidco|First lien|2023-12-31|0,"LSF11 Trinity Bidco, Inc.",2025-06-30,2030-06-14,2030-06-15,1055000.0,1052000.0,3.0,2.5,1.753,similarity
+2025-09-30,access cig|First lien|2021-03-31|0,"Access CIG, LLC",2025-06-30,2028-08-18,2030-08-18,43195000.0,43084000.0,4.25,4.0,3.626,unique_successor
+2025-09-30,spring education group|First lien|2023-09-30|0,"Spring Education Group, Inc.",2025-06-30,2030-09-29,2030-10-05,13578000.0,13544000.0,4.0,3.25,-0.608,similarity
+2025-09-30,tacala investment|First lien|2024-06-30|0,Tacala Investment Corp.,2025-06-30,2031-01-31,2031-01-31,2963000.0,2955000.0,3.5000000000000004,3.0,1.751,similarity
+2025-09-30,hyperion refinance s r l|First lien|2024-09-30|0,Hyperion Refinance S.à r.l.,2025-06-30,2031-02-15,2031-02-15,18902000.0,18849000.0,3.0,2.75,1.626,similarity
+2025-09-30,cloud software group|First lien|2024-06-30|0,"Cloud Software Group, Inc.",2025-06-30,2031-03-21,2031-03-21,7076000.0,7076000.0,3.75,3.25,1.75,similarity
+2025-09-30,cloud software group|First lien|2024-03-31|0,"Cloud Software Group, Inc.",2025-06-30,2029-03-30,2032-08-13,15505000.0,13966000.0,3.5000000000000004,3.25,5.025,unique_successor
+2025-09-30,miwd holdco ii|First lien|2024-12-31|0,"MIWD Holdco II, LLC",2025-06-30,2031-03-21,2031-03-28,4466000.0,4455000.0,3.0,2.75,-0.855,similarity
+2025-09-30,vs buyer|First lien|2023-06-30|0,"VS Buyer, LLC",2025-06-30,2031-04-12,2031-04-12,6287000.0,6287000.0,2.75,2.25,1.75,similarity
+2025-09-30,paisley bidco|First lien|2024-12-31|0,"Paisley Bidco, Ltd.",2025-06-30,2031-04-18,2031-05-07,7010000.0,7010000.0,5.0,5.25,-0.823,similarity
+2025-09-30,paisley bidco|First lien|2024-06-30|0,"Paisley Bidco, Ltd.",2025-06-30,2031-04-18,2031-05-07,7947000.0,7947000.0,5.0,5.25,-0.823,similarity
+2025-09-30,paisley bidco|First lien|2024-06-30|1,"Paisley Bidco, Ltd.",2025-06-30,2031-04-18,2031-05-07,14988000.0,14988000.0,5.0,5.25,-0.823,similarity
+2025-09-30,baldwin insurance group holdings|First lien|2024-12-31|0,"Baldwin Insurance Group Holdings, LLC",2025-06-30,2031-05-26,2031-05-26,11870000.0,11840000.0,3.0,2.5,1.751,similarity
+2025-09-30,berlin packaging|First lien|2021-03-31|0,"Berlin Packaging, LLC",2025-06-30,2031-06-07,2031-06-07,18767000.0,18767000.0,3.5000000000000004,3.25,1.625,similarity
+2025-09-30,essential services holding|First lien|2025-06-30|0,Essential Services Holding Corp.,2025-06-30,2030-06-17,2031-06-17,1087000.0,1811000.0,5.0,5.0,0.1,similarity
+2025-09-30,mcgraw hill education|First lien|2021-09-30|0,"McGraw-Hill Education, Inc.",2025-06-30,2031-08-06,2031-08-06,11115000.0,7378000.0,3.25,2.75,1.834,similarity
+2025-09-30,emergency power holdings|First lien|2021-09-30|0,"Emergency Power Holdings, LLC",2025-06-30,2030-08-17,2031-08-17,196272000.0,253944000.0,4.75,4.75,0.057,similarity
+2025-09-30,gtcr everest borrower|First lien|2024-06-30|0,"GTCR Everest Borrower, LLC",2025-06-30,2031-09-05,2031-09-05,12326000.0,16285000.0,2.75,2.75,1.561,similarity
+2025-09-30,alliant holdings intermediate|First lien|2021-06-30|0,"Alliant Holdings Intermediate, LLC",2025-06-30,2031-09-19,2031-09-19,6141000.0,6114000.0,2.75,2.5,1.626,similarity
+2025-09-30,sparta uk bidco|First lien|2024-09-30|0,"Sparta UK Bidco, Ltd.",2025-06-30,2031-09-25,2031-09-25,43901000.0,44570000.0,6.0,5.75,1.629,similarity
+2025-09-30,madison safety flow|First lien|2024-12-31|0,"Madison Safety & Flow, LLC",2025-06-30,2031-09-26,2031-09-26,6948000.0,5787000.0,2.75,2.75,1.542,similarity
+2025-09-30,arnhem bidco|First lien|2024-12-31|0,"Arnhem BidCo, GmbH",2025-06-30,2031-10-01,2031-09-30,229680000.0,229680000.0,4.75,4.5,-0.872,similarity
+2025-09-30,spaceship purchaser|First lien|2024-12-31|0,"Spaceship Purchaser, Inc.",2025-06-30,2031-10-17,2031-10-17,501066000.0,625998000.0,5.0,5.92,2.01,unique_successor
+2025-09-30,first advantage holdings|First lien|2025-03-31|0,"First Advantage Holdings, LLC",2025-06-30,2031-10-31,2031-10-31,5448000.0,5408000.0,3.25,2.75,1.752,similarity
+2025-09-30,life time|First lien|2025-06-30|0,"Life Time, Inc.",2025-06-30,2031-11-05,2031-11-05,2342000.0,2342000.0,2.25,2.0,1.625,similarity
+2025-09-30,lsf12 crown us commercial bidco|First lien|2024-12-31|0,"Lsf12 Crown US Commercial Bidco, LLC",2025-06-30,2031-12-02,2031-12-02,97232000.0,96989000.0,4.25,3.5000000000000004,1.876,similarity
+2025-09-30,southern veterinary partners|First lien|2024-12-31|0,"Southern Veterinary Partners, LLC",2025-06-30,2031-10-31,2031-12-04,10185000.0,10185000.0,3.25,2.5,1.968,similarity
+2025-09-30,javelin buyer|First lien|2024-12-31|0,"Javelin Buyer, Inc.",2025-06-30,2031-12-05,2031-12-05,2993000.0,2985000.0,3.25,2.75,1.751,similarity
+2025-09-30,icebox holdco iii|First lien|2022-09-30|0,"Icebox Holdco III, Inc.",2025-06-30,2028-12-22,2031-12-22,15543000.0,15503000.0,3.5000000000000004,3.25,2.126,unique_successor
+2025-09-30,cogentrix finance holdco i|First lien|2025-06-30|0,"Cogentrix Finance Holdco I, LLC",2025-06-30,2032-02-26,2032-02-26,2348000.0,2225000.0,2.75,2.25,1.763,similarity
+2025-09-30,emb purchaser|First lien|2025-03-31|0,"EMB Purchaser, Inc.",2025-06-30,2032-03-13,2032-03-12,35539000.0,41113000.0,4.5,4.5,-0.963,similarity
+2025-09-30,emb purchaser|First lien|2025-03-31|1,"EMB Purchaser, Inc.",2025-06-30,2032-03-13,2032-03-12,148520000.0,148148000.0,4.5,4.5,-0.997,similarity
+2025-09-30,avalara|First lien|2025-06-30|0,"Avalara, Inc.",2025-06-30,2032-03-26,2032-03-26,2000000.0,2000000.0,3.25,2.75,1.75,similarity
+2025-09-30,dg investment intermediate holdings 2|First lien|2021-03-31|0,"DG Investment Intermediate Holdings 2, Inc.",2025-06-30,2028-03-31,2032-07-09,22361000.0,14499000.0,3.5000000000000004,3.75,5.99,unique_successor
+2025-09-30,osaic holdings|First lien|2024-06-30|0,"Osaic Holdings, Inc.",2025-06-30,2028-08-17,2032-08-01,6159000.0,3000000.0,3.5000000000000004,3.0,5.837,unique_successor
+2025-09-30,onex tsg intermediate|First lien|2021-03-31|0,Onex TSG Intermediate Corp.,2025-06-30,2028-02-28,2032-08-06,22473000.0,10954000.0,4.75,3.75,6.569,unique_successor
+2025-09-30,enstructure|First lien|2022-09-30|0,"Enstructure, LLC",2025-06-30,2029-06-10,2032-08-15,230696000.0,452038000.0,6.27,4.5,5.691,unique_successor
+2025-09-30,heartland dental|First lien|2024-06-30|0,"Heartland Dental, LLC",2025-06-30,2028-04-30,2032-08-25,9875000.0,5910000.0,4.5,3.75,6.299,unique_successor
+2025-09-30,dg investment intermediate holdings 2|Second lien|2021-03-31|0,"DG Investment Intermediate Holdings 2, Inc.",2025-06-30,2029-03-30,2033-07-31,29464000.0,26000000.0,6.75,5.5,6.494,unique_successor
+2025-09-30,igt holding ii ab|Second lien|2024-12-31|0,"IGT Holding II, AB",2025-06-30,2033-08-27,2033-08-29,129022000.0,135874000.0,6.15,6.15,-0.982,similarity
+2025-09-30,sixth street clo xxi|structured finance obligations|2024-09-30|0,"Sixth Street CLO XXI, Ltd.",2025-06-30,2037-10-21,2037-10-21,8000000.0,8000000.0,,,1.5,similarity
+2025-09-30,vibrant clo xii|structured finance obligations|2024-09-30|0,"Vibrant CLO XVI, Ltd.",2025-06-30,2036-07-15,2036-07-15,12000000.0,12000000.0,,,1.5,similarity
+2025-12-31,regatta kilo|structured finance obligations|2025-06-30|0,Regatta Kilo,2025-09-30,2028-10-08,2026-12-27,4047000.0,4867000.0,,,0.826,similarity
+2025-12-31,stepping stones healthcare services|First lien|2023-03-31|0,"Stepping Stones Healthcare Services, LLC",2023-09-30,2026-12-30,2026-12-30,3150000.0,14588000.0,5.75,4.0,1.071,similarity
+2025-12-31,carval clo viii c|structured finance obligations|2025-09-30|0,Carval CLO XIII-C Ltd,2025-09-30,2034-04-21,2027-06-24,1594000.0,3844000.0,,,4.146,unique_successor
+2025-12-31,bayshore intermediate 2|First lien|2024-06-30|0,"Bayshore Intermediate #2, LP",2025-09-30,2028-10-01,2028-10-02,324218000.0,326677000.0,5.5,5.5,1.505,similarity
+2025-12-31,north haven ushc acquisition|First lien|2024-09-30|0,"North Haven Ushc Acquisition, Inc.",2025-09-30,2027-10-30,2027-10-29,3090000.0,3082000.0,5.25,5.25,-0.997,similarity
+2025-12-31,north haven ushc acquisition|First lien|2024-09-30|2,"North Haven Ushc Acquisition, Inc.",2025-09-30,2027-10-30,2027-10-29,4464000.0,4453000.0,5.25,5.25,-0.997,similarity
+2025-12-31,north haven ushc acquisition|First lien|2024-09-30|1,"North Haven Ushc Acquisition, Inc.",2025-09-30,2027-10-30,2027-10-29,3594000.0,3585000.0,5.25,5.25,-0.997,similarity
+2025-12-31,north haven ushc acquisition|First lien|2024-09-30|4,"North Haven Ushc Acquisition, Inc.",2025-09-30,2027-10-30,2027-10-29,7262000.0,7243000.0,5.25,5.25,-0.997,similarity
+2025-12-31,north haven ushc acquisition|First lien|2024-09-30|3,"North Haven Ushc Acquisition, Inc.",2025-09-30,2027-10-30,2027-10-29,12403000.0,12371000.0,5.25,5.25,-0.997,similarity
+2025-12-31,north haven ushc acquisition|First lien|2024-09-30|5,"North Haven Ushc Acquisition, Inc.",2025-09-30,2027-10-30,2027-10-29,15035000.0,15035000.0,5.25,5.25,-0.997,similarity
+2025-12-31,north haven ushc acquisition|First lien|2024-09-30|6,"North Haven Ushc Acquisition, Inc.",2025-09-30,2027-10-30,2027-10-29,22126000.0,22069000.0,5.25,5.25,-0.997,similarity
+2025-12-31,prodege international holdings|First lien|2021-12-31|0,"Prodege International Holdings, LLC",2025-09-30,2027-12-15,2027-12-15,545988000.0,268040000.0,5.75,5.75,1.627,similarity
+2025-12-31,mri software|First lien|2022-09-30|0,"MRI Software, LLC",2025-09-30,2027-02-10,2028-02-10,26402000.0,29257000.0,4.75,4.75,0.024,similarity
+2025-12-31,mri software|First lien|2021-03-31|0,"MRI Software, LLC",2025-09-30,2027-02-10,2028-02-10,34454000.0,34363000.0,4.75,4.75,0.001,similarity
+2025-12-31,mri software|First lien|2024-09-30|0,"MRI Software, LLC",2025-09-30,2027-02-10,2028-02-10,205148000.0,204606000.0,4.75,4.75,0.001,similarity
+2025-12-31,gigamon|First lien|2024-06-30|0,"Gigamon, Inc.",2025-09-30,2029-03-09,2028-03-10,18042000.0,10310000.0,5.75,5.75,0.104,similarity
+2025-12-31,qualus power services|First lien|2021-03-31|0,Qualus Power Services Corp.,2025-09-30,2027-03-26,2028-03-27,53583000.0,53450000.0,5.0,4.25,0.381,similarity
+2025-12-31,qualus power services|First lien|2023-09-30|0,Qualus Power Services Corp.,2025-09-30,2027-03-26,2028-03-27,60565000.0,60406000.0,5.0,4.25,0.381,similarity
+2025-12-31,qualus power services|First lien|2024-09-30|0,Qualus Power Services Corp.,2025-09-30,2027-03-26,2028-03-27,62768000.0,86315000.0,5.0,4.25,0.449,similarity
+2025-12-31,channelside acquisitionco|First lien|2024-06-30|1,"Channelside AcquisitionCo, Inc.",2025-09-30,2031-05-15,2028-03-31,155271000.0,1563000.0,4.75,4.75,2.371,unique_successor
+2025-12-31,channelside acquisitionco|First lien|2024-06-30|0,"Channelside AcquisitionCo, Inc.",2024-09-30,2029-05-15,2028-06-30,5002000.0,154877000.0,4.75,4.75,0.116,similarity
+2025-12-31,jayhawk buyer|First lien|2021-03-31|0,"Jayhawk Buyer, LLC",2025-09-30,2026-10-15,2028-04-15,223779000.0,223779000.0,5.0,5.25,0.626,similarity
+2025-12-31,go car wash management|First lien|2021-12-31|0,Go Car Wash Management Corp.,2025-09-30,2026-12-31,2028-06-30,88409000.0,88180000.0,5.75,5.75,0.499,similarity
+2025-12-31,jayhawk buyer|Second lien|2021-06-30|0,"Jayhawk Buyer, LLC",2025-09-30,2027-10-15,2028-07-16,6537000.0,6537000.0,8.75,8.75,-0.247,similarity
+2025-12-31,turing holdco|First lien|2022-12-31|1,"Turing Holdco, Inc.",2025-09-30,2028-10-16,2028-10-14,6754000.0,6797000.0,6.0,6.0,-0.993,similarity
+2025-12-31,turing holdco|First lien|2023-09-30|0,"Turing Holdco, Inc.",2025-09-30,2028-08-03,2028-10-14,6584000.0,6584000.0,6.0,6.0,-0.803,similarity
+2025-12-31,turing holdco|First lien|2022-12-31|0,"Turing Holdco, Inc.",2025-09-30,2028-09-28,2028-10-14,13582000.0,13669000.0,6.0,6.0,-0.955,similarity
+2025-12-31,turing holdco|First lien|2021-12-31|0,"Turing Holdco, Inc.",2025-09-30,2028-09-28,2028-10-14,17547000.0,17658000.0,6.0,6.0,-0.955,similarity
+2025-12-31,turing holdco|First lien|2024-06-30|1,"Turing Holdco, Inc.",2025-09-30,2028-08-03,2028-10-14,31934000.0,32136000.0,6.0,6.0,-0.801,similarity
+2025-12-31,turing holdco|First lien|2024-06-30|0,"Turing Holdco, Inc.",2025-09-30,2028-08-03,2028-10-14,23993000.0,24142000.0,6.0,6.0,-0.801,similarity
+2025-12-31,ken bidco|First lien|2024-06-30|0,"KEN Bidco, Ltd.",2025-09-30,2028-08-03,2028-10-14,14272000.0,14393000.0,6.0,6.0,-0.801,similarity
+2025-12-31,gi ranger intermediate|First lien|2021-12-31|0,"GI Ranger Intermediate, LLC",2025-09-30,2028-10-29,2028-10-30,102024000.0,103200000.0,5.75,6.0,-0.869,similarity
+2025-12-31,ascend learning|First lien|2022-03-31|0,"Ascend Learning, LLC",2024-12-31,2028-12-11,2028-12-11,20370000.0,1496000.0,3.5000000000000004,3.0,1.982,similarity
+2025-12-31,r1 holdings|First lien|2025-03-31|0,"R1 Holdings, LLC",2025-09-30,2028-12-30,2028-12-29,1323000.0,1320000.0,6.25,6.25,-0.997,similarity
+2025-12-31,paramount global surfaces|First lien|2025-03-31|0,"Paramount Global Surfaces, Inc.",2025-09-30,2027-04-30,2028-12-31,80646000.0,83340000.0,6.0,6.0,0.682,similarity
+2025-12-31,vaco holdings|First lien|2022-03-31|0,"Vaco Holdings, Inc.",2025-09-30,2029-01-21,2029-01-22,8871000.0,8848000.0,5.0,5.0,-0.997,similarity
+2025-12-31,scih salt holdings|First lien|2021-06-30|0,"SCIH Salt Holdings, Inc.",2025-09-30,2029-01-31,2029-01-31,15629000.0,15629000.0,3.0,2.75,1.625,similarity
+2025-12-31,hs purchaser|First lien|2021-03-31|0,"HS Purchaser, LLC",2025-09-30,2026-11-19,2029-05-19,23368000.0,14036000.0,3.75,6.0,2.598,unique_successor
+2025-12-31,unified women s healthcare|First lien|2021-03-31|0,"Unified Women's Healthcare, LP",2022-03-31,2027-12-16,2029-06-18,23275000.0,15541000.0,4.25,5.0,1.965,similarity
+2025-12-31,perforce software|First lien|2021-03-31|0,"Perforce Software, Inc.",2025-09-30,2029-07-01,2029-07-02,18288000.0,18242000.0,4.75,4.75,-0.997,similarity
+2025-12-31,dwyer instruments|First lien|2024-12-31|0,"Dwyer Instruments, LLC",2025-09-30,2029-07-30,2029-07-20,46329000.0,46212000.0,4.75,4.75,-0.972,similarity
+2025-12-31,env bidco ab|First lien|2022-12-31|1,"ENV Bidco, AB",2025-09-30,2029-07-19,2029-07-27,114097000.0,114097000.0,5.0,5.0,-0.978,similarity
+2025-12-31,env bidco ab|First lien|2022-12-31|0,"ENV Bidco, AB",2025-09-30,2029-07-19,2029-07-27,114257000.0,114257000.0,5.0,5.0,-0.978,similarity
+2025-12-31,sovos compliance|First lien|2021-09-30|0,"Sovos Compliance, LLC",2025-09-30,2029-08-12,2029-08-13,13687000.0,13653000.0,3.25,3.25,-0.997,similarity
+2025-12-31,mantech international cp|First lien|2023-09-30|0,"Mantech International, CP",2023-12-31,2029-09-14,2029-09-14,65335000.0,885948000.0,5.75,4.5,0.857,similarity
+2025-12-31,color intermediate|First lien|2022-12-31|0,"Color Intermediate, LLC",2025-09-30,2029-10-01,2029-10-04,362405000.0,361488000.0,4.75,4.75,-0.991,similarity
+2025-12-31,foundation risk partners|First lien|2024-03-31|0,Foundation Risk Partners Corp.,2024-03-31,2028-10-29,2029-10-29,7833000.0,4067000.0,5.5,4.75,1.495,similarity
+2025-12-31,usi|First lien|2023-03-31|0,"USI, Inc.",2025-09-30,2029-11-22,2029-11-21,6812000.0,6795000.0,2.25,2.25,-0.997,similarity
+2025-12-31,knowledge pro buyer|First lien|2022-09-30|0,"Knowledge Pro Buyer, Inc.",2025-09-30,2027-12-10,2029-12-10,102005000.0,110483000.0,5.0,4.5,1.272,similarity
+2025-12-31,apex companies|First lien|2023-03-31|1,"Apex Companies, LLC",2025-09-30,2028-01-31,2030-01-31,1962000.0,1958000.0,5.25,5.0,1.128,similarity
+2025-12-31,apex companies|First lien|2024-09-30|0,"Apex Companies, LLC",2025-09-30,2028-01-31,2030-01-31,2772000.0,7242000.0,5.25,5.0,1.282,similarity
+2025-12-31,apex companies|First lien|2024-09-30|1,"Apex Companies, LLC",2025-09-30,2028-01-31,2030-01-31,10868000.0,10841000.0,5.25,5.0,1.128,similarity
+2025-12-31,experity|First lien|2024-09-30|0,"Experity, Inc.",2024-12-31,2028-02-24,2030-02-24,2306000.0,35496000.0,5.5,5.0,1.486,similarity
+2025-12-31,experity|First lien|2021-09-30|0,"Experity, Inc.",2025-09-30,2028-02-24,2030-02-24,109302000.0,110039000.0,6.0,5.0,1.504,similarity
+2025-12-31,chart industries|First lien|2023-03-31|0,"Chart Industries, Inc.",2025-09-30,2030-03-16,2030-03-15,5048000.0,4713000.0,2.5,2.5,-0.981,similarity
+2025-12-31,loar group|First lien|2024-06-30|0,"Loar Group, Inc.",2024-09-30,2030-05-10,2030-05-10,359100000.0,445000000.0,4.75,4.25,1.798,similarity
+2025-12-31,lsf11 trinity bidco|First lien|2023-12-31|0,"LSF11 Trinity Bidco, Inc.",2025-09-30,2030-06-15,2030-06-14,1052000.0,1050000.0,2.5,2.5,-0.997,similarity
+2025-12-31,aretec group|First lien|2023-12-31|0,"Aretec Group, Inc.",2025-09-30,2030-08-09,2030-08-09,11273000.0,11273000.0,3.5000000000000004,3.0,1.75,similarity
+2025-12-31,access cig|First lien|2021-03-31|0,"Access CIG, LLC",2025-09-30,2030-08-18,2030-08-19,43084000.0,42976000.0,4.0,4.0,-0.997,similarity
+2025-12-31,new red finance|First lien|2023-09-30|0,"New Red Finance, Inc.",2025-09-30,2030-09-12,2030-09-20,13558000.0,12946000.0,1.7500000000000002,1.7500000000000002,-0.967,similarity
+2025-12-31,iris buyer|First lien|2025-03-31|0,"Iris Buyer, LLC",2025-09-30,2029-10-02,2030-10-02,1574000.0,2190000.0,5.25,5.25,2.57,unique_successor
+2025-12-31,spring education group|First lien|2023-09-30|0,"Spring Education Group, Inc.",2025-09-30,2030-10-05,2030-10-04,13544000.0,13509000.0,3.25,3.25,-0.997,similarity
+2025-12-31,project alpha intermediate holding|First lien|2021-03-31|0,"Project Alpha Intermediate Holding, Inc.",2025-09-30,2030-10-28,2030-10-26,70321000.0,70143000.0,3.25,3.25,-0.994,similarity
+2025-12-31,minerva bidco|First lien|2025-09-30|0,"Minerva Bidco, Ltd.",2025-09-30,2030-11-16,2030-11-07,6532000.0,46904000.0,5.0,4.25,-0.385,similarity
+2025-12-31,brave parent holdings|First lien|2023-12-31|0,"Brave Parent Holdings, Inc.",2025-09-30,2030-11-28,2030-11-28,496487000.0,495227000.0,5.0,4.25,1.876,similarity
+2025-12-31,charter next generation|First lien|2024-06-30|0,"Charter Next Generation, Inc.",2025-09-30,2030-11-29,2030-11-29,6917000.0,6905000.0,2.75,2.75,1.5,similarity
+2025-12-31,cisive holdings|First lien|2024-06-30|0,Cisive Holdings Corp.,2025-09-30,2028-12-08,2030-12-08,33342000.0,33259000.0,5.75,5.75,1.001,similarity
+2025-12-31,irb holding|First lien|2022-03-31|0,IRB Holding Corp.,2025-09-30,2027-12-15,2030-12-15,24801000.0,24739000.0,2.5,2.5,4.503,unique_successor
+2025-12-31,tricorbraun holdings|First lien|2021-03-31|0,"TricorBraun Holdings, Inc.",2025-09-30,2028-03-03,2031-03-03,24299000.0,23930000.0,3.25,3.25,2.004,unique_successor
+2025-12-31,cengage learning|First lien|2024-06-30|0,"Cengage Learning, Inc.",2025-09-30,2031-03-22,2031-03-24,11860000.0,10922000.0,3.5000000000000004,3.5000000000000004,-0.975,similarity
+2025-12-31,bmc acquisition|First lien|2021-03-31|1,"LBM Acquisition, LLC",2025-09-30,2031-05-31,2031-06-06,40449000.0,40346000.0,3.75,3.75,-0.983,similarity
+2025-12-31,speedster bidco|First lien|2024-12-31|0,"Speedster Bidco, GmbH",2025-09-30,2031-12-10,2031-06-10,20219000.0,1521000.0,3.25,2.5,0.108,similarity
+2025-12-31,higginbotham insurance agency|First lien|2024-09-30|0,"Higginbotham Insurance Agency, Inc.",2025-09-30,2028-11-25,2031-06-11,89517000.0,98579000.0,4.5,4.5,4.065,unique_successor
+2025-12-31,broadstreet partners|First lien|2024-06-30|0,"BroadStreet Partners, Inc.",2025-09-30,2031-06-14,2031-06-13,19762000.0,19718000.0,2.75,2.75,-0.997,similarity
+2025-12-31,homecare software solutions|First lien|2024-06-30|0,"Homecare Software Solutions, LLC",2025-09-30,2031-06-14,2031-06-16,30817000.0,31056000.0,5.55,5.55,-0.993,similarity
+2025-12-31,homecare software solutions|First lien|2024-09-30|0,"Homecare Software Solutions, LLC",2025-09-30,2031-06-14,2031-06-16,36453000.0,36735000.0,5.55,5.55,-0.993,similarity
+2025-12-31,homecare software solutions|First lien|2024-06-30|1,"Homecare Software Solutions, LLC",2025-09-30,2031-06-14,2031-06-16,78907000.0,79518000.0,5.55,5.55,-0.993,similarity
+2025-12-31,fern bidco|First lien|2024-12-31|0,"Fern Bidco, Ltd.",2025-09-30,2031-07-03,2031-07-01,4414000.0,4414000.0,5.25,5.25,-0.995,similarity
+2025-12-31,fern bidco|First lien|2024-09-30|0,"Fern Bidco, Ltd.",2025-09-30,2031-07-03,2031-07-01,40356000.0,40356000.0,5.25,5.25,-0.995,similarity
+2025-12-31,sedgwick claims management services|Second lien|2024-09-30|0,"Sedgwick Claims Management Services, Inc.",2025-09-30,2032-07-31,2031-07-31,230000000.0,230000000.0,5.0,5.0,0.003,similarity
+2025-12-31,healthcomp holding|Unsecured|2023-12-31|0,"Healthcomp Holding Company, LLC",2025-09-30,2031-11-08,2031-11-07,23478000.0,24303000.0,13.750000000000002,13.750000000000002,-0.989,similarity
+2025-12-31,anticimex|First lien|2022-06-30|1,"Anticimex, Inc.",2025-09-30,2028-11-16,2031-11-17,11555000.0,5571000.0,3.4000000000000004,2.9,4.882,unique_successor
+2025-12-31,duro dyne national|First lien|2024-12-31|0,Duro Dyne National Corp.,2025-09-30,2031-11-15,2031-11-17,188707000.0,160574000.0,4.75,4.5,-0.832,similarity
+2025-12-31,logicmonitor|First lien|2024-12-31|0,"LogicMonitor, Inc.",2025-09-30,2031-11-15,2031-11-19,91603000.0,122899000.0,5.5,5.5,-0.925,similarity
+2025-12-31,iem new sub 2|First lien|2024-09-30|0,"IEM New Sub 2, LLC",2025-09-30,2030-08-08,2031-12-03,326137000.0,646542000.0,4.5,4.5,2.944,unique_successor
+2025-12-31,armor holdco|First lien|2021-12-31|0,"Armor Holdco, Inc.",2025-09-30,2028-12-11,2031-12-10,10295000.0,6299000.0,3.75,3.75,4.594,unique_successor
+2025-12-31,parexel international|First lien|2025-03-31|0,"Parexel International, Inc.",2025-09-30,2028-11-15,2031-12-12,7358000.0,7353000.0,2.5,2.75,4.699,unique_successor
+2025-12-31,horizon cts buyer|First lien|2025-03-31|0,"Horizon CTS Buyer, LLC",2025-09-30,2032-03-28,2032-03-29,66638000.0,67307000.0,4.5,4.75,-0.87,similarity
+2025-12-31,opal bidco sas|First lien|2025-03-31|0,"Opal Bidco, SAS",2025-09-30,2032-03-31,2032-04-28,50148000.0,50023000.0,3.25,3.0,1.702,similarity
+2025-12-31,mrh trowe beteiligungsgesellschaft mbh|First lien|2025-06-30|0,MRH Trowe Beteiligungsgesellschaft mbH,2025-09-30,2032-05-15,2032-05-17,365000.0,406000.0,5.0,5.0,-0.969,similarity
+2025-12-31,qbs parent|First lien|2024-12-31|0,"QBS Parent, Inc.",2025-03-31,2031-11-07,2032-06-03,53566000.0,997000.0,4.75,4.5,-0.057,similarity
+2025-12-31,elk bidco|First lien|2025-06-30|0,"ELK Bidco, Inc.",2025-09-30,2032-06-13,2032-06-14,71844000.0,71665000.0,4.5,4.5,-0.997,similarity
+2025-12-31,metrodora s l|First lien|2025-09-30|0,Metrodora S.L.,2025-09-30,2032-07-10,2032-07-15,558000.0,558000.0,4.25,4.25,-0.986,similarity
+2025-12-31,metrodora s l|First lien|2025-09-30|1,Metrodora S.L.,2025-09-30,2032-07-10,2032-07-15,1367000.0,1367000.0,4.25,4.25,-0.986,similarity
+2025-12-31,scientian 2 spain s l|First lien|2025-09-30|0,"Scientian 2 Spain, S.L.",2025-09-30,2032-07-10,2032-07-15,1599000.0,1599000.0,4.25,4.25,-0.986,similarity
+2025-12-31,scientian france sas|First lien|2025-09-30|0,"Scientian France, SAS",2025-09-30,2032-07-10,2032-07-15,3525000.0,3525000.0,4.25,4.25,-0.986,similarity
+2025-12-31,osaic holdings|First lien|2024-06-30|0,"Osaic Holdings, Inc.",2025-09-30,2032-08-01,2032-07-30,3000000.0,5000000.0,3.0,3.0,-0.895,similarity
+2025-12-31,flexera software|First lien|2025-09-30|0,"Flexera Software, LLC",2025-09-30,2032-08-15,2032-08-16,56550000.0,56550000.0,4.75,4.75,-0.997,similarity
+2025-12-31,flexera software|First lien|2025-09-30|1,"Flexera Software, LLC",2025-09-30,2032-08-15,2032-08-16,187380000.0,187380000.0,4.75,4.75,-0.997,similarity
+2025-12-31,seven bidco sasu|First lien|2025-09-30|0,"Seven Bidco, SASU",2025-09-30,2032-08-29,2032-08-27,210485000.0,210485000.0,4.5,4.5,-0.995,similarity
+2025-12-31,froneri us|First lien|2025-09-30|0,"Froneri US, Inc.",2025-09-30,2032-08-02,2032-09-30,3000000.0,3000000.0,2.0,2.25,-0.713,similarity
+2025-12-31,navex topco|First lien|2023-12-31|0,"NAVEX TopCo, Inc.",2025-09-30,2030-11-09,2032-10-14,99137000.0,221611000.0,5.25,5.0,3.695,unique_successor
+2025-12-31,pro mach group|First lien|2021-03-31|0,"Pro Mach Group, Inc.",2025-09-30,2028-08-31,2032-10-16,6860000.0,6000000.0,2.75,2.75,5.66,unique_successor
+2025-12-31,elanco animal health|First lien|2025-03-31|0,"Elanco Animal Health, Inc.",2025-09-30,2027-08-01,2032-10-31,2189000.0,721000.0,1.7500000000000002,1.7500000000000002,4.168,unique_successor
+2025-12-31,ascensus group holdings|First lien|2025-03-31|0,"Ascensus Group Holdings, Inc.",2025-09-30,2028-08-02,2032-11-24,40493000.0,40493000.0,3.0,3.0,3.315,unique_successor
+2025-12-31,engineered machinery holdings|First lien|2021-09-30|0,"Engineered Machinery Holdings, Inc.",2025-09-30,2028-05-19,2032-11-26,11663000.0,7716000.0,3.5000000000000004,3.25,6.236,unique_successor
+2025-12-31,xplor t1|First lien|2024-06-30|0,"XPLOR T1, LLC",2025-09-30,2031-06-24,2032-12-01,34650000.0,34563000.0,3.5000000000000004,3.5000000000000004,2.942,unique_successor
+2025-12-31,rfs opco|First lien|2024-06-30|0,"RFS Opco, LLC",2025-09-30,2031-04-04,2032-12-02,37752000.0,141180000.0,4.75,4.5,3.474,unique_successor
+2025-12-31,omnia partners|First lien|2024-12-31|0,"OMNIA Partners, LLC",2025-09-30,2030-07-25,2032-12-31,9925000.0,7933000.0,2.5,2.75,1.614,similarity
+2025-12-31,kaseya|Second lien|2025-03-31|0,"Kaseya, Inc.",2025-09-30,2033-05-20,2033-03-20,125000000.0,125000000.0,5.0,5.0,-0.833,similarity
+2025-12-31,bain capital credit clo 2020 4|structured finance obligations|2023-12-31|0,"Bain Capital Credit CLO 2022-1, Ltd",2025-09-30,2036-10-20,2038-10-18,5500000.0,5000000.0,7.980000000000001,7.59,3.712,unique_successor
+2025-12-31,sixth street clo xxi|structured finance obligations|2025-09-30|0,"Sixth Street CLO XXII, Ltd.",2025-09-30,2036-04-22,2125-04-22,6500000.0,6500000.0,,,4.0,unique_successor
+2025-12-31,pibb member|First lien|2024-12-31|0,"Pibb Member, LLC",2025-09-30,2049-11-22,2049-12-20,2177000.0,2150000.0,6.41,6.41,-0.92,similarity
+2026-03-31,genuine cable group|First lien|2021-12-31|0,"Genuine Cable Group, LLC",2025-12-31,2026-11-02,2027-05-03,29343000.0,29271000.0,5.75,5.25,-0.251,similarity
+2026-03-31,alpine intel intermediate 2|First lien|2025-03-31|0,"Alpine Intel Intermediate 2, LLC",2025-12-31,2028-01-31,2027-12-16,3161000.0,3153000.0,4.5,4.5,-0.873,similarity
+2026-03-31,jacuzzi brands|First lien|2023-03-31|0,"Jacuzzi Brands, LLC",2025-12-31,2027-02-25,2028-05-25,6319000.0,6319000.0,6.0,6.25,0.372,similarity
+2026-03-31,jacuzzi brands|First lien|2021-03-31|0,"Jacuzzi Brands, LLC",2025-12-31,2027-02-25,2028-05-25,43474000.0,43474000.0,6.0,6.25,0.372,similarity
+2026-03-31,jacuzzi brands|First lien|2022-09-30|0,"Jacuzzi Brands, LLC",2025-12-31,2027-02-25,2028-05-25,187540000.0,187540000.0,6.0,6.25,0.372,similarity
+2026-03-31,trp infrastructure services|First lien|2025-12-31|0,"TRP Infrastructure Services, LLC",2025-12-31,2027-07-09,2028-07-09,20568000.0,37836000.0,5.5,5.5,0.117,similarity
+2026-03-31,trp infrastructure services|First lien|2024-12-31|0,"TRP Infrastructure Services, LLC",2025-12-31,2027-07-09,2028-07-09,41612000.0,44000000.0,5.5,5.5,0.016,similarity
+2026-03-31,trp infrastructure services|First lien|2021-09-30|0,"TRP Infrastructure Services, LLC",2025-12-31,2027-07-09,2028-07-09,70737000.0,70551000.0,5.5,5.5,0.003,similarity
+2026-03-31,ai aqua merger sub|First lien|2021-06-30|0,"AI Aqua Merger Sub, Inc.",2025-12-31,2028-07-31,2028-07-30,36615000.0,22044000.0,3.0,2.75,1.727,similarity
+2026-03-31,amerilife holdings|First lien|2023-03-31|0,"Amerilife Holdings, LLC",2025-12-31,2029-08-31,2028-08-31,120989000.0,11554000.0,5.0,5.0,0.226,similarity
+2026-03-31,red river technology|First lien|2021-06-30|0,"Red River Technology, LLC",2025-12-31,2027-05-26,2028-11-26,144774000.0,144396000.0,6.0,6.0,0.508,similarity
+2026-03-31,superannuation and investments us|First lien|2021-09-30|0,"Superannuation & Investments US, LLC",2025-12-31,2028-12-01,2028-12-01,12894000.0,12589000.0,3.0,2.5,1.756,similarity
+2026-03-31,fencing supply group acquisition|First lien|2021-03-31|0,"Fencing Supply Group Acquisition, LLC",2025-12-31,2027-02-26,2029-02-26,108443000.0,112275000.0,6.0,6.0,1.011,similarity
+2026-03-31,ws audiology a s|First lien|2025-06-30|0,WS Audiology A/S,2025-12-31,2029-02-28,2029-02-28,11752000.0,11723000.0,3.5000000000000004,3.25,1.626,similarity
+2026-03-31,light wonder international|First lien|2025-06-30|0,"Light & Wonder International, Inc.",2025-12-31,2029-04-14,2029-04-16,641000.0,641000.0,2.25,2.0,1.63,similarity
+2026-03-31,victors ccc buyer|First lien|2023-06-30|0,"Victors CCC Buyer, LLC",2023-06-30,2029-06-01,2029-06-01,4381000.0,16561000.0,5.75,4.5,0.809,similarity
+2026-03-31,mantech international cp|First lien|2022-09-30|0,"Mantech International, CP",2025-09-30,2029-09-14,2029-09-14,888184000.0,12366000.0,5.0,4.5,1.997,similarity
+2026-03-31,petrus buyer|First lien|2025-09-30|0,"Petrus Buyer, Inc.",2025-09-30,2029-10-17,2029-10-17,738000.0,1475000.0,4.5,4.75,1.75,similarity
+2026-03-31,cfgi holdings|First lien|2021-12-31|0,"CFGI Holdings, LLC",2025-12-31,2027-11-02,2029-11-02,18076000.0,17597000.0,4.5,4.25,1.134,similarity
+2026-03-31,castle management borrower|First lien|2024-06-30|0,"Castle Management Borrower, LLC",2024-09-30,2029-11-03,2029-11-05,417000.0,1417000.0,5.5,5.5,-0.818,similarity
+2026-03-31,fusionsite midco|First lien|2023-12-31|1,"FusionSite Midco, LLC",2025-03-31,2029-11-17,2029-11-17,44893000.0,5108000.0,5.75,5.25,1.972,similarity
+2026-03-31,kwol acquisition|First lien|2025-03-31|0,"Kwol Acquisition, Inc.",2025-12-31,2030-02-28,2029-12-12,87000.0,3586000.0,5.25,5.0,2.083,unique_successor
+2026-03-31,essential services holding|First lien|2025-06-30|0,Essential Services Holding Corp.,2025-12-31,2031-06-17,2030-06-17,3622000.0,3622000.0,5.0,5.0,0.0,similarity
+2026-03-31,isq hawkeye holdco|First lien|2024-09-30|0,"ISQ Hawkeye Holdco, Inc.",2025-12-31,2030-08-20,2030-08-20,567000.0,331000.0,4.68,4.0,1.944,similarity
+2026-03-31,isq hawkeye holdco|First lien|2024-09-30|1,"ISQ Hawkeye Holdco, Inc.",2025-12-31,2031-08-20,2031-08-20,8721000.0,8936000.0,4.68,4.0,1.846,similarity
+2026-03-31,air canada|First lien|2021-09-30|0,Air Canada,2025-12-31,2031-03-14,2031-03-21,6228000.0,6212000.0,2.0,1.7500000000000002,-0.855,similarity
+2026-03-31,cengage learning|First lien|2024-06-30|0,"Cengage Learning, Inc.",2025-12-31,2031-03-24,2031-03-24,10922000.0,10406000.0,3.5000000000000004,3.0,1.762,similarity
+2026-03-31,mitchell international|First lien|2021-12-31|0,"Mitchell International, Inc.",2025-12-31,2031-06-17,2031-06-17,64413000.0,41861000.0,3.25,3.0,1.713,similarity
+2026-03-31,gbt us iii|First lien|2024-09-30|0,"GBT US III, LLC",2025-12-31,2031-07-25,2031-07-25,3960000.0,3950000.0,2.5,2.0,1.751,similarity
+2026-03-31,gtcr everest borrower|First lien|2024-06-30|0,"GTCR Everest Borrower, LLC",2025-12-31,2031-09-05,2031-09-05,16244000.0,16204000.0,2.75,2.5,1.626,similarity
+2026-03-31,falcon parent holdings|First lien|2025-03-31|0,"Falcon Parent Holdings, Inc.",2025-03-31,2031-11-06,2031-11-06,18196000.0,161917000.0,5.0,5.5,1.972,similarity
+2026-03-31,lsf12 crown us commercial bidco|First lien|2024-12-31|0,"Lsf12 Crown US Commercial Bidco, LLC",2025-12-31,2031-12-02,2031-12-02,94463000.0,47542000.0,3.5000000000000004,3.0,1.874,similarity
+2026-03-31,edison bidco as|First lien|2024-12-31|0,"Edison Bidco, AS",2025-12-31,2031-12-18,2031-12-05,345000.0,345000.0,5.25,5.25,-0.964,similarity
+2026-03-31,dechra finance us|First lien|2024-12-31|0,"Dechra Finance US, LLC",2025-12-31,2031-12-03,2032-01-27,4963000.0,4963000.0,3.25,2.75,1.901,similarity
+2026-03-31,amwins group|First lien|2025-06-30|0,"AmWINS Group, Inc.",2025-12-31,2032-01-30,2032-01-30,2980000.0,2972000.0,2.25,2.0,1.626,similarity
+2026-03-31,karman holdings|First lien|2025-06-30|0,"Karman Holdings, Inc.",2025-12-31,2032-04-01,2032-04-01,24875000.0,11947000.0,3.5000000000000004,2.75,2.005,unique_successor
+2026-03-31,alera group|First lien|2025-06-30|0,"Alera Group, Inc.",2025-12-31,2032-05-30,2032-05-30,37828000.0,15737000.0,3.25,2.75,1.896,similarity
+2026-03-31,osaic holdings|First lien|2024-06-30|0,"Osaic Holdings, Inc.",2025-12-31,2032-07-30,2032-07-30,5000000.0,6000000.0,3.0,2.5,1.792,similarity
+2026-03-31,onex tsg intermediate|First lien|2021-03-31|0,Onex TSG Intermediate Corp.,2025-12-31,2032-08-06,2032-08-06,10954000.0,4500000.0,3.75,3.25,1.897,similarity
+2026-03-31,ascensus group holdings|First lien|2025-03-31|0,"Ascensus Group Holdings, Inc.",2025-12-31,2032-11-24,2032-11-25,40493000.0,13208000.0,3.0,3.0,-0.829,similarity
+2026-03-31,ensemble rcm|First lien|2025-12-31|0,"Ensemble RCM, LLC",2025-12-31,2029-08-01,2033-02-09,1995000.0,4000000.0,3.0,3.0,5.154,unique_successor
+2026-03-31,freeport lng investments lllp|First lien|2021-12-31|0,"Freeport LNG Investments, LLLP",2025-12-31,2028-12-21,2033-02-11,33047000.0,4000000.0,3.25,3.25,5.865,unique_successor
+2026-03-31,fcg acquisitions|First lien|2021-03-31|0,"FCG Acquisitions, Inc.",2025-12-31,2028-03-31,2033-03-04,22466000.0,9531000.0,3.25,3.25,6.573,unique_successor
+2026-03-31,proampac pg borrower|First lien|2021-03-31|0,"ProAmpac PG Borrower, LLC",2025-12-31,2028-09-15,2033-03-07,16029000.0,9995000.0,4.0,4.0,6.071,unique_successor
+2026-03-31,victory buyer|Second lien|2021-12-31|0,"Victory Buyer, LLC",2025-12-31,2029-11-19,2034-02-13,24677000.0,21379000.0,7.000000000000001,6.0,6.272,unique_successor
+2026-06-30,adcs clinics intermediate holdings|First lien|2024-03-31|0,"ADCS Clinics Intermediate Holdings, LLC",2026-03-31,2026-05-07,2026-08-07,1561000.0,2564000.0,6.25,6.5,-0.525,similarity
+2026-06-30,ai aqua merger sub|First lien|2021-06-30|0,"AI Aqua Merger Sub, Inc.",2026-03-31,2028-07-30,2028-07-31,22044000.0,21989000.0,2.75,2.5,-0.872,similarity
+2026-06-30,amerilife holdings|First lien|2023-06-30|0,"Amerilife Holdings, LLC",2023-09-30,2028-08-31,2029-08-31,8119000.0,7382000.0,5.75,5.0,1.398,similarity
+2026-06-30,imagine 360|First lien|2024-09-30|0,"Imagine 360, LLC",2026-03-31,2028-09-30,2028-10-02,96054000.0,95810000.0,4.75,4.75,-0.994,similarity
+2026-06-30,balboa bay loan funding 2021 2|structured finance obligations|2024-06-30|0,"Balboa Bay Loan Funding 2025-3, Ltd.",2026-03-31,2037-07-20,2028-11-27,2300000.0,779000.0,6.25,,6.665,unique_successor
+2026-06-30,caribou bidco|First lien|2024-09-30|0,"Caribou Bidco, Ltd.",2026-03-31,2029-02-01,2029-02-02,221441000.0,221441000.0,5.0,5.0,-0.997,similarity
+2026-06-30,project ruby ultimate parent|Second lien|2024-12-31|0,Project Ruby Ultimate Parent Corp.,2026-03-31,2029-03-10,2029-03-12,100934000.0,100934000.0,5.25,5.25,-0.995,similarity
+2026-06-30,pigments services|First lien|2023-06-30|0,"Pigments Services, Inc.",2026-03-31,2029-04-14,2029-04-16,27010000.0,27545000.0,8.25,8.25,-0.99,similarity
+2026-06-30,pigments services|First lien|2023-06-30|1,"Pigments Services, Inc.",2026-03-31,2029-04-14,2029-04-16,13189000.0,13450000.0,8.25,8.25,-0.99,similarity
+2026-06-30,whcg purchaser iii|First lien|2021-06-30|0,"WHCG Purchaser III, Inc.",2026-03-31,2029-06-30,2029-06-29,49107000.0,49740000.0,6.5,6.5,-0.994,similarity
+2026-06-30,env bidco ab|First lien|2022-12-31|1,"ENV Bidco, AB",2026-03-31,2029-07-27,2029-07-30,114097000.0,114097000.0,5.0,5.0,-0.992,similarity
+2026-06-30,env bidco ab|First lien|2022-12-31|0,"ENV Bidco, AB",2026-03-31,2029-07-27,2029-07-30,114257000.0,114257000.0,5.0,5.0,-0.992,similarity
+2026-06-30,123dentist|First lien|2022-09-30|0,"123Dentist, Inc.",2026-03-31,2029-08-10,2029-08-09,257763000.0,256898000.0,5.0,5.0,-0.996,similarity
+2026-06-30,iri group holdings|First lien|2025-06-30|0,"IRI Group Holdings, Inc.",2026-03-31,2029-12-01,2029-12-03,1588162000.0,1588162000.0,4.25,4.25,-0.995,similarity
+2026-06-30,experity|First lien|2024-12-31|0,"Experity, Inc.",2025-09-30,2028-02-24,2030-02-22,35204000.0,7706000.0,6.0,5.0,1.693,similarity
+2026-06-30,experity|First lien|2024-09-30|0,"Experity, Inc.",2026-03-31,2030-02-24,2030-02-22,35696000.0,35903000.0,5.0,5.0,-0.993,similarity
+2026-06-30,experity|First lien|2021-09-30|0,"Experity, Inc.",2026-03-31,2030-02-24,2030-02-22,110658000.0,111323000.0,5.0,5.0,-0.993,similarity
+2026-06-30,clarios global|First lien|2025-06-30|0,"Clarios Global, LP",2026-03-31,2032-01-28,2032-01-28,8593000.0,8593000.0,2.75,2.5,1.625,similarity
+2026-06-30,helix ts|First lien|2025-12-31|0,"Helix TS, LLC",2026-03-31,2030-08-04,2030-08-05,5274000.0,5261000.0,5.0,5.0,-0.997,similarity
+2026-06-30,helix ts|First lien|2025-12-31|1,"Helix TS, LLC",2026-03-31,2030-08-04,2030-08-05,13587000.0,13552000.0,5.0,5.0,-0.997,similarity
+2026-06-30,helix ts|First lien|2025-12-31|2,"Helix TS, LLC",2026-03-31,2030-08-04,2030-08-05,67350000.0,91146000.0,5.0,5.0,-0.932,similarity
+2026-06-30,helix ts|First lien|2025-12-31|3,"Helix TS, LLC",2026-03-31,2030-08-04,2030-08-05,99127000.0,98842000.0,5.0,5.0,-0.997,similarity
+2026-06-30,helix ts|First lien|2025-12-31|4,"Helix TS, LLC",2026-03-31,2030-08-04,2030-08-05,116982000.0,116709000.0,5.0,5.0,-0.997,similarity
+2026-06-30,more cowbell ii|First lien|2023-09-30|1,"More Cowbell II, LLC",2026-03-31,2030-09-01,2030-09-03,92865000.0,92632000.0,4.5,4.25,-0.869,similarity
+2026-06-30,derby buyer|First lien|2024-06-30|0,"Derby Buyer, LLC",2026-03-31,2030-11-01,2030-11-01,6370000.0,6355000.0,3.0,2.75,1.626,similarity
+2026-06-30,cisive holdings|First lien|2024-06-30|0,Cisive Holdings Corp.,2026-03-31,2030-12-08,2030-12-06,33169000.0,33083000.0,5.75,5.75,-0.994,similarity
+2026-06-30,irb holding|First lien|2022-03-31|0,IRB Holding Corp.,2026-03-31,2030-12-15,2030-12-16,13716000.0,12030000.0,2.5,2.5,-0.967,similarity
+2026-06-30,the north highland|First lien|2024-12-31|1,"The North Highland Co, LLC",2026-03-31,2031-12-20,2031-12-22,91173000.0,90955000.0,4.75,4.75,-0.994,similarity
+2026-06-30,noble midco 3|First lien|2025-12-31|0,"Noble Midco 3, Ltd.",2026-03-31,2030-12-10,2030-12-30,1356000.0,904000.0,4.75,5.25,-0.612,similarity
+2026-06-30,noble midco 3|First lien|2024-06-30|0,"Noble Midco 3, Ltd.",2026-03-31,2031-06-24,2031-06-07,39181000.0,39475000.0,4.75,5.25,-0.702,similarity
+2026-06-30,lpw group holdings|First lien|2024-03-31|1,"LPW Group Holdings, Inc.",2026-03-31,2031-03-15,2031-03-14,32258000.0,32176000.0,6.0,6.0,-0.997,similarity
+2026-06-30,scorpio bidco sas|First lien|2024-06-30|0,Scorpio BidCo SAS,2026-03-31,2031-04-30,2031-03-26,37234000.0,37234000.0,5.75,5.75,-0.904,similarity
+2026-06-30,bimini group purchaser|First lien|2024-06-30|0,"Bimini Group Purchaser, Inc.",2026-03-31,2031-04-26,2031-04-25,18039000.0,18039000.0,4.75,4.75,-0.997,similarity
+2026-06-30,bimini group purchaser|First lien|2024-06-30|1,"Bimini Group Purchaser, Inc.",2026-03-31,2031-04-26,2031-04-25,280746000.0,280033000.0,4.75,4.75,-0.997,similarity
+2026-06-30,consor intermediate ii|First lien|2024-06-30|0,"Consor Intermediate II, LLC",2026-03-31,2031-05-10,2031-05-12,69152000.0,71074000.0,4.5,4.5,-0.988,similarity
+2026-06-30,auditboard|First lien|2025-12-31|0,"AuditBoard, Inc.",2026-03-31,2031-07-12,2031-07-14,15377000.0,15377000.0,4.5,4.5,-0.995,similarity
+2026-06-30,auditboard|First lien|2024-09-30|0,"AuditBoard, Inc.",2026-03-31,2031-07-12,2031-07-14,80730000.0,80730000.0,4.5,4.5,-0.995,similarity
+2026-06-30,netsmart technologies|First lien|2021-03-31|0,"Netsmart Technologies, Inc.",2026-03-31,2031-08-23,2031-08-25,138568000.0,139520000.0,5.2,5.2,-0.993,similarity
+2026-06-30,ct technologies intermediate holdings|First lien|2025-09-30|0,"CT Technologies Intermediate Holdings, Inc.",2026-03-31,2031-08-30,2031-09-02,30243000.0,30167000.0,4.75,4.75,-0.991,similarity
+2026-06-30,ct technologies intermediate holdings|First lien|2025-09-30|1,"CT Technologies Intermediate Holdings, Inc.",2026-03-31,2031-08-30,2031-09-02,68679000.0,68506000.0,4.75,4.75,-0.991,similarity
+2026-06-30,ct technologies intermediate holdings|First lien|2025-09-30|2,"CT Technologies Intermediate Holdings, Inc.",2026-03-31,2031-08-30,2031-09-02,160322000.0,159920000.0,4.75,4.75,-0.991,similarity
+2026-06-30,ct technologies intermediate holdings|First lien|2024-09-30|0,"CT Technologies Intermediate Holdings, Inc.",2026-03-31,2031-08-30,2031-09-02,161327000.0,160893000.0,5.0,5.0,-0.991,similarity
+2026-06-30,ffml holdco|First lien|2022-12-31|0,"FFML Holdco, Ltd.",2026-03-31,2028-11-30,2031-09-11,36150000.0,36150000.0,4.5,4.5,1.781,similarity
+2026-06-30,chg healthcare services|First lien|2021-03-31|0,"CHG Healthcare Services, Inc.",2026-03-31,2028-09-29,2031-09-29,3990000.0,3980000.0,2.75,3.0,4.626,unique_successor
+2026-06-30,community management holdings midco 2|First lien|2025-09-30|0,"Community Management Holdings Midco 2, LLC",2026-03-31,2031-11-01,2031-11-03,31536000.0,31457000.0,5.0,5.0,-0.994,similarity
+2026-06-30,community management holdings midco 2|First lien|2024-12-31|0,"Community Management Holdings Midco 2, LLC",2026-03-31,2031-11-01,2031-11-03,15266000.0,42418000.0,4.75,5.0,-0.709,similarity
+2026-06-30,community management holdings midco 2|First lien|2024-12-31|1,"Community Management Holdings Midco 2, LLC",2026-03-31,2031-11-01,2031-11-03,54916000.0,54777000.0,4.75,5.0,-0.869,similarity
+2026-06-30,accordion partners|First lien|2026-03-31|0,"Accordion Partners, LLC",2026-03-31,2031-11-15,2031-11-17,10784000.0,10784000.0,5.0,5.0,-0.995,similarity
+2026-06-30,accordion partners|First lien|2025-12-31|0,"Accordion Partners, LLC",2026-03-31,2031-11-15,2031-11-17,54923000.0,54786000.0,5.0,5.0,-0.994,similarity
+2026-06-30,edison bidco as|First lien|2024-12-31|0,"Edison Bidco, AS",2026-03-31,2031-12-05,2031-11-29,345000.0,245000.0,5.25,4.75,-0.661,similarity
+2026-06-30,edelman financial engines center|First lien|2021-03-31|0,"Edelman Financial Engines Center, LLC",2026-03-31,2028-04-07,2031-12-01,19629000.0,10359000.0,3.0,4.0,5.77,unique_successor
+2026-06-30,east river bidco|First lien|2025-03-31|1,"East River Bidco, GmbH",2026-03-31,2032-03-26,2032-03-29,97000.0,97000.0,5.25,5.25,-0.992,similarity
+2026-06-30,qbs parent|First lien|2024-12-31|0,"QBS Parent, Inc.",2025-12-31,2032-06-03,2032-06-03,997000.0,1195000.0,4.5,4.5,1.541,similarity
+2026-06-30,commander buyer|First lien|2025-06-30|0,"Commander Buyer, Inc.",2026-03-31,2032-06-26,2032-06-25,161029000.0,160624000.0,4.5,4.5,-0.997,similarity
+2026-06-30,teneo holdings|First lien|2026-03-31|1,"Teneo Holdings, LLC",2026-03-31,2032-07-31,2032-07-29,23554000.0,23554000.0,4.75,4.75,-0.995,similarity
+2026-06-30,teneo holdings|First lien|2025-09-30|0,"Teneo Holdings, LLC",2026-03-31,2032-07-31,2032-07-29,635821000.0,635821000.0,4.75,4.75,-0.995,similarity
+2026-06-30,sedgwick claims management services|Second lien|2024-09-30|0,"Sedgwick Claims Management Services, Inc.",2026-03-31,2031-07-31,2032-07-30,230000000.0,230000000.0,5.0,5.0,0.0,similarity
+2026-06-30,pro mach group|First lien|2021-03-31|0,"Pro Mach Group, Inc.",2026-03-31,2032-10-16,2032-10-15,5985000.0,5970000.0,2.75,2.5,1.628,similarity
+2026-06-30,speedster bidco|Second lien|2024-12-31|0,"Speedster Bidco, GmbH",2026-03-31,2032-02-13,2032-11-13,681018000.0,674965000.0,5.5,5.5,-0.247,similarity
+2026-06-30,siq holdings iii|First lien|2026-03-31|0,SIQ Holdings III Corp.,2026-03-31,2032-12-19,2032-12-20,25786000.0,25721000.0,3.75,5.0,-0.372,similarity
+2026-06-30,siq holdings iii|First lien|2025-12-31|1,SIQ Holdings III Corp.,2026-03-31,2032-12-19,2032-12-20,128931000.0,128631000.0,4.75,5.0,-0.872,similarity
+2026-06-30,midocean credit clo xi|structured finance obligations|2025-06-30|1,MidOcean Credit CLO XIX,2026-03-31,2036-07-20,2039-07-20,9000000.0,9000000.0,,,2.0,similarity

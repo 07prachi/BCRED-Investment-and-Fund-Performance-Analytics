@@ -1,0 +1,1440 @@
+report_date,category,fair_value,dimension
+2021-03-31,Equity,7360000.0,lien_type
+2021-03-31,First lien,4978641000.0,lien_type
+2021-03-31,Second lien,394545000.0,lien_type
+2021-03-31,Unsecured,53618000.0,lien_type
+2021-06-30,Equity,56877000.0,lien_type
+2021-06-30,First lien,10147832000.0,lien_type
+2021-06-30,Second lien,1065351000.0,lien_type
+2021-06-30,Unsecured,45756000.0,lien_type
+2021-09-30,Equity,172291000.0,lien_type
+2021-09-30,First lien,15822775000.0,lien_type
+2021-09-30,Not disclosed / not parsed,198109000.0,lien_type
+2021-09-30,Second lien,1528860000.0,lien_type
+2021-09-30,Unsecured,16358000.0,lien_type
+2021-12-31,Equity,545919000.0,lien_type
+2021-12-31,First lien,28143454000.0,lien_type
+2021-12-31,Not disclosed / not parsed,286611000.0,lien_type
+2021-12-31,Second lien,1813876000.0,lien_type
+2021-12-31,Unsecured,5842000.0,lien_type
+2022-03-31,Equity,567854000.0,lien_type
+2022-03-31,First lien,33999053000.0,lien_type
+2022-03-31,Not disclosed / not parsed,1070755000.0,lien_type
+2022-03-31,Second lien,2113723000.0,lien_type
+2022-03-31,Unsecured,26088000.0,lien_type
+2022-06-30,First lien,17229399000.0,lien_type
+2022-09-30,Equity,714567000.0,lien_type
+2022-09-30,First lien,43902022000.0,lien_type
+2022-09-30,Not disclosed / not parsed,2213625000.0,lien_type
+2022-09-30,Second lien,2111421000.0,lien_type
+2022-09-30,Unsecured,17370000.0,lien_type
+2022-12-31,Equity,757379000.0,lien_type
+2022-12-31,First lien,43710812000.0,lien_type
+2022-12-31,Not disclosed / not parsed,2553663000.0,lien_type
+2022-12-31,Second lien,1872807000.0,lien_type
+2022-12-31,Unsecured,13948000.0,lien_type
+2023-03-31,Equity,602241000.0,lien_type
+2023-03-31,First lien,42762866000.0,lien_type
+2023-03-31,Not disclosed / not parsed,2663065000.0,lien_type
+2023-03-31,Second lien,1877627000.0,lien_type
+2023-06-30,Equity,782527000.0,lien_type
+2023-06-30,First lien,42545377000.0,lien_type
+2023-06-30,Not disclosed / not parsed,2507881000.0,lien_type
+2023-06-30,Second lien,1849083000.0,lien_type
+2023-09-30,Equity,807077000.0,lien_type
+2023-09-30,First lien,43280219000.0,lien_type
+2023-09-30,Not disclosed / not parsed,2546415000.0,lien_type
+2023-09-30,Second lien,1779485000.0,lien_type
+2023-12-31,Equity,857251000.0,lien_type
+2023-12-31,First lien,45534013000.0,lien_type
+2023-12-31,Not disclosed / not parsed,2598388000.0,lien_type
+2023-12-31,Second lien,1736088000.0,lien_type
+2023-12-31,Unsecured,18171000.0,lien_type
+2024-03-31,Equity,900494000.0,lien_type
+2024-03-31,First lien,47635084000.0,lien_type
+2024-03-31,Not disclosed / not parsed,2595089000.0,lien_type
+2024-03-31,Second lien,1355506000.0,lien_type
+2024-03-31,Unsecured,26403000.0,lien_type
+2024-06-30,Equity,1012695000.0,lien_type
+2024-06-30,First lien,50804391000.0,lien_type
+2024-06-30,Not disclosed / not parsed,2472917000.0,lien_type
+2024-06-30,Second lien,1557628000.0,lien_type
+2024-06-30,Unsecured,27365000.0,lien_type
+2024-09-30,Equity,1094356000.0,lien_type
+2024-09-30,First lien,56231000000.0,lien_type
+2024-09-30,Not disclosed / not parsed,2504101000.0,lien_type
+2024-09-30,Second lien,1784050000.0,lien_type
+2024-09-30,Unsecured,49755000.0,lien_type
+2024-12-31,Equity,1417183000.0,lien_type
+2024-12-31,First lien,61455274000.0,lien_type
+2024-12-31,Not disclosed / not parsed,2646059000.0,lien_type
+2024-12-31,Second lien,2723460000.0,lien_type
+2024-12-31,Unsecured,177801000.0,lien_type
+2025-03-31,Equity,1419422000.0,lien_type
+2025-03-31,First lien,62292200000.0,lien_type
+2025-03-31,Not disclosed / not parsed,2577700000.0,lien_type
+2025-03-31,Second lien,2848873000.0,lien_type
+2025-03-31,Unsecured,51508000.0,lien_type
+2025-06-30,Equity,1592443000.0,lien_type
+2025-06-30,First lien,65760996000.0,lien_type
+2025-06-30,Not disclosed / not parsed,2672211000.0,lien_type
+2025-06-30,Second lien,3097867000.0,lien_type
+2025-06-30,Unsecured,52135000.0,lien_type
+2025-09-30,Equity,2300232000.0,lien_type
+2025-09-30,First lien,68360626000.0,lien_type
+2025-09-30,Not disclosed / not parsed,2653230000.0,lien_type
+2025-09-30,Second lien,3129503000.0,lien_type
+2025-09-30,Unsecured,87527000.0,lien_type
+2025-12-31,Equity,2917257000.0,lien_type
+2025-12-31,First lien,73345369000.0,lien_type
+2025-12-31,Not disclosed / not parsed,2594756000.0,lien_type
+2025-12-31,Second lien,3262537000.0,lien_type
+2025-12-31,Unsecured,79427000.0,lien_type
+2026-03-31,Equity,1998784000.0,lien_type
+2026-03-31,First lien,73033247000.0,lien_type
+2026-03-31,Not disclosed / not parsed,2305311000.0,lien_type
+2026-03-31,Second lien,3051931000.0,lien_type
+2026-03-31,Unsecured,80108000.0,lien_type
+2026-06-30,Equity,1857711000.0,lien_type
+2026-06-30,First lien,70683268000.0,lien_type
+2026-06-30,Not disclosed / not parsed,2133763000.0,lien_type
+2026-06-30,Second lien,2894973000.0,lien_type
+2026-06-30,Unsecured,79392000.0,lien_type
+2021-03-31,Aerospace & Defense,152912000.0,sector
+2021-03-31,Air Freight & Logistics,306347000.0,sector
+2021-03-31,Airlines,7502000.0,sector
+2021-03-31,Auto Components,7720000.0,sector
+2021-03-31,Beverages,13734000.0,sector
+2021-03-31,Building Products,456564000.0,sector
+2021-03-31,Capital Markets,34439000.0,sector
+2021-03-31,Chemicals,128027000.0,sector
+2021-03-31,Commercial Services & Supplies,224993000.0,sector
+2021-03-31,Communications Equipment,26217000.0,sector
+2021-03-31,Construction & Engineering,206227000.0,sector
+2021-03-31,Construction Materials,14871000.0,sector
+2021-03-31,Containers & Packaging,61207000.0,sector
+2021-03-31,Distributors,120347000.0,sector
+2021-03-31,Diversified Consumer Services,57004000.0,sector
+2021-03-31,Diversified Financial Services,189218000.0,sector
+2021-03-31,Diversified Telecommunication Services,26700000.0,sector
+2021-03-31,Electric Utilities,41487000.0,sector
+2021-03-31,Electrical Equipment,11543000.0,sector
+2021-03-31,"Electronic Equipment, Instruments & Components",117126000.0,sector
+2021-03-31,Energy Equipment & Services,52186000.0,sector
+2021-03-31,Entertainment,11888000.0,sector
+2021-03-31,Food & Staples Retailing,8128000.0,sector
+2021-03-31,Food Products,31364000.0,sector
+2021-03-31,Health Care Equipment & Supplies,38455000.0,sector
+2021-03-31,Health Care Providers & Services,510533000.0,sector
+2021-03-31,Health Care Technology,138789000.0,sector
+2021-03-31,"Hotels, Restaurants & Leisure",46813000.0,sector
+2021-03-31,Household Durables,21366000.0,sector
+2021-03-31,IT Services,195521000.0,sector
+2021-03-31,Independent Power and Renewable Electricity Producers,25063000.0,sector
+2021-03-31,Industrial Conglomerates,51650000.0,sector
+2021-03-31,Insurance,151226000.0,sector
+2021-03-31,Interactive Media & Services,40368000.0,sector
+2021-03-31,Internet & Direct Marketing Retail,204396000.0,sector
+2021-03-31,Leisure Products,36437000.0,sector
+2021-03-31,Life Sciences Tools & Services,18225000.0,sector
+2021-03-31,Machinery,89766000.0,sector
+2021-03-31,Media,50591000.0,sector
+2021-03-31,"Oil, Gas & Consumable Fuels",35473000.0,sector
+2021-03-31,Personal Products,19825000.0,sector
+2021-03-31,Pharmaceuticals,6267000.0,sector
+2021-03-31,Professional Services,286185000.0,sector
+2021-03-31,Real Estate Management & Development,54501000.0,sector
+2021-03-31,Road & Rail,30549000.0,sector
+2021-03-31,Software,770723000.0,sector
+2021-03-31,Specialty Retail,63711000.0,sector
+2021-03-31,"Technology Hardware, Storage & Peripherals",25420000.0,sector
+2021-03-31,"Textiles, Apparel & Luxury Goods",29288000.0,sector
+2021-03-31,Trading Companies & Distributors,99823000.0,sector
+2021-03-31,Transportation Infrastructure,78381000.0,sector
+2021-03-31,Wireless Telecommunication Services,7068000.0,sector
+2021-06-30,Aerospace & Defense,198877000.0,sector
+2021-06-30,Air Freight & Logistics,553024000.0,sector
+2021-06-30,Airlines,62670000.0,sector
+2021-06-30,Auto Components,88382000.0,sector
+2021-06-30,Beverages,31768000.0,sector
+2021-06-30,Building Products,573681000.0,sector
+2021-06-30,Capital Markets,49576000.0,sector
+2021-06-30,Chemicals,137718000.0,sector
+2021-06-30,Commercial Services & Supplies,878703000.0,sector
+2021-06-30,Communications Equipment,11411000.0,sector
+2021-06-30,Construction & Engineering,264836000.0,sector
+2021-06-30,Construction Materials,25888000.0,sector
+2021-06-30,Containers & Packaging,158135000.0,sector
+2021-06-30,Distributors,121522000.0,sector
+2021-06-30,Diversified Consumer Services,102300000.0,sector
+2021-06-30,Diversified Financial Services,271188000.0,sector
+2021-06-30,Diversified Telecommunication Services,49028000.0,sector
+2021-06-30,Electric Utilities,41383000.0,sector
+2021-06-30,Electrical Equipment,18514000.0,sector
+2021-06-30,"Electronic Equipment, Instruments & Components",140713000.0,sector
+2021-06-30,Energy Equipment & Services,52086000.0,sector
+2021-06-30,Entertainment,12642000.0,sector
+2021-06-30,Food Products,30024000.0,sector
+2021-06-30,Health Care Equipment & Supplies,84324000.0,sector
+2021-06-30,Health Care Providers & Services,1282218000.0,sector
+2021-06-30,Health Care Technology,210716000.0,sector
+2021-06-30,"Hotels, Restaurants & Leisure",176310000.0,sector
+2021-06-30,Household Durables,135458000.0,sector
+2021-06-30,IT Services,425430000.0,sector
+2021-06-30,Independent Power and Renewable Electricity Producers,24830000.0,sector
+2021-06-30,Industrial Conglomerates,91216000.0,sector
+2021-06-30,Insurance,318200000.0,sector
+2021-06-30,Interactive Media & Services,88632000.0,sector
+2021-06-30,Internet & Direct Marketing Retail,206084000.0,sector
+2021-06-30,Leisure Products,46324000.0,sector
+2021-06-30,Life Sciences Tools & Services,50225000.0,sector
+2021-06-30,Machinery,114705000.0,sector
+2021-06-30,Marine,1924000.0,sector
+2021-06-30,Media,120692000.0,sector
+2021-06-30,Metals & Mining,36514000.0,sector
+2021-06-30,"Oil, Gas & Consumable Fuels",35923000.0,sector
+2021-06-30,Personal Products,19750000.0,sector
+2021-06-30,Pharmaceuticals,71579000.0,sector
+2021-06-30,Professional Services,622806000.0,sector
+2021-06-30,Real Estate Management & Development,193407000.0,sector
+2021-06-30,Road & Rail,30361000.0,sector
+2021-06-30,Software,2032351000.0,sector
+2021-06-30,Specialty Retail,64117000.0,sector
+2021-06-30,"Technology Hardware, Storage & Peripherals",57611000.0,sector
+2021-06-30,"Textiles, Apparel & Luxury Goods",68775000.0,sector
+2021-06-30,Trading Companies & Distributors,263660000.0,sector
+2021-06-30,Transportation Infrastructure,538548000.0,sector
+2021-06-30,Wireless Telecommunication Services,29057000.0,sector
+2021-09-30,Aerospace & Defense,350738000.0,sector
+2021-09-30,Air Freight & Logistics,785772000.0,sector
+2021-09-30,Airlines,36259000.0,sector
+2021-09-30,Auto Components,84738000.0,sector
+2021-09-30,Beverages,31678000.0,sector
+2021-09-30,Building Products,650447000.0,sector
+2021-09-30,Capital Markets,55697000.0,sector
+2021-09-30,Chemicals,169837000.0,sector
+2021-09-30,Commercial Services & Supplies,875843000.0,sector
+2021-09-30,Communications Equipment,8442000.0,sector
+2021-09-30,Construction & Engineering,343566000.0,sector
+2021-09-30,Construction Materials,23975000.0,sector
+2021-09-30,Containers & Packaging,219997000.0,sector
+2021-09-30,Distributors,174163000.0,sector
+2021-09-30,Diversified Consumer Services,1110635000.0,sector
+2021-09-30,Diversified Financial Services,302146000.0,sector
+2021-09-30,Diversified Telecommunication Services,40952000.0,sector
+2021-09-30,Electric Utilities,45103000.0,sector
+2021-09-30,Electrical Equipment,765418000.0,sector
+2021-09-30,"Electronic Equipment, Instruments & Components",125956000.0,sector
+2021-09-30,Energy Equipment & Services,51571000.0,sector
+2021-09-30,Entertainment,17970000.0,sector
+2021-09-30,Food Products,29697000.0,sector
+2021-09-30,Health Care Equipment & Supplies,364349000.0,sector
+2021-09-30,Health Care Providers & Services,1998777000.0,sector
+2021-09-30,Health Care Technology,306771000.0,sector
+2021-09-30,"Hotels, Restaurants & Leisure",170819000.0,sector
+2021-09-30,Household Durables,99301000.0,sector
+2021-09-30,IT Services,366736000.0,sector
+2021-09-30,Independent Power and Renewable Electricity Producers,24553000.0,sector
+2021-09-30,Industrial Conglomerates,95510000.0,sector
+2021-09-30,Insurance,947843000.0,sector
+2021-09-30,Interactive Media & Services,76548000.0,sector
+2021-09-30,Internet & Direct Marketing Retail,314021000.0,sector
+2021-09-30,Investments,198109000.0,sector
+2021-09-30,Leisure Products,100389000.0,sector
+2021-09-30,Life Sciences Tools & Services,132349000.0,sector
+2021-09-30,Machinery,118075000.0,sector
+2021-09-30,Marine,1911000.0,sector
+2021-09-30,Media,116750000.0,sector
+2021-09-30,Metals & Mining,68082000.0,sector
+2021-09-30,"Oil, Gas & Consumable Fuels",42797000.0,sector
+2021-09-30,Pharmaceuticals,67542000.0,sector
+2021-09-30,Professional Services,1618952000.0,sector
+2021-09-30,Real Estate Management & Development,229695000.0,sector
+2021-09-30,Road & Rail,75319000.0,sector
+2021-09-30,Software,2529270000.0,sector
+2021-09-30,Specialty Retail,59318000.0,sector
+2021-09-30,"Technology Hardware, Storage & Peripherals",60493000.0,sector
+2021-09-30,"Textiles, Apparel & Luxury Goods",36393000.0,sector
+2021-09-30,Trading Companies & Distributors,263371000.0,sector
+2021-09-30,Transportation Infrastructure,924735000.0,sector
+2021-09-30,Wireless Telecommunication Services,29015000.0,sector
+2021-12-31,Aerospace & Defense,350272000.0,sector
+2021-12-31,Air Freight & Logistics,905196000.0,sector
+2021-12-31,Airlines,32142000.0,sector
+2021-12-31,Auto Components,86761000.0,sector
+2021-12-31,Beverages,31357000.0,sector
+2021-12-31,Building Products,888633000.0,sector
+2021-12-31,Capital Markets,160603000.0,sector
+2021-12-31,Chemicals,193007000.0,sector
+2021-12-31,Commercial Services & Supplies,1695127000.0,sector
+2021-12-31,Construction & Engineering,331647000.0,sector
+2021-12-31,Construction Materials,23878000.0,sector
+2021-12-31,Containers & Packaging,241128000.0,sector
+2021-12-31,Distributors,306203000.0,sector
+2021-12-31,Diversified Consumer Services,1342361000.0,sector
+2021-12-31,Diversified Financial Services,525958000.0,sector
+2021-12-31,Diversified Telecommunication Services,198667000.0,sector
+2021-12-31,Electric Utilities,48332000.0,sector
+2021-12-31,Electrical Equipment,753040000.0,sector
+2021-12-31,"Electronic Equipment, Instruments & Components",99224000.0,sector
+2021-12-31,Energy Equipment & Services,44545000.0,sector
+2021-12-31,Entertainment,28658000.0,sector
+2021-12-31,Food Products,37022000.0,sector
+2021-12-31,Health Care Equipment & Supplies,543674000.0,sector
+2021-12-31,Health Care Providers & Services,3491939000.0,sector
+2021-12-31,Health Care Technology,485498000.0,sector
+2021-12-31,"Hotels, Restaurants & Leisure",166103000.0,sector
+2021-12-31,Household Durables,93001000.0,sector
+2021-12-31,IT Services,1768552000.0,sector
+2021-12-31,Industrial Conglomerates,165019000.0,sector
+2021-12-31,Insurance,1353866000.0,sector
+2021-12-31,Interactive Media & Services,74004000.0,sector
+2021-12-31,Internet & Direct Marketing Retail,775481000.0,sector
+2021-12-31,Investments,286611000.0,sector
+2021-12-31,Leisure Products,108022000.0,sector
+2021-12-31,Life Sciences Tools & Services,286834000.0,sector
+2021-12-31,Machinery,106214000.0,sector
+2021-12-31,Marine,221985000.0,sector
+2021-12-31,Media,108860000.0,sector
+2021-12-31,Metals & Mining,50481000.0,sector
+2021-12-31,Not disclosed / not parsed,212400000.0,sector
+2021-12-31,"Oil, Gas & Consumable Fuels",55038000.0,sector
+2021-12-31,Paper & Forest Products,112517000.0,sector
+2021-12-31,Pharmaceuticals,80914000.0,sector
+2021-12-31,Professional Services,4393231000.0,sector
+2021-12-31,Real Estate Management & Development,233206000.0,sector
+2021-12-31,Road & Rail,76286000.0,sector
+2021-12-31,Software,5731461000.0,sector
+2021-12-31,Specialty Retail,140724000.0,sector
+2021-12-31,"Technology Hardware, Storage & Peripherals",61133000.0,sector
+2021-12-31,"Textiles, Apparel & Luxury Goods",32946000.0,sector
+2021-12-31,Trading Companies & Distributors,271699000.0,sector
+2021-12-31,Transportation Infrastructure,955344000.0,sector
+2021-12-31,Wireless Telecommunication Services,28898000.0,sector
+2022-03-31,Aerospace & Defense,571594000.0,sector
+2022-03-31,Air Freight & Logistics,1082495000.0,sector
+2022-03-31,Airlines,41495000.0,sector
+2022-03-31,Auto Components,105938000.0,sector
+2022-03-31,Beverages,79279000.0,sector
+2022-03-31,Building Products,864547000.0,sector
+2022-03-31,Capital Markets,233895000.0,sector
+2022-03-31,Chemicals,304916000.0,sector
+2022-03-31,Commercial Services & Supplies,2018705000.0,sector
+2022-03-31,Construction & Engineering,347410000.0,sector
+2022-03-31,Construction Materials,44366000.0,sector
+2022-03-31,Containers & Packaging,475580000.0,sector
+2022-03-31,Distributors,314217000.0,sector
+2022-03-31,Diversified Consumer Services,1463606000.0,sector
+2022-03-31,Diversified Financial Services,590240000.0,sector
+2022-03-31,Diversified Telecommunication Services,227419000.0,sector
+2022-03-31,Electric Utilities,48217000.0,sector
+2022-03-31,Electrical Equipment,767862000.0,sector
+2022-03-31,"Electronic Equipment, Instruments & Components",121704000.0,sector
+2022-03-31,Energy Equipment & Services,39729000.0,sector
+2022-03-31,Entertainment,51369000.0,sector
+2022-03-31,Food Products,38739000.0,sector
+2022-03-31,Health Care Equipment & Supplies,645777000.0,sector
+2022-03-31,Health Care Providers & Services,4419323000.0,sector
+2022-03-31,Health Care Technology,546756000.0,sector
+2022-03-31,"Hotels, Restaurants & Leisure",377520000.0,sector
+2022-03-31,Household Durables,141555000.0,sector
+2022-03-31,IT Services,1899954000.0,sector
+2022-03-31,Industrial Conglomerates,257824000.0,sector
+2022-03-31,Insurance,1609124000.0,sector
+2022-03-31,Interactive Media & Services,143952000.0,sector
+2022-03-31,Internet & Direct Marketing Retail,1205282000.0,sector
+2022-03-31,Investments,150198000.0,sector
+2022-03-31,Leisure Products,111136000.0,sector
+2022-03-31,Life Sciences Tools & Services,309693000.0,sector
+2022-03-31,Machinery,73645000.0,sector
+2022-03-31,Marine,221581000.0,sector
+2022-03-31,Media,165095000.0,sector
+2022-03-31,Metals & Mining,67713000.0,sector
+2022-03-31,Not disclosed / not parsed,928101000.0,sector
+2022-03-31,"Oil, Gas & Consumable Fuels",140383000.0,sector
+2022-03-31,Paper & Forest Products,113720000.0,sector
+2022-03-31,Personal Products,36800000.0,sector
+2022-03-31,Pharmaceuticals,308158000.0,sector
+2022-03-31,Professional Services,4896337000.0,sector
+2022-03-31,Real Estate Management & Development,231861000.0,sector
+2022-03-31,Road & Rail,81194000.0,sector
+2022-03-31,Software,7061602000.0,sector
+2022-03-31,Specialty Retail,170923000.0,sector
+2022-03-31,"Technology Hardware, Storage & Peripherals",62705000.0,sector
+2022-03-31,"Textiles, Apparel & Luxury Goods",31988000.0,sector
+2022-03-31,Trading Companies & Distributors,430635000.0,sector
+2022-03-31,Transportation Infrastructure,1059241000.0,sector
+2022-03-31,Wireless Telecommunication Services,44375000.0,sector
+2022-06-30,Aerospace & Defense,464225000.0,sector
+2022-06-30,Air Freight & Logistics,1064199000.0,sector
+2022-06-30,Airlines,47264000.0,sector
+2022-06-30,Auto Components,104524000.0,sector
+2022-06-30,Beverages,85286000.0,sector
+2022-06-30,Building Products,1015979000.0,sector
+2022-06-30,Capital Markets,232880000.0,sector
+2022-06-30,Chemicals,158550000.0,sector
+2022-06-30,Commercial Services & Supplies,2044889000.0,sector
+2022-06-30,Construction & Engineering,308485000.0,sector
+2022-06-30,Construction Materials,49586000.0,sector
+2022-06-30,Containers & Packaging,484632000.0,sector
+2022-06-30,Distributors,377243000.0,sector
+2022-06-30,Diversified Consumer Services,1499831000.0,sector
+2022-06-30,Diversified Financial Services,620007000.0,sector
+2022-06-30,Diversified Telecommunication Services,236780000.0,sector
+2022-06-30,Electric Utilities,48104000.0,sector
+2022-06-30,Electrical Equipment,447404000.0,sector
+2022-06-30,"Electronic Equipment, Instruments & Components",124670000.0,sector
+2022-06-30,Energy Equipment & Services,38705000.0,sector
+2022-06-30,Entertainment,49136000.0,sector
+2022-06-30,Food Products,33244000.0,sector
+2022-06-30,Health Care Equipment & Supplies,721991000.0,sector
+2022-06-30,Health Care Providers & Services,5635050000.0,sector
+2022-06-30,Health Care Technology,1091943000.0,sector
+2022-06-30,"Hotels, Restaurants & Leisure",244792000.0,sector
+2022-09-30,Aerospace & Defense,677703000.0,sector
+2022-09-30,Air Freight & Logistics,1414470000.0,sector
+2022-09-30,Airlines,41349000.0,sector
+2022-09-30,Auto Components,91205000.0,sector
+2022-09-30,Beverages,78183000.0,sector
+2022-09-30,"Blackstone Private Credit Fund Consolidated Schedule of Investments September 30, 2022 (in thousands) (Unaudited)",206490000.0,sector
+2022-09-30,Building Products,1175959000.0,sector
+2022-09-30,Capital Markets,168748000.0,sector
+2022-09-30,Chemicals,225972000.0,sector
+2022-09-30,Commercial Services & Supplies,1924641000.0,sector
+2022-09-30,Communications Equipment,694000.0,sector
+2022-09-30,Construction & Engineering,349434000.0,sector
+2022-09-30,Construction Materials,50183000.0,sector
+2022-09-30,Containers & Packaging,386838000.0,sector
+2022-09-30,Distributors,310144000.0,sector
+2022-09-30,Diversified Consumer Services,1515582000.0,sector
+2022-09-30,Diversified Financial Services,571086000.0,sector
+2022-09-30,Diversified Telecommunication Services,263725000.0,sector
+2022-09-30,Electric Utilities,48031000.0,sector
+2022-09-30,Electrical Equipment,447326000.0,sector
+2022-09-30,"Electronic Equipment, Instruments & Components",197107000.0,sector
+2022-09-30,Energy Equipment & Services,43673000.0,sector
+2022-09-30,Entertainment,39997000.0,sector
+2022-09-30,Food Products,32498000.0,sector
+2022-09-30,Health Care Equipment & Supplies,790456000.0,sector
+2022-09-30,Health Care Providers & Services,5892206000.0,sector
+2022-09-30,Health Care Technology,1149750000.0,sector
+2022-09-30,"Hotels, Restaurants & Leisure",375806000.0,sector
+2022-09-30,Household Durables,133213000.0,sector
+2022-09-30,IT Services,2320788000.0,sector
+2022-09-30,Industrial Conglomerates,501976000.0,sector
+2022-09-30,Insurance,2325672000.0,sector
+2022-09-30,Interactive Media & Services,143723000.0,sector
+2022-09-30,Internet & Direct Marketing Retail,1105285000.0,sector
+2022-09-30,Leisure Products,98988000.0,sector
+2022-09-30,Life Sciences Tools & Services,222698000.0,sector
+2022-09-30,Machinery,67390000.0,sector
+2022-09-30,Marine,227588000.0,sector
+2022-09-30,Media,226363000.0,sector
+2022-09-30,Metals & Mining,70565000.0,sector
+2022-09-30,Not disclosed / not parsed,2046184000.0,sector
+2022-09-30,"Oil, Gas & Consumable Fuels",134324000.0,sector
+2022-09-30,Paper & Forest Products,67937000.0,sector
+2022-09-30,Personal Products,37711000.0,sector
+2022-09-30,Pharmaceuticals,278654000.0,sector
+2022-09-30,Professional Services,6156081000.0,sector
+2022-09-30,Real Estate Management & Development,263175000.0,sector
+2022-09-30,Road & Rail,19936000.0,sector
+2022-09-30,Software,11978309000.0,sector
+2022-09-30,Specialty Retail,154000000.0,sector
+2022-09-30,"Technology Hardware, Storage & Peripherals",44170000.0,sector
+2022-09-30,"Textiles, Apparel & Luxury Goods",30455000.0,sector
+2022-09-30,Trading Companies & Distributors,375427000.0,sector
+2022-09-30,Transportation Infrastructure,1410117000.0,sector
+2022-09-30,Wireless Telecommunication Services,49020000.0,sector
+2022-12-31,Aerospace & Defense,610909000.0,sector
+2022-12-31,Air Freight & Logistics,1372025000.0,sector
+2022-12-31,Airlines,32612000.0,sector
+2022-12-31,Auto Components,54273000.0,sector
+2022-12-31,Beverages,63139000.0,sector
+2022-12-31,"Blackstone Private Credit Fund Consolidated Schedule of Investments December 31, 2022 (in thousands)",365269000.0,sector
+2022-12-31,Building Products,1157448000.0,sector
+2022-12-31,Capital Markets,107386000.0,sector
+2022-12-31,Chemicals,184012000.0,sector
+2022-12-31,Commercial Services & Supplies,1800823000.0,sector
+2022-12-31,Construction & Engineering,328281000.0,sector
+2022-12-31,Construction Materials,34819000.0,sector
+2022-12-31,Containers & Packaging,223112000.0,sector
+2022-12-31,Distributors,329578000.0,sector
+2022-12-31,Diversified Consumer Services,1445384000.0,sector
+2022-12-31,Diversified Financial Services,521270000.0,sector
+2022-12-31,Diversified Telecommunication Services,261005000.0,sector
+2022-12-31,Electric Utilities,50425000.0,sector
+2022-12-31,Electrical Equipment,432849000.0,sector
+2022-12-31,"Electronic Equipment, Instruments & Components",626205000.0,sector
+2022-12-31,Energy Equipment & Services,43241000.0,sector
+2022-12-31,Entertainment,18956000.0,sector
+2022-12-31,Food Products,23913000.0,sector
+2022-12-31,Health Care Equipment & Supplies,741681000.0,sector
+2022-12-31,Health Care Providers & Services,5716947000.0,sector
+2022-12-31,Health Care Technology,1569228000.0,sector
+2022-12-31,"Hotels, Restaurants & Leisure",267901000.0,sector
+2022-12-31,Household Durables,113706000.0,sector
+2022-12-31,IT Services,2218801000.0,sector
+2022-12-31,Industrial Conglomerates,463923000.0,sector
+2022-12-31,Insurance,2286509000.0,sector
+2022-12-31,Interactive Media & Services,80305000.0,sector
+2022-12-31,Internet & Direct Marketing Retail,1085670000.0,sector
+2022-12-31,Leisure Products,82012000.0,sector
+2022-12-31,Life Sciences Tools & Services,179564000.0,sector
+2022-12-31,Machinery,39576000.0,sector
+2022-12-31,Marine,226879000.0,sector
+2022-12-31,Media,298770000.0,sector
+2022-12-31,Metals & Mining,62539000.0,sector
+2022-12-31,Not disclosed / not parsed,2360724000.0,sector
+2022-12-31,"Oil, Gas & Consumable Fuels",98899000.0,sector
+2022-12-31,Paper & Forest Products,62144000.0,sector
+2022-12-31,Pharmaceuticals,327137000.0,sector
+2022-12-31,Professional Services,6112879000.0,sector
+2022-12-31,Real Estate Management & Development,106650000.0,sector
+2022-12-31,Road & Rail,429000.0,sector
+2022-12-31,Software,12517111000.0,sector
+2022-12-31,Specialty Retail,144466000.0,sector
+2022-12-31,"Technology Hardware, Storage & Peripherals",44057000.0,sector
+2022-12-31,"Textiles, Apparel & Luxury Goods",27521000.0,sector
+2022-12-31,Trading Companies & Distributors,366029000.0,sector
+2022-12-31,Transportation Infrastructure,1195692000.0,sector
+2022-12-31,Wireless Telecommunication Services,23926000.0,sector
+2023-03-31,Aerospace & Defense,588937000.0,sector
+2023-03-31,Air Freight & Logistics,1346987000.0,sector
+2023-03-31,Airlines,32735000.0,sector
+2023-03-31,Auto Components,29662000.0,sector
+2023-03-31,Beverages,40914000.0,sector
+2023-03-31,Building Products,1082662000.0,sector
+2023-03-31,Capital Markets,70205000.0,sector
+2023-03-31,Chemicals,150639000.0,sector
+2023-03-31,Commercial Services & Supplies,1668369000.0,sector
+2023-03-31,Construction & Engineering,320897000.0,sector
+2023-03-31,Construction Materials,16983000.0,sector
+2023-03-31,Containers & Packaging,136481000.0,sector
+2023-03-31,Distributors,327446000.0,sector
+2023-03-31,Diversified Consumer Services,1346453000.0,sector
+2023-03-31,Diversified Financial Services,888763000.0,sector
+2023-03-31,Diversified Telecommunication Services,267799000.0,sector
+2023-03-31,Electric Utilities,50275000.0,sector
+2023-03-31,Electrical Equipment,413947000.0,sector
+2023-03-31,"Electronic Equipment, Instruments & Components",630956000.0,sector
+2023-03-31,Energy Equipment & Services,41975000.0,sector
+2023-03-31,Entertainment,19207000.0,sector
+2023-03-31,Food Products,25402000.0,sector
+2023-03-31,Health Care Equipment & Supplies,707212000.0,sector
+2023-03-31,Health Care Providers & Services,5853400000.0,sector
+2023-03-31,Health Care Technology,1575158000.0,sector
+2023-03-31,"Hotels, Restaurants & Leisure",192891000.0,sector
+2023-03-31,Household Durables,61145000.0,sector
+2023-03-31,IT Services,2241770000.0,sector
+2023-03-31,Industrial Conglomerates,404062000.0,sector
+2023-03-31,Insurance,2249244000.0,sector
+2023-03-31,Interactive Media & Services,61345000.0,sector
+2023-03-31,Internet & Direct Marketing Retail,1074268000.0,sector
+2023-03-31,Leisure Products,38109000.0,sector
+2023-03-31,Life Sciences Tools & Services,175918000.0,sector
+2023-03-31,Machinery,30204000.0,sector
+2023-03-31,Marine,228173000.0,sector
+2023-03-31,Media,276465000.0,sector
+2023-03-31,Metals & Mining,32170000.0,sector
+2023-03-31,Not disclosed / not parsed,2293920000.0,sector
+2023-03-31,"Oil, Gas & Consumable Fuels",80684000.0,sector
+2023-03-31,Paper & Forest Products,67966000.0,sector
+2023-03-31,Pharmaceuticals,330501000.0,sector
+2023-03-31,Professional Services,6084503000.0,sector
+2023-03-31,Real Estate Management & Development,108350000.0,sector
+2023-03-31,Road & Rail,289000.0,sector
+2023-03-31,Software,12473756000.0,sector
+2023-03-31,Specialty Retail,141893000.0,sector
+2023-03-31,"Technology Hardware, Storage & Peripherals",45549000.0,sector
+2023-03-31,"Textiles, Apparel & Luxury Goods",25477000.0,sector
+2023-03-31,Trading Companies & Distributors,326686000.0,sector
+2023-03-31,Transportation Infrastructure,1209073000.0,sector
+2023-03-31,Wireless Telecommunication Services,17924000.0,sector
+2023-06-30,Aerospace & Defense,608823000.0,sector
+2023-06-30,Air Freight & Logistics,1269234000.0,sector
+2023-06-30,Airlines,28694000.0,sector
+2023-06-30,Auto Components,30628000.0,sector
+2023-06-30,Beverages,43613000.0,sector
+2023-06-30,Building Products,1068289000.0,sector
+2023-06-30,Capital Markets,102976000.0,sector
+2023-06-30,Chemicals,135780000.0,sector
+2023-06-30,Commercial Services & Supplies,1660981000.0,sector
+2023-06-30,Construction & Engineering,371667000.0,sector
+2023-06-30,Construction Materials,16973000.0,sector
+2023-06-30,Containers & Packaging,136729000.0,sector
+2023-06-30,Distributors,326154000.0,sector
+2023-06-30,Diversified Consumer Services,1399767000.0,sector
+2023-06-30,Diversified Financial Services,902671000.0,sector
+2023-06-30,Diversified Telecommunication Services,269000000.0,sector
+2023-06-30,Electric Utilities,50244000.0,sector
+2023-06-30,Electrical Equipment,423027000.0,sector
+2023-06-30,"Electronic Equipment, Instruments & Components",528635000.0,sector
+2023-06-30,Energy Equipment & Services,41249000.0,sector
+2023-06-30,Entertainment,19393000.0,sector
+2023-06-30,Food Products,26041000.0,sector
+2023-06-30,Ground Transportation,6792000.0,sector
+2023-06-30,Health Care Equipment & Supplies,708224000.0,sector
+2023-06-30,Health Care Providers & Services,5727196000.0,sector
+2023-06-30,Health Care Technology,1499621000.0,sector
+2023-06-30,"Hotels, Restaurants & Leisure",183924000.0,sector
+2023-06-30,Household Durables,32285000.0,sector
+2023-06-30,IT Services,2255376000.0,sector
+2023-06-30,Industrial Conglomerates,357280000.0,sector
+2023-06-30,Insurance,2338618000.0,sector
+2023-06-30,Interactive Media & Services,17427000.0,sector
+2023-06-30,Internet & Direct Marketing Retail,1061228000.0,sector
+2023-06-30,Leisure Products,35498000.0,sector
+2023-06-30,Life Sciences Tools & Services,268410000.0,sector
+2023-06-30,Machinery,25831000.0,sector
+2023-06-30,Marine,227594000.0,sector
+2023-06-30,Media,273691000.0,sector
+2023-06-30,Metals & Mining,31770000.0,sector
+2023-06-30,Not disclosed / not parsed,2302873000.0,sector
+2023-06-30,"Oil, Gas & Consumable Fuels",80968000.0,sector
+2023-06-30,Paper & Forest Products,70569000.0,sector
+2023-06-30,Pharmaceuticals,332588000.0,sector
+2023-06-30,Professional Services,5851204000.0,sector
+2023-06-30,Real Estate Management & Development,109300000.0,sector
+2023-06-30,Software,12635013000.0,sector
+2023-06-30,Specialty Retail,145330000.0,sector
+2023-06-30,"Technology Hardware, Storage & Peripherals",45549000.0,sector
+2023-06-30,"Textiles, Apparel & Luxury Goods",22356000.0,sector
+2023-06-30,Trading Companies & Distributors,335015000.0,sector
+2023-06-30,Transportation Infrastructure,1224994000.0,sector
+2023-06-30,Wireless Telecommunication Services,17776000.0,sector
+2023-09-30,Aerospace & Defense,636244000.0,sector
+2023-09-30,Air Freight & Logistics,1326958000.0,sector
+2023-09-30,Airlines,36109000.0,sector
+2023-09-30,Auto Components,31227000.0,sector
+2023-09-30,Beverages,43836000.0,sector
+2023-09-30,Biotechnology,985000.0,sector
+2023-09-30,Building Products,1057876000.0,sector
+2023-09-30,Capital Markets,107476000.0,sector
+2023-09-30,Chemicals,94652000.0,sector
+2023-09-30,Commercial Services & Supplies,1971993000.0,sector
+2023-09-30,Construction & Engineering,379401000.0,sector
+2023-09-30,Construction Materials,17033000.0,sector
+2023-09-30,Containers & Packaging,135893000.0,sector
+2023-09-30,Distributors,333762000.0,sector
+2023-09-30,Diversified Consumer Services,1460660000.0,sector
+2023-09-30,Diversified Financial Services,1110144000.0,sector
+2023-09-30,Diversified Telecommunication Services,279837000.0,sector
+2023-09-30,Electric Utilities,69038000.0,sector
+2023-09-30,Electrical Equipment,248529000.0,sector
+2023-09-30,"Electronic Equipment, Instruments & Components",496194000.0,sector
+2023-09-30,Energy Equipment & Services,36055000.0,sector
+2023-09-30,Entertainment,14389000.0,sector
+2023-09-30,Food Products,25558000.0,sector
+2023-09-30,Ground Transportation,7015000.0,sector
+2023-09-30,Health Care Equipment & Supplies,787875000.0,sector
+2023-09-30,Health Care Providers & Services,5749568000.0,sector
+2023-09-30,Health Care Technology,1547111000.0,sector
+2023-09-30,"Hotels, Restaurants & Leisure",155635000.0,sector
+2023-09-30,Household Durables,32449000.0,sector
+2023-09-30,IT Services,2303800000.0,sector
+2023-09-30,Industrial Conglomerates,416319000.0,sector
+2023-09-30,Insurance,2346776000.0,sector
+2023-09-30,Interactive Media & Services,12957000.0,sector
+2023-09-30,Internet & Direct Marketing Retail,1035865000.0,sector
+2023-09-30,Leisure Products,3691000.0,sector
+2023-09-30,Life Sciences Tools & Services,257868000.0,sector
+2023-09-30,Machinery,26632000.0,sector
+2023-09-30,Marine,227657000.0,sector
+2023-09-30,Media,247986000.0,sector
+2023-09-30,Metals & Mining,22113000.0,sector
+2023-09-30,Not disclosed / not parsed,2151389000.0,sector
+2023-09-30,"Oil, Gas & Consumable Fuels",77463000.0,sector
+2023-09-30,Paper & Forest Products,71956000.0,sector
+2023-09-30,Pharmaceuticals,332324000.0,sector
+2023-09-30,Professional Services,5802787000.0,sector
+2023-09-30,Real Estate Management & Development,121210000.0,sector
+2023-09-30,Software,12933530000.0,sector
+2023-09-30,Specialty Retail,140219000.0,sector
+2023-09-30,"Technology Hardware, Storage & Peripherals",45893000.0,sector
+2023-09-30,Trading Companies & Distributors,310824000.0,sector
+2023-09-30,Transportation Infrastructure,1309852000.0,sector
+2023-09-30,Wireless Telecommunication Services,20583000.0,sector
+2023-12-31,Aerospace & Defense,705454000.0,sector
+2023-12-31,Air Freight & Logistics,1336471000.0,sector
+2023-12-31,Airlines,36123000.0,sector
+2023-12-31,Auto Components,33761000.0,sector
+2023-12-31,Beverages,44433000.0,sector
+2023-12-31,Biotechnology,999000.0,sector
+2023-12-31,Building Products,1044166000.0,sector
+2023-12-31,Capital Markets,231016000.0,sector
+2023-12-31,Chemicals,109729000.0,sector
+2023-12-31,Commercial Services & Supplies,2042635000.0,sector
+2023-12-31,Construction & Engineering,372147000.0,sector
+2023-12-31,Construction Materials,17058000.0,sector
+2023-12-31,Containers & Packaging,140916000.0,sector
+2023-12-31,Distributors,537540000.0,sector
+2023-12-31,Diversified Consumer Services,1362870000.0,sector
+2023-12-31,Diversified Financial Services,1235361000.0,sector
+2023-12-31,Diversified Telecommunication Services,279045000.0,sector
+2023-12-31,Electric Utilities,98718000.0,sector
+2023-12-31,Electrical Equipment,245545000.0,sector
+2023-12-31,"Electronic Equipment, Instruments & Components",540903000.0,sector
+2023-12-31,Energy Equipment & Services,35081000.0,sector
+2023-12-31,Entertainment,7584000.0,sector
+2023-12-31,Food Products,19865000.0,sector
+2023-12-31,Ground Transportation,7152000.0,sector
+2023-12-31,Health Care Equipment & Supplies,794512000.0,sector
+2023-12-31,Health Care Providers & Services,5741937000.0,sector
+2023-12-31,Health Care Technology,2098972000.0,sector
+2023-12-31,"Hotels, Restaurants & Leisure",156043000.0,sector
+2023-12-31,Household Durables,32711000.0,sector
+2023-12-31,IT Services,2254550000.0,sector
+2023-12-31,Industrial Conglomerates,439009000.0,sector
+2023-12-31,Insurance,2395415000.0,sector
+2023-12-31,Interactive Media & Services,12949000.0,sector
+2023-12-31,Internet & Direct Marketing Retail,1035595000.0,sector
+2023-12-31,Leisure Products,3694000.0,sector
+2023-12-31,Life Sciences Tools & Services,248328000.0,sector
+2023-12-31,Machinery,20868000.0,sector
+2023-12-31,Marine,229010000.0,sector
+2023-12-31,Media,251450000.0,sector
+2023-12-31,Metals & Mining,22313000.0,sector
+2023-12-31,Not disclosed / not parsed,2161525000.0,sector
+2023-12-31,"Oil, Gas & Consumable Fuels",75866000.0,sector
+2023-12-31,Paper & Forest Products,61015000.0,sector
+2023-12-31,Pharmaceuticals,440924000.0,sector
+2023-12-31,Professional Services,5928042000.0,sector
+2023-12-31,Real Estate Management & Development,154808000.0,sector
+2023-12-31,Software,13872227000.0,sector
+2023-12-31,Specialty Retail,122067000.0,sector
+2023-12-31,"Technology Hardware, Storage & Peripherals",45893000.0,sector
+2023-12-31,Trading Companies & Distributors,266592000.0,sector
+2023-12-31,Transportation Infrastructure,1372925000.0,sector
+2023-12-31,Wireless Telecommunication Services,20099000.0,sector
+2024-03-31,Aerospace & Defense,756378000.0,sector
+2024-03-31,Air Freight & Logistics,1334159000.0,sector
+2024-03-31,Airlines,13801000.0,sector
+2024-03-31,Auto Components,40491000.0,sector
+2024-03-31,Beverages,44241000.0,sector
+2024-03-31,Biotechnology,5805000.0,sector
+2024-03-31,Building Products,1023232000.0,sector
+2024-03-31,Capital Markets,234614000.0,sector
+2024-03-31,Chemicals,62225000.0,sector
+2024-03-31,Commercial Services & Supplies,2053198000.0,sector
+2024-03-31,Construction & Engineering,471736000.0,sector
+2024-03-31,Construction Materials,17028000.0,sector
+2024-03-31,Containers & Packaging,127178000.0,sector
+2024-03-31,Distributors,459504000.0,sector
+2024-03-31,Diversified Consumer Services,1448069000.0,sector
+2024-03-31,Diversified Financial Services,1248182000.0,sector
+2024-03-31,Diversified Telecommunication Services,277654000.0,sector
+2024-03-31,Electric Utilities,99433000.0,sector
+2024-03-31,Electrical Equipment,242350000.0,sector
+2024-03-31,"Electronic Equipment, Instruments & Components",540411000.0,sector
+2024-03-31,Energy Equipment & Services,44078000.0,sector
+2024-03-31,Entertainment,7598000.0,sector
+2024-03-31,Food Products,10322000.0,sector
+2024-03-31,Ground Transportation,10073000.0,sector
+2024-03-31,Health Care Equipment & Supplies,782499000.0,sector
+2024-03-31,Health Care Providers & Services,5851363000.0,sector
+2024-03-31,Health Care Technology,2165755000.0,sector
+2024-03-31,"Hotels, Restaurants & Leisure",131873000.0,sector
+2024-03-31,Household Durables,32651000.0,sector
+2024-03-31,IT Services,2857077000.0,sector
+2024-03-31,Industrial Conglomerates,412554000.0,sector
+2024-03-31,Insurance,2669695000.0,sector
+2024-03-31,Interactive Media & Services,8387000.0,sector
+2024-03-31,Internet & Direct Marketing Retail,1039939000.0,sector
+2024-03-31,Leisure Products,9932000.0,sector
+2024-03-31,Life Sciences Tools & Services,176911000.0,sector
+2024-03-31,Machinery,38255000.0,sector
+2024-03-31,Marine,228450000.0,sector
+2024-03-31,Media,243978000.0,sector
+2024-03-31,Metals & Mining,21584000.0,sector
+2024-03-31,Not disclosed / not parsed,2160691000.0,sector
+2024-03-31,"Oil, Gas & Consumable Fuels",75548000.0,sector
+2024-03-31,Paper & Forest Products,64155000.0,sector
+2024-03-31,Pharmaceuticals,508402000.0,sector
+2024-03-31,Professional Services,6159529000.0,sector
+2024-03-31,Real Estate Management & Development,164771000.0,sector
+2024-03-31,Software,14178648000.0,sector
+2024-03-31,Specialty Retail,114818000.0,sector
+2024-03-31,"Technology Hardware, Storage & Peripherals",45893000.0,sector
+2024-03-31,Trading Companies & Distributors,381556000.0,sector
+2024-03-31,Transportation Infrastructure,1395917000.0,sector
+2024-03-31,Wireless Telecommunication Services,19985000.0,sector
+2024-06-30,Aerospace & Defense,766152000.0,sector
+2024-06-30,Air Freight & Logistics,1242037000.0,sector
+2024-06-30,Airlines,13763000.0,sector
+2024-06-30,Auto Components,63725000.0,sector
+2024-06-30,Beverages,44606000.0,sector
+2024-06-30,Biotechnology,5877000.0,sector
+2024-06-30,Broadline Retail,7016000.0,sector
+2024-06-30,Building Products,877973000.0,sector
+2024-06-30,Capital Markets,245318000.0,sector
+2024-06-30,Chemicals,266375000.0,sector
+2024-06-30,Commercial Services & Supplies,2406023000.0,sector
+2024-06-30,Construction & Engineering,530372000.0,sector
+2024-06-30,Containers & Packaging,133169000.0,sector
+2024-06-30,Distributors,644942000.0,sector
+2024-06-30,Diversified Consumer Services,1737318000.0,sector
+2024-06-30,Diversified Financial Services,1328540000.0,sector
+2024-06-30,Diversified REITs,5967000.0,sector
+2024-06-30,Diversified Telecommunication Services,254247000.0,sector
+2024-06-30,Electric Utilities,122519000.0,sector
+2024-06-30,Electrical Equipment,241826000.0,sector
+2024-06-30,"Electronic Equipment, Instruments & Components",86179000.0,sector
+2024-06-30,Energy Equipment & Services,41079000.0,sector
+2024-06-30,Entertainment,10154000.0,sector
+2024-06-30,Food Products,4868000.0,sector
+2024-06-30,Health Care Equipment & Supplies,719980000.0,sector
+2024-06-30,Health Care Providers & Services,6323416000.0,sector
+2024-06-30,Health Care Technology,2402252000.0,sector
+2024-06-30,"Hotels, Restaurants & Leisure",142588000.0,sector
+2024-06-30,Household Durables,32567000.0,sector
+2024-06-30,IT Services,3156249000.0,sector
+2024-06-30,Industrial Conglomerates,263165000.0,sector
+2024-06-30,Insurance,3037826000.0,sector
+2024-06-30,Interactive Media & Services,8314000.0,sector
+2024-06-30,Internet & Direct Marketing Retail,1047211000.0,sector
+2024-06-30,Leisure Products,12423000.0,sector
+2024-06-30,Life Sciences Tools & Services,170311000.0,sector
+2024-06-30,Machinery,38236000.0,sector
+2024-06-30,Marine,286068000.0,sector
+2024-06-30,Media,462024000.0,sector
+2024-06-30,Metals & Mining,21348000.0,sector
+2024-06-30,Not disclosed / not parsed,1956810000.0,sector
+2024-06-30,"Oil, Gas & Consumable Fuels",75656000.0,sector
+2024-06-30,Paper & Forest Products,64048000.0,sector
+2024-06-30,Pharmaceuticals,509575000.0,sector
+2024-06-30,Professional Services,6473214000.0,sector
+2024-06-30,Real Estate Management & Development,167943000.0,sector
+2024-06-30,Software,15240288000.0,sector
+2024-06-30,Specialty Retail,105755000.0,sector
+2024-06-30,"Technology Hardware, Storage & Peripherals",75139000.0,sector
+2024-06-30,Trading Companies & Distributors,359423000.0,sector
+2024-06-30,Transportation Infrastructure,1622045000.0,sector
+2024-06-30,Wireless Telecommunication Services,21077000.0,sector
+2024-09-30,Aerospace & Defense,973409000.0,sector
+2024-09-30,Air Freight & Logistics,1244062000.0,sector
+2024-09-30,Airlines,6331000.0,sector
+2024-09-30,Auto Components,29689000.0,sector
+2024-09-30,Beverages,44398000.0,sector
+2024-09-30,Biotechnology,9509000.0,sector
+2024-09-30,Broadline Retail,7031000.0,sector
+2024-09-30,Building Products,909173000.0,sector
+2024-09-30,Capital Markets,202858000.0,sector
+2024-09-30,Chemicals,268871000.0,sector
+2024-09-30,Commercial Services & Supplies,3172567000.0,sector
+2024-09-30,Construction & Engineering,899808000.0,sector
+2024-09-30,Containers & Packaging,127260000.0,sector
+2024-09-30,Distributors,575490000.0,sector
+2024-09-30,Diversified Consumer Services,2209748000.0,sector
+2024-09-30,Diversified REITs,5944000.0,sector
+2024-09-30,Diversified Telecommunication Services,255598000.0,sector
+2024-09-30,Electric Utilities,130503000.0,sector
+2024-09-30,Electrical Equipment,556445000.0,sector
+2024-09-30,"Electronic Equipment, Instruments & Components",495420000.0,sector
+2024-09-30,Energy Equipment & Services,41059000.0,sector
+2024-09-30,Entertainment,10124000.0,sector
+2024-09-30,Financial Services,1346916000.0,sector
+2024-09-30,Food Products,4870000.0,sector
+2024-09-30,Ground Transportation,161820000.0,sector
+2024-09-30,Health Care Equipment & Supplies,730047000.0,sector
+2024-09-30,Health Care Providers & Services,6494009000.0,sector
+2024-09-30,Health Care Technology,3005308000.0,sector
+2024-09-30,"Hotels, Restaurants & Leisure",133876000.0,sector
+2024-09-30,Household Durables,32471000.0,sector
+2024-09-30,IT Services,3218114000.0,sector
+2024-09-30,Industrial Conglomerates,199124000.0,sector
+2024-09-30,Insurance,3547652000.0,sector
+2024-09-30,Interactive Media & Services,113879000.0,sector
+2024-09-30,Internet & Direct Marketing Retail,1048401000.0,sector
+2024-09-30,Leisure Products,11923000.0,sector
+2024-09-30,Life Sciences Tools & Services,171338000.0,sector
+2024-09-30,Machinery,88937000.0,sector
+2024-09-30,Marine,288328000.0,sector
+2024-09-30,Media,456923000.0,sector
+2024-09-30,Metals & Mining,22568000.0,sector
+2024-09-30,"Oil, Gas & Consumable Fuels",94860000.0,sector
+2024-09-30,Paper & Forest Products,69020000.0,sector
+2024-09-30,Pharmaceuticals,524854000.0,sector
+2024-09-30,Professional Services,7134140000.0,sector
+2024-09-30,Real Estate Management & Development,170037000.0,sector
+2024-09-30,Software,16226555000.0,sector
+2024-09-30,Specialty Retail,2057656000.0,sector
+2024-09-30,"Technology Hardware, Storage & Peripherals",75139000.0,sector
+2024-09-30,Trading Companies & Distributors,336139000.0,sector
+2024-09-30,Transportation Infrastructure,1663753000.0,sector
+2024-09-30,Wireless Telecommunication Services,59308000.0,sector
+2024-12-31,Aerospace & Defense,816344000.0,sector
+2024-12-31,Air Freight & Logistics,1207414000.0,sector
+2024-12-31,Airlines,6329000.0,sector
+2024-12-31,Auto Components,27617000.0,sector
+2024-12-31,Beverages,44714000.0,sector
+2024-12-31,Biotechnology,9151000.0,sector
+2024-12-31,Broadline Retail,7048000.0,sector
+2024-12-31,Building Products,885425000.0,sector
+2024-12-31,Capital Markets,201549000.0,sector
+2024-12-31,Chemicals,274738000.0,sector
+2024-12-31,Commercial Services & Supplies,4191622000.0,sector
+2024-12-31,Construction & Engineering,742616000.0,sector
+2024-12-31,Construction Materials,3013000.0,sector
+2024-12-31,Containers & Packaging,114086000.0,sector
+2024-12-31,Distributors,573290000.0,sector
+2024-12-31,Diversified Consumer Services,2234449000.0,sector
+2024-12-31,Diversified REITs,5962000.0,sector
+2024-12-31,Diversified Telecommunication Services,254293000.0,sector
+2024-12-31,Electric Utilities,170186000.0,sector
+2024-12-31,Electrical Equipment,558480000.0,sector
+2024-12-31,"Electronic Equipment, Instruments & Components",736834000.0,sector
+2024-12-31,Energy Equipment & Services,41783000.0,sector
+2024-12-31,Entertainment,20111000.0,sector
+2024-12-31,Financial Services,1575229000.0,sector
+2024-12-31,Food Products,4878000.0,sector
+2024-12-31,Ground Transportation,156432000.0,sector
+2024-12-31,Health Care Equipment & Supplies,730157000.0,sector
+2024-12-31,Health Care Providers & Services,6396581000.0,sector
+2024-12-31,Health Care Technology,3156745000.0,sector
+2024-12-31,"Hotels, Restaurants & Leisure",140783000.0,sector
+2024-12-31,Household Durables,39502000.0,sector
+2024-12-31,IT Services,3215986000.0,sector
+2024-12-31,Industrial Conglomerates,197218000.0,sector
+2024-12-31,Insurance,4818872000.0,sector
+2024-12-31,Interactive Media & Services,634211000.0,sector
+2024-12-31,Internet & Direct Marketing Retail,1045934000.0,sector
+2024-12-31,Life Sciences Tools & Services,386499000.0,sector
+2024-12-31,Machinery,223303000.0,sector
+2024-12-31,Marine,287234000.0,sector
+2024-12-31,Media,346415000.0,sector
+2024-12-31,Metals & Mining,26347000.0,sector
+2024-12-31,"Oil, Gas & Consumable Fuels",303029000.0,sector
+2024-12-31,Paper & Forest Products,63370000.0,sector
+2024-12-31,Pharmaceuticals,516156000.0,sector
+2024-12-31,Professional Services,7450011000.0,sector
+2024-12-31,Real Estate Management & Development,699550000.0,sector
+2024-12-31,Software,18658208000.0,sector
+2024-12-31,Specialty Retail,2045837000.0,sector
+2024-12-31,"Technology Hardware, Storage & Peripherals",75139000.0,sector
+2024-12-31,Trading Companies & Distributors,337423000.0,sector
+2024-12-31,Transportation Infrastructure,1664282000.0,sector
+2024-12-31,Wireless Telecommunication Services,97392000.0,sector
+2025-03-31,Aerospace & Defense,997996000.0,sector
+2025-03-31,Air Freight & Logistics,1232919000.0,sector
+2025-03-31,Airlines,6215000.0,sector
+2025-03-31,Auto Components,28947000.0,sector
+2025-03-31,Beverages,44071000.0,sector
+2025-03-31,Biotechnology,5017000.0,sector
+2025-03-31,Broadline Retail,6979000.0,sector
+2025-03-31,Building Products,877457000.0,sector
+2025-03-31,Capital Markets,205242000.0,sector
+2025-03-31,Chemicals,263193000.0,sector
+2025-03-31,Commercial Services & Supplies,4541657000.0,sector
+2025-03-31,Construction & Engineering,751987000.0,sector
+2025-03-31,Construction Materials,14848000.0,sector
+2025-03-31,Containers & Packaging,105158000.0,sector
+2025-03-31,Distributors,572209000.0,sector
+2025-03-31,Diversified Consumer Services,2240492000.0,sector
+2025-03-31,Diversified REITs,5916000.0,sector
+2025-03-31,Diversified Telecommunication Services,253332000.0,sector
+2025-03-31,Electric Utilities,168867000.0,sector
+2025-03-31,Electrical Equipment,557448000.0,sector
+2025-03-31,"Electronic Equipment, Instruments & Components",743062000.0,sector
+2025-03-31,Energy Equipment & Services,41934000.0,sector
+2025-03-31,Entertainment,11827000.0,sector
+2025-03-31,Financial Services,1666918000.0,sector
+2025-03-31,Food Products,4838000.0,sector
+2025-03-31,Ground Transportation,156030000.0,sector
+2025-03-31,Health Care Equipment & Supplies,727665000.0,sector
+2025-03-31,Health Care Providers & Services,6100992000.0,sector
+2025-03-31,Health Care Technology,3630384000.0,sector
+2025-03-31,"Hotels, Restaurants & Leisure",136453000.0,sector
+2025-03-31,Household Durables,39097000.0,sector
+2025-03-31,IT Services,3605753000.0,sector
+2025-03-31,Industrial Conglomerates,201152000.0,sector
+2025-03-31,Insurance,4934317000.0,sector
+2025-03-31,Interactive Media & Services,677250000.0,sector
+2025-03-31,Internet & Direct Marketing Retail,526873000.0,sector
+2025-03-31,Life Sciences Tools & Services,509520000.0,sector
+2025-03-31,Machinery,217086000.0,sector
+2025-03-31,Marine,291313000.0,sector
+2025-03-31,Media,341982000.0,sector
+2025-03-31,Metals & Mining,15600000.0,sector
+2025-03-31,"Oil, Gas & Consumable Fuels",306626000.0,sector
+2025-03-31,Paper & Forest Products,70940000.0,sector
+2025-03-31,Pharmaceuticals,550136000.0,sector
+2025-03-31,Professional Services,7558237000.0,sector
+2025-03-31,Real Estate Management & Development,715499000.0,sector
+2025-03-31,Software,18547751000.0,sector
+2025-03-31,Specialty Retail,1955168000.0,sector
+2025-03-31,"Technology Hardware, Storage & Peripherals",75139000.0,sector
+2025-03-31,Trading Companies & Distributors,316380000.0,sector
+2025-03-31,Transportation Infrastructure,1508409000.0,sector
+2025-03-31,Wireless Telecommunication Services,125422000.0,sector
+2025-06-30,Aerospace & Defense,1140180000.0,sector
+2025-06-30,Air Freight & Logistics,1240474000.0,sector
+2025-06-30,Airlines,32752000.0,sector
+2025-06-30,Auto Components,41325000.0,sector
+2025-06-30,Beverages,44296000.0,sector
+2025-06-30,Biotechnology,107044000.0,sector
+2025-06-30,Broadline Retail,7011000.0,sector
+2025-06-30,Building Products,874540000.0,sector
+2025-06-30,Capital Markets,242117000.0,sector
+2025-06-30,Chemicals,288356000.0,sector
+2025-06-30,Commercial Services & Supplies,4956522000.0,sector
+2025-06-30,Construction & Engineering,813552000.0,sector
+2025-06-30,Construction Materials,17941000.0,sector
+2025-06-30,Consumer Staples Distribution & Retail,86198000.0,sector
+2025-06-30,Containers & Packaging,122962000.0,sector
+2025-06-30,Distributors,575837000.0,sector
+2025-06-30,Diversified Consumer Services,2200141000.0,sector
+2025-06-30,Diversified REITs,5927000.0,sector
+2025-06-30,Diversified Telecommunication Services,262573000.0,sector
+2025-06-30,Electric Utilities,170773000.0,sector
+2025-06-30,Electrical Equipment,557513000.0,sector
+2025-06-30,"Electronic Equipment, Instruments & Components",760804000.0,sector
+2025-06-30,Energy Equipment & Services,41839000.0,sector
+2025-06-30,Entertainment,10410000.0,sector
+2025-06-30,Financial Services,1893677000.0,sector
+2025-06-30,Food Products,8802000.0,sector
+2025-06-30,Gas Utilities,1498000.0,sector
+2025-06-30,Ground Transportation,155666000.0,sector
+2025-06-30,Health Care Equipment & Supplies,555893000.0,sector
+2025-06-30,Health Care Providers & Services,6392661000.0,sector
+2025-06-30,Health Care Technology,4508967000.0,sector
+2025-06-30,"Hotels, Restaurants & Leisure",173451000.0,sector
+2025-06-30,Household Durables,43758000.0,sector
+2025-06-30,IT Services,3668324000.0,sector
+2025-06-30,Independent Power and Renewable Electricity Producers,3126000.0,sector
+2025-06-30,Industrial Conglomerates,215245000.0,sector
+2025-06-30,Insurance,5108228000.0,sector
+2025-06-30,Interactive Media & Services,795776000.0,sector
+2025-06-30,Life Sciences Tools & Services,511724000.0,sector
+2025-06-30,Machinery,233682000.0,sector
+2025-06-30,Marine,300212000.0,sector
+2025-06-30,Media,939548000.0,sector
+2025-06-30,Metals & Mining,15692000.0,sector
+2025-06-30,"Oil, Gas & Consumable Fuels",305432000.0,sector
+2025-06-30,Paper & Forest Products,68125000.0,sector
+2025-06-30,Pharmaceuticals,654261000.0,sector
+2025-06-30,Professional Services,7929370000.0,sector
+2025-06-30,Real Estate Management & Development,773204000.0,sector
+2025-06-30,Semiconductors & Semiconductor Equipment,4978000.0,sector
+2025-06-30,Software,19053506000.0,sector
+2025-06-30,Specialty Retail,1963926000.0,sector
+2025-06-30,"Technology Hardware, Storage & Peripherals",75139000.0,sector
+2025-06-30,Trading Companies & Distributors,382995000.0,sector
+2025-06-30,Transportation Infrastructure,1603412000.0,sector
+2025-06-30,Wireless Telecommunication Services,234287000.0,sector
+2025-09-30,Aerospace & Defense,1135905000.0,sector
+2025-09-30,Air Freight & Logistics,1215598000.0,sector
+2025-09-30,Airlines,32647000.0,sector
+2025-09-30,Auto Components,41175000.0,sector
+2025-09-30,Beverages,44019000.0,sector
+2025-09-30,Biotechnology,152502000.0,sector
+2025-09-30,Broadline Retail,6963000.0,sector
+2025-09-30,Building Products,840892000.0,sector
+2025-09-30,Capital Markets,240448000.0,sector
+2025-09-30,Chemicals,281682000.0,sector
+2025-09-30,Commercial Services & Supplies,5380173000.0,sector
+2025-09-30,Construction & Engineering,925674000.0,sector
+2025-09-30,Construction Materials,17907000.0,sector
+2025-09-30,Consumer Staples Distribution & Retail,86450000.0,sector
+2025-09-30,Containers & Packaging,123403000.0,sector
+2025-09-30,Distributors,578757000.0,sector
+2025-09-30,Diversified Consumer Services,2308129000.0,sector
+2025-09-30,Diversified REITs,5921000.0,sector
+2025-09-30,Diversified Telecommunication Services,48451000.0,sector
+2025-09-30,Electric Utilities,923697000.0,sector
+2025-09-30,Electrical Equipment,736385000.0,sector
+2025-09-30,"Electronic Equipment, Instruments & Components",958284000.0,sector
+2025-09-30,Energy Equipment & Services,41344000.0,sector
+2025-09-30,Entertainment,10356000.0,sector
+2025-09-30,Financial Services,2110995000.0,sector
+2025-09-30,Food Products,11777000.0,sector
+2025-09-30,Gas Utilities,1494000.0,sector
+2025-09-30,Ground Transportation,155271000.0,sector
+2025-09-30,Health Care Equipment & Supplies,568431000.0,sector
+2025-09-30,Health Care Providers & Services,6482394000.0,sector
+2025-09-30,Health Care Technology,4819925000.0,sector
+2025-09-30,"Hotels, Restaurants & Leisure",284112000.0,sector
+2025-09-30,Household Durables,42608000.0,sector
+2025-09-30,IT Services,3776037000.0,sector
+2025-09-30,Independent Power and Renewable Electricity Producers,3124000.0,sector
+2025-09-30,Industrial Conglomerates,213682000.0,sector
+2025-09-30,Insurance,4731521000.0,sector
+2025-09-30,Interactive Media & Services,759864000.0,sector
+2025-09-30,Life Sciences Tools & Services,571326000.0,sector
+2025-09-30,Machinery,233576000.0,sector
+2025-09-30,Marine,297092000.0,sector
+2025-09-30,Media,838665000.0,sector
+2025-09-30,Metals & Mining,15663000.0,sector
+2025-09-30,"Oil, Gas & Consumable Fuels",311525000.0,sector
+2025-09-30,Paper & Forest Products,69347000.0,sector
+2025-09-30,Pharmaceuticals,559492000.0,sector
+2025-09-30,Professional Services,8472839000.0,sector
+2025-09-30,Real Estate Management & Development,939695000.0,sector
+2025-09-30,Semiconductors & Semiconductor Equipment,11471000.0,sector
+2025-09-30,Software,19632586000.0,sector
+2025-09-30,Specialty Retail,1930115000.0,sector
+2025-09-30,"Technology Hardware, Storage & Peripherals",75139000.0,sector
+2025-09-30,Trading Companies & Distributors,376597000.0,sector
+2025-09-30,Transportation Infrastructure,1849035000.0,sector
+2025-09-30,Wireless Telecommunication Services,248958000.0,sector
+2025-12-31,Aerospace & Defense,1681313000.0,sector
+2025-12-31,Air Freight & Logistics,1213965000.0,sector
+2025-12-31,Airlines,32730000.0,sector
+2025-12-31,Auto Components,41228000.0,sector
+2025-12-31,Beverages,44042000.0,sector
+2025-12-31,Biotechnology,190418000.0,sector
+2025-12-31,Broadline Retail,6968000.0,sector
+2025-12-31,Building Products,688038000.0,sector
+2025-12-31,Capital Markets,268170000.0,sector
+2025-12-31,Chemicals,274794000.0,sector
+2025-12-31,Commercial Services & Supplies,6075326000.0,sector
+2025-12-31,Construction & Engineering,1524229000.0,sector
+2025-12-31,Construction Materials,17928000.0,sector
+2025-12-31,Consumer Staples Distribution & Retail,85117000.0,sector
+2025-12-31,Containers & Packaging,121846000.0,sector
+2025-12-31,Distributors,361847000.0,sector
+2025-12-31,Diversified Consumer Services,2264874000.0,sector
+2025-12-31,Diversified REITs,5902000.0,sector
+2025-12-31,Diversified Telecommunication Services,48081000.0,sector
+2025-12-31,Electric Utilities,324908000.0,sector
+2025-12-31,Electrical Equipment,1054249000.0,sector
+2025-12-31,"Electronic Equipment, Instruments & Components",941713000.0,sector
+2025-12-31,Energy Equipment & Services,31951000.0,sector
+2025-12-31,Entertainment,10342000.0,sector
+2025-12-31,Financial Services,2473753000.0,sector
+2025-12-31,Food Products,6977000.0,sector
+2025-12-31,Gas Utilities,1496000.0,sector
+2025-12-31,Ground Transportation,156440000.0,sector
+2025-12-31,Health Care Equipment & Supplies,575835000.0,sector
+2025-12-31,Health Care Providers & Services,6467048000.0,sector
+2025-12-31,Health Care Technology,5359824000.0,sector
+2025-12-31,"Hotels, Restaurants & Leisure",282877000.0,sector
+2025-12-31,Household Durables,42572000.0,sector
+2025-12-31,IT Services,4060105000.0,sector
+2025-12-31,Independent Power and Renewable Electricity Producers,3126000.0,sector
+2025-12-31,Industrial Conglomerates,208778000.0,sector
+2025-12-31,Insurance,5010256000.0,sector
+2025-12-31,Interactive Media & Services,706707000.0,sector
+2025-12-31,Life Sciences Tools & Services,565856000.0,sector
+2025-12-31,Machinery,262532000.0,sector
+2025-12-31,Marine,303357000.0,sector
+2025-12-31,Media,848733000.0,sector
+2025-12-31,Metals & Mining,15679000.0,sector
+2025-12-31,"Oil, Gas & Consumable Fuels",1386825000.0,sector
+2025-12-31,Paper & Forest Products,67709000.0,sector
+2025-12-31,Pharmaceuticals,579034000.0,sector
+2025-12-31,Professional Services,8809734000.0,sector
+2025-12-31,Real Estate Management & Development,963578000.0,sector
+2025-12-31,Semiconductors & Semiconductor Equipment,11327000.0,sector
+2025-12-31,Software,21088976000.0,sector
+2025-12-31,Specialty Retail,1887166000.0,sector
+2025-12-31,"Technology Hardware, Storage & Peripherals",75139000.0,sector
+2025-12-31,Trading Companies & Distributors,344941000.0,sector
+2025-12-31,Transportation Infrastructure,2043853000.0,sector
+2025-12-31,Wireless Telecommunication Services,279134000.0,sector
+2026-03-31,Aerospace & Defense,1959992000.0,sector
+2026-03-31,Air Freight & Logistics,869338000.0,sector
+2026-03-31,Airlines (Passenger Airlines),29052000.0,sector
+2026-03-31,Automobile Components,13394000.0,sector
+2026-03-31,Biotechnology,298481000.0,sector
+2026-03-31,Broadline Retail,6907000.0,sector
+2026-03-31,Building Products,633776000.0,sector
+2026-03-31,Capital Markets,264216000.0,sector
+2026-03-31,Chemicals,260573000.0,sector
+2026-03-31,Commercial Services & Supplies,6597267000.0,sector
+2026-03-31,Construction & Engineering,1702741000.0,sector
+2026-03-31,Construction Materials,17693000.0,sector
+2026-03-31,Consumer Staples Distribution & Retail,84442000.0,sector
+2026-03-31,Containers & Packaging,80525000.0,sector
+2026-03-31,Distributors,282970000.0,sector
+2026-03-31,Diversified Consumer Services,2286436000.0,sector
+2026-03-31,Diversified REITs,7346000.0,sector
+2026-03-31,Diversified Telecommunication Services,43994000.0,sector
+2026-03-31,Electric Utilities,344596000.0,sector
+2026-03-31,Electrical Equipment,1039811000.0,sector
+2026-03-31,"Electronic Equipment, Instruments & Components",927316000.0,sector
+2026-03-31,Energy Equipment & Services,32258000.0,sector
+2026-03-31,Entertainment,12813000.0,sector
+2026-03-31,Financial Services,2428757000.0,sector
+2026-03-31,Food Products,6823000.0,sector
+2026-03-31,Ground Transportation,151885000.0,sector
+2026-03-31,Health Care Equipment & Supplies,560263000.0,sector
+2026-03-31,Health Care Providers & Services,6447857000.0,sector
+2026-03-31,Health Care Technology,4446500000.0,sector
+2026-03-31,"Hotels, Restaurants & Leisure",154471000.0,sector
+2026-03-31,Household Durables,27400000.0,sector
+2026-03-31,IT Services,3768147000.0,sector
+2026-03-31,Industrial Conglomerates,205020000.0,sector
+2026-03-31,Insurance,4860613000.0,sector
+2026-03-31,Interactive Media & Services,650742000.0,sector
+2026-03-31,Life Sciences Tools & Services,555910000.0,sector
+2026-03-31,Machinery,220619000.0,sector
+2026-03-31,Marine Transportation,301758000.0,sector
+2026-03-31,Media,854497000.0,sector
+2026-03-31,Metals & Mining,76791000.0,sector
+2026-03-31,"Oil, Gas & Consumable Fuels",278140000.0,sector
+2026-03-31,Paper & Forest Products,70635000.0,sector
+2026-03-31,Pharmaceuticals,643714000.0,sector
+2026-03-31,Professional Services,8937116000.0,sector
+2026-03-31,Real Estate Management & Development,992085000.0,sector
+2026-03-31,Semiconductors & Semiconductor Equipment,11348000.0,sector
+2026-03-31,Software,21560513000.0,sector
+2026-03-31,Specialty Retail,1711121000.0,sector
+2026-03-31,"Technology Hardware, Storage & Peripherals",75139000.0,sector
+2026-03-31,Trading Companies & Distributors,318683000.0,sector
+2026-03-31,Transportation Infrastructure,2072612000.0,sector
+2026-03-31,Wireless Telecommunication Services,284285000.0,sector
+2026-06-30,Aerospace & Defense,1923817000.0,sector
+2026-06-30,Air Freight & Logistics,1574828000.0,sector
+2026-06-30,Airlines (Passenger Airlines),29280000.0,sector
+2026-06-30,Automobile Components,12552000.0,sector
+2026-06-30,Biotechnology,294816000.0,sector
+2026-06-30,Broadline Retail,8485000.0,sector
+2026-06-30,Building Products,619337000.0,sector
+2026-06-30,Capital Markets,387969000.0,sector
+2026-06-30,Chemicals,255658000.0,sector
+2026-06-30,Commercial Services & Supplies,6456369000.0,sector
+2026-06-30,Construction & Engineering,1372685000.0,sector
+2026-06-30,Construction Materials,17680000.0,sector
+2026-06-30,Consumer Staples Distribution & Retail,82849000.0,sector
+2026-06-30,Containers & Packaging,81421000.0,sector
+2026-06-30,Distributors,282684000.0,sector
+2026-06-30,Diversified Consumer Services,2251273000.0,sector
+2026-06-30,Diversified REITs,7355000.0,sector
+2026-06-30,Diversified Telecommunication Services,29983000.0,sector
+2026-06-30,Electric Utilities,97311000.0,sector
+2026-06-30,Electrical Equipment,1013194000.0,sector
+2026-06-30,"Electronic Equipment, Instruments & Components",764745000.0,sector
+2026-06-30,Energy Equipment & Services,33962000.0,sector
+2026-06-30,Entertainment,12880000.0,sector
+2026-06-30,Financial Services,2007295000.0,sector
+2026-06-30,Food Products,6890000.0,sector
+2026-06-30,Ground Transportation,149756000.0,sector
+2026-06-30,Health Care Equipment & Supplies,552679000.0,sector
+2026-06-30,Health Care Providers & Services,6492123000.0,sector
+2026-06-30,Health Care Technology,4394946000.0,sector
+2026-06-30,"Hotels, Restaurants & Leisure",133469000.0,sector
+2026-06-30,Household Durables,27379000.0,sector
+2026-06-30,IT Services,3617560000.0,sector
+2026-06-30,Independent Power and Renewable Electricity Producers,1903000.0,sector
+2026-06-30,Industrial Conglomerates,196066000.0,sector
+2026-06-30,Insurance,4783349000.0,sector
+2026-06-30,Interactive Media & Services,647742000.0,sector
+2026-06-30,Life Sciences Tools & Services,545647000.0,sector
+2026-06-30,Machinery,217936000.0,sector
+2026-06-30,Marine Transportation,300475000.0,sector
+2026-06-30,Media,844932000.0,sector
+2026-06-30,Metals & Mining,77189000.0,sector
+2026-06-30,"Oil, Gas & Consumable Fuels",275719000.0,sector
+2026-06-30,Paper & Forest Products,66945000.0,sector
+2026-06-30,Pharmaceuticals,724659000.0,sector
+2026-06-30,Professional Services,8879279000.0,sector
+2026-06-30,Real Estate Management & Development,1010760000.0,sector
+2026-06-30,Software,20051990000.0,sector
+2026-06-30,Specialty Retail,1727358000.0,sector
+2026-06-30,"Technology Hardware, Storage & Peripherals",75139000.0,sector
+2026-06-30,Trading Companies & Distributors,325113000.0,sector
+2026-06-30,Transportation Infrastructure,1626629000.0,sector
+2026-06-30,Wireless Telecommunication Services,277047000.0,sector
+2021-03-31,Not disclosed / not parsed,5434164000.0,jurisdiction
+2021-06-30,Not disclosed / not parsed,11315816000.0,jurisdiction
+2021-09-30,Not disclosed / not parsed,17738393000.0,jurisdiction
+2021-12-31,Not disclosed / not parsed,30795702000.0,jurisdiction
+2022-03-31,Not disclosed / not parsed,37777473000.0,jurisdiction
+2022-06-30,Not disclosed / not parsed,17229399000.0,jurisdiction
+2022-09-30,Not disclosed / not parsed,48959005000.0,jurisdiction
+2022-12-31,Not disclosed / not parsed,48908609000.0,jurisdiction
+2023-03-31,Not disclosed / not parsed,47905799000.0,jurisdiction
+2023-06-30,Not disclosed / not parsed,47684868000.0,jurisdiction
+2023-09-30,Not disclosed / not parsed,48413196000.0,jurisdiction
+2023-12-31,Not disclosed / not parsed,50743911000.0,jurisdiction
+2024-03-31,Not disclosed / not parsed,52512576000.0,jurisdiction
+2024-06-30,Not disclosed / not parsed,55874996000.0,jurisdiction
+2024-09-30,Not disclosed / not parsed,61663262000.0,jurisdiction
+2024-12-31,Not disclosed / not parsed,68419777000.0,jurisdiction
+2025-03-31,Not disclosed / not parsed,69189703000.0,jurisdiction
+2025-06-30,Not disclosed / not parsed,73175652000.0,jurisdiction
+2025-09-30,Not disclosed / not parsed,76531118000.0,jurisdiction
+2025-12-31,Not disclosed / not parsed,82199346000.0,jurisdiction
+2026-03-31,Not disclosed / not parsed,80469381000.0,jurisdiction
+2026-06-30,Not disclosed / not parsed,77649107000.0,jurisdiction
+2021-03-31,Not disclosed / not parsed,5434164000.0,xbrl_investment_type
+2021-06-30,Not disclosed / not parsed,11315816000.0,xbrl_investment_type
+2021-09-30,Not disclosed / not parsed,17738393000.0,xbrl_investment_type
+2021-12-31,Not disclosed / not parsed,30795702000.0,xbrl_investment_type
+2022-03-31,Not disclosed / not parsed,37777473000.0,xbrl_investment_type
+2022-06-30,Not disclosed / not parsed,17229399000.0,xbrl_investment_type
+2022-09-30,Not disclosed / not parsed,48959005000.0,xbrl_investment_type
+2022-12-31,Not disclosed / not parsed,48908609000.0,xbrl_investment_type
+2023-03-31,Not disclosed / not parsed,47905799000.0,xbrl_investment_type
+2023-06-30,Not disclosed / not parsed,47684868000.0,xbrl_investment_type
+2023-09-30,Not disclosed / not parsed,48413196000.0,xbrl_investment_type
+2023-12-31,Not disclosed / not parsed,50743911000.0,xbrl_investment_type
+2024-03-31,Not disclosed / not parsed,52512576000.0,xbrl_investment_type
+2024-06-30,Not disclosed / not parsed,55874996000.0,xbrl_investment_type
+2024-09-30,Not disclosed / not parsed,61663262000.0,xbrl_investment_type
+2024-12-31,Not disclosed / not parsed,68419777000.0,xbrl_investment_type
+2025-03-31,Not disclosed / not parsed,69189703000.0,xbrl_investment_type
+2025-06-30,Not disclosed / not parsed,73175652000.0,xbrl_investment_type
+2025-09-30,Not disclosed / not parsed,76531118000.0,xbrl_investment_type
+2025-12-31,Not disclosed / not parsed,82199346000.0,xbrl_investment_type
+2026-03-31,Not disclosed / not parsed,80469381000.0,xbrl_investment_type
+2026-06-30,Not disclosed / not parsed,77649107000.0,xbrl_investment_type
+2021-03-31,Not disclosed / not parsed,5434164000.0,currency
+2021-06-30,Not disclosed / not parsed,11315816000.0,currency
+2021-09-30,Not disclosed / not parsed,17738393000.0,currency
+2021-12-31,Not disclosed / not parsed,30795702000.0,currency
+2022-03-31,Not disclosed / not parsed,37777473000.0,currency
+2022-06-30,Not disclosed / not parsed,17229399000.0,currency
+2022-09-30,CAD,492289000.0,currency
+2022-09-30,DKK,72138000.0,currency
+2022-09-30,EUR,799592000.0,currency
+2022-09-30,GBP,2322013000.0,currency
+2022-09-30,NOK,53694000.0,currency
+2022-09-30,SEK,31282000.0,currency
+2022-09-30,USD,45187997000.0,currency
+2022-12-31,CAD,420200000.0,currency
+2022-12-31,CHF,115391000.0,currency
+2022-12-31,DKK,78665000.0,currency
+2022-12-31,EUR,796796000.0,currency
+2022-12-31,GBP,1255277000.0,currency
+2022-12-31,NOK,59479000.0,currency
+2022-12-31,NZD,24096000.0,currency
+2022-12-31,SEK,33205000.0,currency
+2022-12-31,USD,46125500000.0,currency
+2023-03-31,CAD,377215000.0,currency
+2023-03-31,CHF,116847000.0,currency
+2023-03-31,DKK,79664000.0,currency
+2023-03-31,EUR,822597000.0,currency
+2023-03-31,GBP,1193727000.0,currency
+2023-03-31,NOK,55756000.0,currency
+2023-03-31,NZD,23837000.0,currency
+2023-03-31,SEK,33388000.0,currency
+2023-03-31,USD,45202768000.0,currency
+2023-06-30,CAD,376118000.0,currency
+2023-06-30,CHF,63595000.0,currency
+2023-06-30,DKK,80112000.0,currency
+2023-06-30,EUR,834666000.0,currency
+2023-06-30,GBP,1319641000.0,currency
+2023-06-30,NOK,54433000.0,currency
+2023-06-30,NZD,23342000.0,currency
+2023-06-30,SEK,32216000.0,currency
+2023-06-30,USD,44900745000.0,currency
+2023-09-30,CAD,344220000.0,currency
+2023-09-30,CHF,67203000.0,currency
+2023-09-30,DKK,78358000.0,currency
+2023-09-30,EUR,1020098000.0,currency
+2023-09-30,GBP,1322600000.0,currency
+2023-09-30,NOK,55337000.0,currency
+2023-09-30,NZD,23128000.0,currency
+2023-09-30,SEK,32271000.0,currency
+2023-09-30,USD,45469981000.0,currency
+2023-12-31,CAD,379546000.0,currency
+2023-12-31,CHF,73165000.0,currency
+2023-12-31,DKK,82418000.0,currency
+2023-12-31,EUR,1077128000.0,currency
+2023-12-31,GBP,1407480000.0,currency
+2023-12-31,NOK,58524000.0,currency
+2023-12-31,NZD,23909000.0,currency
+2023-12-31,SEK,35034000.0,currency
+2023-12-31,USD,47606707000.0,currency
+2024-03-31,AUD,629000.0,currency
+2024-03-31,CAD,376264000.0,currency
+2024-03-31,CHF,68312000.0,currency
+2024-03-31,DKK,80497000.0,currency
+2024-03-31,EUR,1165575000.0,currency
+2024-03-31,GBP,1507931000.0,currency
+2024-03-31,NOK,54769000.0,currency
+2024-03-31,NZD,22884000.0,currency
+2024-03-31,SEK,33065000.0,currency
+2024-03-31,USD,49202650000.0,currency
+2024-06-30,AUD,651000.0,currency
+2024-06-30,CAD,411946000.0,currency
+2024-06-30,CHF,68570000.0,currency
+2024-06-30,DKK,79918000.0,currency
+2024-06-30,EUR,1322802000.0,currency
+2024-06-30,GBP,1738738000.0,currency
+2024-06-30,NOK,55690000.0,currency
+2024-06-30,NZD,23138000.0,currency
+2024-06-30,SEK,33392000.0,currency
+2024-06-30,USD,52140151000.0,currency
+2024-09-30,AUD,676000.0,currency
+2024-09-30,CAD,415960000.0,currency
+2024-09-30,CHF,72235000.0,currency
+2024-09-30,DKK,83318000.0,currency
+2024-09-30,EUR,1549728000.0,currency
+2024-09-30,GBP,2332214000.0,currency
+2024-09-30,NOK,56486000.0,currency
+2024-09-30,NZD,23707000.0,currency
+2024-09-30,SEK,34910000.0,currency
+2024-09-30,USD,57094028000.0,currency
+2024-12-31,AUD,612000.0,currency
+2024-12-31,CAD,760246000.0,currency
+2024-12-31,CHF,67448000.0,currency
+2024-12-31,DKK,77891000.0,currency
+2024-12-31,EUR,2035608000.0,currency
+2024-12-31,GBP,2336243000.0,currency
+2024-12-31,NOK,52629000.0,currency
+2024-12-31,NZD,20732000.0,currency
+2024-12-31,SEK,86267000.0,currency
+2024-12-31,USD,62982101000.0,currency
+2025-03-31,AUD,618000.0,currency
+2025-03-31,CAD,764586000.0,currency
+2025-03-31,CHF,68936000.0,currency
+2025-03-31,DKK,81272000.0,currency
+2025-03-31,EUR,2139885000.0,currency
+2025-03-31,GBP,2583347000.0,currency
+2025-03-31,NOK,56944000.0,currency
+2025-03-31,NZD,20774000.0,currency
+2025-03-31,SEK,105765000.0,currency
+2025-03-31,USD,63367576000.0,currency
+2025-06-30,AUD,653000.0,currency
+2025-06-30,CAD,814276000.0,currency
+2025-06-30,CHF,76414000.0,currency
+2025-06-30,DKK,88534000.0,currency
+2025-06-30,EUR,2380256000.0,currency
+2025-06-30,GBP,2720505000.0,currency
+2025-06-30,NOK,59437000.0,currency
+2025-06-30,NZD,100489000.0,currency
+2025-06-30,SEK,166122000.0,currency
+2025-06-30,USD,66768966000.0,currency
+2025-09-30,AUD,656000.0,currency
+2025-09-30,CAD,797608000.0,currency
+2025-09-30,CHF,75713000.0,currency
+2025-09-30,DKK,85990000.0,currency
+2025-09-30,EUR,2851459000.0,currency
+2025-09-30,GBP,2713097000.0,currency
+2025-09-30,NOK,58531000.0,currency
+2025-09-30,NZD,95275000.0,currency
+2025-09-30,SEK,179869000.0,currency
+2025-09-30,USD,69672920000.0,currency
+2025-12-31,AUD,664000.0,currency
+2025-12-31,CAD,812662000.0,currency
+2025-12-31,CHF,75941000.0,currency
+2025-12-31,DKK,86023000.0,currency
+2025-12-31,EUR,3102133000.0,currency
+2025-12-31,GBP,2806399000.0,currency
+2025-12-31,NOK,57948000.0,currency
+2025-12-31,NZD,94798000.0,currency
+2025-12-31,SEK,180817000.0,currency
+2025-12-31,USD,74981961000.0,currency
+2026-03-31,AUD,687000.0,currency
+2026-03-31,CAD,815830000.0,currency
+2026-03-31,CHF,74636000.0,currency
+2026-03-31,DKK,84565000.0,currency
+2026-03-31,EUR,3156587000.0,currency
+2026-03-31,GBP,2736799000.0,currency
+2026-03-31,NOK,60325000.0,currency
+2026-03-31,NZD,92339000.0,currency
+2026-03-31,SEK,176016000.0,currency
+2026-03-31,USD,73271597000.0,currency
+2026-06-30,AUD,82379000.0,currency
+2026-06-30,CAD,816219000.0,currency
+2026-06-30,CHF,73565000.0,currency
+2026-06-30,DKK,83577000.0,currency
+2026-06-30,EUR,2959053000.0,currency
+2026-06-30,GBP,2751416000.0,currency
+2026-06-30,NOK,10427000.0,currency
+2026-06-30,NZD,91431000.0,currency
+2026-06-30,SEK,160561000.0,currency
+2026-06-30,USD,70620479000.0,currency

@@ -1,0 +1,34 @@
+reason,rows_before,text,report_date
+total_row,315,"Total First Lien Debt | $ | 4,968,904 | $ | 4,978,641 | 235.29 | %",2021-03-31
+total_row,329,"Total Second Lien Debt | $ | 387,457 | $ | 394,545 | 18.63 | %",2021-03-31
+total_row,332,"Total Unsecured Debt | $ | 54,233 | $ | 53,618 | 2.53 | %",2021-03-31
+total_row,335,"Total Equity | $ | 5,538 | $ | 5,538 | 0.26 | %",2021-03-31
+total_row,335,Total Equity | $ | 401 | $ | 401 | 0.02 | %,2021-03-31
+total_row,335,"Total Equity | $ | 1,421 | $ | 1,421 | 0.07 | %",2021-03-31
+total_row,358,"Total First Lien Debt | $ | 10,095,919 | $ | 10,147,833 | 205.26 | %",2021-06-30
+total_row,385,"Total Second Lien Debt | $ | 1,049,026 | $ | 1,065,350 | 21.55 | %",2021-06-30
+total_row,389,"Total Unsecured Debt | $ | 45,757 | $ | 45,757 | 0.93 | %",2021-06-30
+total_row,398,"Total Equity Investments | $ | 55,052 | $ | 55,052 | 1.11 | %",2021-06-30
+total_row,398,Total Equity | $ | 401 | $ | 401 | 0.01 | %,2021-06-30
+total_row,398,"Total Equity | $ | 1,421 | $ | 1,424 | 0.03 | %",2021-06-30
+total_row,397,"Total First Lien Debt | $ | 15,765,482 | $ | 15,822,772 | 186.84 | %",2021-09-30
+total_row,431,"Total Second Lien Debt | $ | 1,508,467 | $ | 1,528,857 | 18.03 | %",2021-09-30
+total_row,462,"Total Structured Finance Investments | $ | 197,900 | $ | 198,108 | 2.33 | %",2021-09-30
+total_row,465,"Total Unsecured Debt | $ | 17,039 | $ | 16,357 | 0.19 | %",2021-09-30
+total_row,481,"Total Equity Investments | $ | 168,231 | $ | 170,430 | 2.00 | %",2021-09-30
+total_row,481,Total Equity | $ | 402 | $ | 440 | 0.01 | %,2021-09-30
+total_row,481,"Total Equity | $ | 1,421 | $ | 1,420 | 0.02 | %",2021-09-30
+total_row,429,"Total First Lien Debt | $ | 28,076,107 | $ | 28,143,451 | 218.93 | %",2021-12-31
+total_row,468,"Total Second Lien Debt | $ | 1,799,656 | $ | 1,813,872 | 14.11 | %",2021-12-31
+total_row,511,"Total Structured Finance Obligations | $ | 287,275 | $ | 286,610 | 2.23 | %",2021-12-31
+total_row,512,"Total Unsecured Debt | $ | 6,061 | $ | 5,842 | 0.05 | %",2021-12-31
+total_row,535,"Total Equity Investments | $ | 314,520 | $ | 330,095 | 2.57 | %",2021-12-31
+total_row,535,"Total Equity | $ | 583 | $ | 1,614 | 0.01 | %",2021-12-31
+total_row,535,"Total Equity | $ | 213,821 | $ | 214,209 | 1.66 | %",2021-12-31
+total_row,503,"Total First Lien Debt | $ | 34,014,336 | $ | 33,999,054 | 189.92 | %",2022-03-31
+total_row,546,"Total Second Lien Debt | $ | 2,114,884 | $ | 2,113,723 | 11.80 | %",2022-03-31
+total_row,599,"Total Structured Finance Obligations | $ | 341,529 | $ | 332,554 | 1.86 | %",2022-03-31
+total_row,602,"Total Unsecured Debt | $ | 27,500 | $ | 26,088 | 0.15 | %",2022-03-31
+total_row,629,"Total Equity Investments | $ | 353,064 | $ | 374,346 | 2.08 | %",2022-03-31
+total_row,629,"Total Equity | $ | 583 | $ | 1,799 | 0.01 | %",2022-03-31
+total_row,629,"Total Equity | $ | 191,321 | $ | 191,709 | 1.07 | %",2022-03-31

@@ -1,0 +1,44 @@
+label,total_fv,seg_parsed_fv,cum_parsed_fv,kind,report_date
+Total Investments - non-controlled/non-affiliated,5432342000.0,5432342000.0,5432342000.0,segment,2021-03-31
+Total Investments - non-controlled/affiliated,401000.0,401000.0,5432743000.0,segment,2021-03-31
+Total Investments - controlled/affiliated,1421000.0,1421000.0,5434164000.0,segment,2021-03-31
+Total Investments - non-controlled/non-affiliated,11313993000.0,11313991000.0,11313991000.0,segment,2021-06-30
+Total Investments - non-controlled/affiliated,401000.0,401000.0,11314392000.0,segment,2021-06-30
+Total Investments - controlled/affiliated,1424000.0,1424000.0,11315816000.0,segment,2021-06-30
+Total Investments - non-controlled/non-affiliated,17736524000.0,17736533000.0,17736533000.0,segment,2021-09-30
+Total Investments — non-controlled/affiliated,440000.0,440000.0,17736973000.0,segment,2021-09-30
+Total Investments — controlled/affiliated,1420000.0,1420000.0,17738393000.0,segment,2021-09-30
+Total Investments - non-controlled/non-affiliated,30579871000.0,30579879000.0,30579879000.0,segment,2021-12-31
+Total Investments — non-controlled/affiliated,1614000.0,1614000.0,30581493000.0,segment,2021-12-31
+Total Investments — controlled/affiliated,214209000.0,214209000.0,30795702000.0,segment,2021-12-31
+Total Investments - non-controlled/non-affiliated,36845765000.0,36845764000.0,36845764000.0,segment,2022-03-31
+Total Investments — non-controlled/affiliated,1799000.0,1799000.0,36847563000.0,segment,2022-03-31
+Total Investment in Joint Venture,929910000.0,929910000.0,37777473000.0,segment_restated,2022-03-31
+Total Investments - non-controlled/non-affiliated,46908574000.0,46908576000.0,46908576000.0,segment,2022-09-30
+Total Investments - non-controlled/affiliated,2360000.0,2360000.0,46910936000.0,segment,2022-09-30
+Total Investments - controlled/affiliated,191830000.0,191830000.0,47102766000.0,segment,2022-09-30
+Total Investment Portfolio,48959003000.0,1856239000.0,48959005000.0,cumulative,2022-09-30
+Total Investments - non-controlled/non-affiliated,46543190000.0,46543191000.0,46543191000.0,segment,2022-12-31
+Total Investments - non-controlled/affiliated,2813000.0,2813000.0,46546004000.0,segment,2022-12-31
+Total Investments - controlled/affiliated (excluding investments in joint ventures),174211000.0,174211000.0,46720215000.0,segment,2022-12-31
+Total Investments in  Joint Ventures,2188394000.0,2188394000.0,48908609000.0,segment,2022-12-31
+Total Investments - non-controlled/non-affiliated,45606740000.0,45606740000.0,45606740000.0,segment,2023-03-31
+Total Investments - non-controlled/affiliated,3155000.0,3155000.0,45609895000.0,segment,2023-03-31
+Total Investments - controlled/affiliated (excluding Investments in Joint Ventures),176909000.0,176909000.0,45786804000.0,segment,2023-03-31
+Total Investment in Joint Venture Total,2118995000.0,2118995000.0,47905799000.0,segment,2023-03-31
+Total Investments - non-controlled/non-affiliated,45356457000.0,45377236000.0,45377236000.0,segment,2023-06-30
+Total Investments - non-controlled/affiliated,2779000.0,2779000.0,45380015000.0,segment,2023-06-30
+Total Investments - controlled/affiliated (excluding Investments in Joint Ventures),195424000.0,174645000.0,45554660000.0,unreconciled,2023-06-30
+Total Investments in Joint Ventures Total,2130208000.0,2130208000.0,47684868000.0,segment,2023-06-30
+Total Investments in Joint Ventures Total,2151389000.0,48413196000.0,48413196000.0,cumulative_to_balance_sheet,2023-09-30
+Total Investments in Joint Ventures Total,2161525000.0,50743911000.0,50743911000.0,cumulative_to_balance_sheet,2023-12-31
+Total Investments in Joint Ventures,2160691000.0,52512576000.0,52512576000.0,cumulative_to_balance_sheet,2024-03-31
+Total Investments in Joint Ventures,1956810000.0,55874996000.0,55874996000.0,cumulative_to_balance_sheet,2024-06-30
+Total Investments - non-controlled/non-affiliated,59166572000.0,61663262000.0,61663262000.0,cumulative_to_balance_sheet,2024-09-30
+Total Investments in Joint Ventures,1914411000.0,68419777000.0,68419777000.0,cumulative_to_balance_sheet,2024-12-31
+Total Investments in Joint Ventures,1849785000.0,69189703000.0,69189703000.0,cumulative_to_balance_sheet,2025-03-31
+Total Investments in Joint Ventures,1863925000.0,73175652000.0,73175652000.0,cumulative_to_balance_sheet,2025-06-30
+Total Investments in Joint Ventures,1835853000.0,76531118000.0,76531118000.0,cumulative_to_balance_sheet,2025-09-30
+Total Investments in Joint Ventures,1791813000.0,82199346000.0,82199346000.0,cumulative_to_balance_sheet,2025-12-31
+Total Investments in Joint Ventures,1636826000.0,80469381000.0,80469381000.0,cumulative_to_balance_sheet,2026-03-31
+Total Investments in Joint Ventures,1660325000.0,77649107000.0,77649107000.0,cumulative_to_balance_sheet,2026-06-30
